@@ -1,0 +1,1136 @@
+,qID,sentence,option1,option2,label
+0,3CESM1J3EKH9XVP8YOWOQ1FHRXB6WZ-2,"John tidak bisa melihat ikan di tangki, tetapi jelas melihat ikan di akuarium, karena air di _ itu bersih.",tangki,akuarium,2
+1,3J06WJ78HPYHXW449MZ0GRC21HZVV4-1,Dia menyukai kulit pohon maple dan bukan pohon pinus karena _ itu kasar.,pohon pinus,pohon maple,1
+2,3U74KRR67OZPCZR620DU5SU3GNHTNP-1,"Lindsey meminta nasihat Megan tentang cara sopan berkata tidak pada  pria yang mengajaknya kencan, karena _ tidak ingin menyakiti perasaannya.",Lindsey,Megan,1
+3,3VIVIU06FKAEREROCPNQM8FM769MIN-1,Monica adalah seorang pegulat profesional tetapi Cynthia bukan karena _ disiplin pergi ke gym.,Monica,Cynthia,1
+4,3CIS7GGG67X0I6TI960LK1MWLVOUE1-2,"Ryan menabrak kelinci percobaan Ian dengan mobilnya, menyebabkan _ merasa sangat sakit hati.",Ryan,Ian,2
+5,3538U0YQ1H88PQGVPXOQFAHWKZL3FI-1,"Victoria tidak tahu bagaimana memotivasi Lindsey untuk berolahraga setiap hari, tetapi _ tahu dia akan membuat rencana.",Victoria,Lindsey,1
+6,3UEDKCTP9X416V9WSKID84LHXXOK76-1,Victoria lebih modis daripada Elena tetapi _ selalu khawatir meninggalkan ketombe di bajunya.,Victoria,Elena,1
+7,33QQ60S6AUW1RGEO1Z16ZCKTSIS0UE-2,Jim senang menukar mejaku dengan komputernya. Dia merasa _nya akan bekerja dengan buruk.,meja,komputer,2
+8,35YHTYFL1IHS1ZIE97UWY59FBFGFVL-1,"Meskipun Samuel lebih menyukai sepatu kets daripada Robert, _ mengabaikan sepasang sepatu Converse yang bagus itu.",Samuel,Robert,1
+9,3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-1,"Sarah mengambil kelas pidato Mary; ketika dia lulus ujian akhir, _ merayakannya dengan es krim.",Sarah,Mary,1
+10,368IUKXGA564JXT0246T69JC83I6P9-1,Memasang kulkas jauh lebih mudah daripada memasang kompor bagi Roger. Dia sebelumnya telah memasang _ sebelumnya di rumah yang berbeda.,kulkas,kompor,1
+11,3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-1,"Terorisme menjadi perhatian di pedesaan, tetapi hampir tidak menjadi masalah di kota, karena _ memiliki banyak konflik di antara orang-orang.",pedesaan,kota,1
+12,378G7J1SJNCDAAIN46FM2P7T6B0EWL-2,"Brian suka membersihkan dengan cuka tetapi Kenneth membenci baunya, jadi _ harus terbiasa dengannya.",Brian,Kenneth,2
+13,3TC2K6WK9G0VV4BITLSFUA7A3MG280-2,Tukang cukur mencoba menggunakan bahan kimia untuk menghilangkan bau dari rambut pria itu tetapi _ itu terlalu lemah.,bau,bahan kimia,2
+14,3LOJFQ4BOXD2TFBZZZ9ZGY75VFRDKZ-2,Ben harus membuat jus wortel dan jus apel. Semua orang menyukai _ karena rasanya yang tidak biasa.,jus apel,jus wortel,2
+15,3ACRLU860NC6SIL5PH7QND603EIEB1-2,"Ketika membuka tentang naksir mereka, Kenneth menghela nafas pada Jeffrey karena _ lupa siapa naksir mereka.",Kenneth,Jeffrey,2
+16,3IWA71V4TKUOMVUY8TSASKTOZWR6XV-1,Patricia memilih kultivar yang kuat untuk tumbuh tidak seperti Tanya karena _ memiliki tanah yang sangat berbatu.,Patricia,Tanya,1
+17,3D17ECOUOET25MNGY0X5YAPUVXF131-1,Krim bekerja lebih baik untuk Benjamin daripada untuk Kenneth karena _ lebih baik dalam menerapkannya secara teratur.,Benjamin,Kenneth,1
+18,35XW21VSVGCJFACZHPGPQX6KLGNSLO-1,Pengadilan negara suka menyimpan catatan penting mereka secara elektronik. _ sangat vital.,catatan,pengadilan,1
+19,38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-1,John merawat pot sementara itu diangkut dalam kotak namun pada akhirnya patah. _ rapuh.,pot,kotak,1
+20,34F34TZU7YDZ9A684N16BY4X9YM2J9-1,"Nongkrong di pesta yang ada minuman bir dan sodanya, saya ingin mabuk jadi saya mengambil _ dari pendingin.",bir,soda,1
+21,3M67TQBQQHMKECPWBSR80OLJU4MA97-2,Kucing itu lebih menyukai Kayla daripada Laura karena _ sering memberikan susu basi pada kucing itu.,Kayla,Laura,2
+22,3D3B8GE892PR1GVY0B95QJAETPU9PS-2,Kenneth dapat menghasilkan dolarnya lebih jauh daripada Ian karena _ tidak pernah belajar bagaimana caranya menjadi sangat murah.,Kenneth,Ian,2
+23,3UEDKCTP9X416V9WSKID84LHXNJ7K4-1,Saya pergi ke tambang untuk mencari berlian tetapi yang saya temukan hanyalah kuarsa dan topas. Saya memutuskan _ karena bersinar kuning.,topas,kuarsa,1
+24,3LAZVA75NIPYGWYY02HBRWXADAS2O8-2,"Kemarilah dan lihat kulit kepala saya hari ini, Natalie memberi tahu Katrina. _ benci memberikan pendapatnya.",Natalie,Katrina,2
+25,385MDVINFETLLQ4FI7QDZ5KLBPRWJV-1,"Kamar tidurnya harus memiliki meja berlemari diganti dengan kabinet baru, karena _ terlalu penuh untuk semua pakaian baru.",meja berlemari,kabinet,1
+26,37PGLWGSJT4J1QRLRDAA7VNINIGIKJ-1,"Kenny ingin menikahi Paulie di katedral tetapi Paulie takut tempat yang besar, sehingga upacara pernikahan mereka berlangsung di sebuah gua karena _ sangat luas.",katedral,gua,1
+27,3BC9H1KCYUAWMQ07K9FGHUB108VWY7-2,Jan menuangkan seluruh cangkir jus lemon ke dalam mangkuk pisang sampai _nya penuh.,cangkir,mangkuk,2
+28,3UQVX1UPFSFDDF6FYHF01V1SF7V02Z-2,"Gmail sangat ketinggalan, pikir Samantha saat Jennifer membicraakannya, _ tidak tahu tren baru.",Samantha,Jennifer,2
+29,3L2OEKSTWBO0QE3W64BAVCWO74EY8W-2,"Ketika dia masih balita, saudara laki-laki saya selalu memetik jeruk dari salad buah dan hanya makan stroberi karena _ itu manis.",jeruk,stroberi,2
+30,36FFXPMST9M2VM1GJNKIE03C7D6OHH-1,"Neil membawa kacang ke pesta sedangkan Justin membawa balon, _ tidak menyadari alergi makanan.",Neil,Justin,1
+31,3BCRDCM0OF8I2VVR9ADL2QLM3QAK6O-2,"Telinganya ditindik Sabtu lalu dengan pelubang, bukannya alat pemotong, karena _nya kotor.",pelubang,alat pemotong,2
+32,37OPIVELUWHSN76MT2R0537F69GHAM-1,"Billy tahu ular lego-nya lapar, tetapi tidak tahu apakah itu akan memakan tikus, karena _ itu tidak hidup.",ular,tikus,1
+33,3TL87MO8CMNAB57DB5GQJYN5RBKLFQ-1,"Robert tidak sabar menunggu pohon pir itu berbuah, meskipun Jeffrey kurang bersemangat. _ selalu menyukai buah pir.",Robert,Jeffrey,1
+34,3TLFH2L6Y9METO36WJ3AL63XCGGT2O-1,Eric berpikir pakaian itu terlihat sangat bagus tetapi Kevin tidak setuju. _ membeli pakaian itu.,Eric,Kevin,1
+35,3D5G8J4N5A2NQF18KTNLNB089IUVTR-2,"Kuda itu berlari melewati Rebecca dan mendekati Christine, karena _ memiliki gula batu di sakunya.",Rebecca,Christine,2
+36,34OWYT6U3WFZKU8UNGJLHM92CO4I9P-1,"Mobil mewah Bill yang baru tidak muat di garasi lamanya, _nya terlalu sempit.",garasi,mobil,1
+37,3D3B8GE892PR1GVY0B95QJAETLY9PO-2,Mudah bagi Joel tetapi tidak bagi Kevin untuk bersenang-senang dalam perjalanan berkemah karena _ belum belajar bagaimana menikmati alam bebas.,Joel,Kevin,2
+38,3BDORL6HKKBEBRIGPNNLX4B156LRCG-2,"Wanita itu membelokkan sepedanya untuk menghindari kereta bayi, tetapi menabrak dinding. _nya tidak rusak.",sepeda,kereta bayi,2
+39,3BVS8WK9Q0TI8NNRL0XH8S4S0SQIBQ-2,"Sambil berdiskusi tentang apa yang harus dibuat untuk makan malam, Leslie menyarankan untuk membuat nasi; Joseph lebih suka pasta. _ setuju untuk membuat nasi sebagai gantinya.",Leslie,Joseph,2
+40,3BO3NEOQM0FDPDIZFMXLDHKMI6MAIW-1,Putra Pak Tani melihat sebuah lubang di pagar kayu jadi dia mencoba memukul bola golf melaluinya; dia tidak menyadari bahwa _ itu terlalu besar.,bola,lubang,1
+41,38G0E1M85OJHKHF44WPVK5AIL6SUV4-2,Donald lebih miskin dari Leslie karena perusahaan telah menemukan minyak pada properti dari _.,Donald,Leslie,2
+42,3N2YPY1GI8C0VLIIEWAQGNOFZH8EVF-1,"Makanan anjing lebih banyak daripada minumannya, maka James memutuskan untuk menambahkan lebih banyak minuman karena _nya lebih berat.",makanan,minuman,1
+43,3JVP4ZJHDR6WIPJO7ICSG9WHX9II06-2,Dengan latihan pemain skateboard bisa melompati rel tetapi tidak pada tanjakan karena _nya tinggi.,rel,tanjakan,2
+44,3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-1,"Karena Benjamin makan makanan penutup yang tidak sehat jauh lebih sering daripada Brett, _ memiliki kemauan yang lemah.",Benjamin,Brett,1
+45,371Q3BEXDJNIEOSAGOJYQA5QOKDZST-2,"Meskipun Christine kehilangan lebih banyak bobot daripada Jessica, _ masih memakan lebih sedikit permen secara keseluruhan meskipun demikian.",Christine,Jessica,2
+46,388CL5C1RJLUP1YJ6V4QMJZI7S1LHW-2,"Matthew pergi ke dokternya, Randy karena inkontinensinya sehingga _ memberinya obat.",Matthew,Randy,2
+47,3BO3NEOQM0FDPDIZFMXLDHKMI6MAIW-2,Putra Pak Tani melihat sebuah lubang di pagar kayu jadi dia mencoba memukul bola golf melaluinya; dia tidak menyadari bahwa _nya terlalu kecil.,bola,lubang,2
+48,3UEDKCTP9VOMC6AP8M6DG6X993R7K1-1,Juru masak menambahkan biji labu dan tomat ke salad sebelum menyajikannya; _itu berwarna merah.,tomat ,biji,1
+49,3BCRDCM0ODS386WKPC1LASXD98SK6R-1,Mata Lindsey berair tetapi Patricia tidak karena _ sedang memotong bawang di dapur.,Lindsey,Patricia,1
+50,3MWOYZD5WX29Z7MY6JRVBIOGHH3NO4-1,"Saat makan malam, Steven kelaparan tetapi Ian sudah kenyang, jadi _ memakan pizza dengan cepat.",Steven,Ian,1
+51,39AYGO6AFHYJA1GU6N51UI2QXN56N9-1,Biji pohon ek yang saya makan untuk camilan membuat gigi saya terkelupas karena _ itu keras.,biji pohon ek,gigi,1
+52,3LN50BUKPXP1W7VE96OVNQPIO13PLD-2,"Setelah kecelakaan lalu lintas yang mengerikan, Justin membayar 3 juta kepada Benjamin, karena _ terluka parah.",Justin,Benjamin,2
+53,3IYI9285WSYXD3Z3HIECVDPAQCIJCC-2,Ian umumnya memiliki lebih banyak uang tunai di dompet mereka daripada Nick karena _ dibayar dengan setoran langsung ke rekeningnya.,Ian,Nick,2
+54,3LVTFB9DE7W6ARISYS64A3AJV6LQGT-2,"Berbeda dengan Amy yang pemalu, Monica adalah seorang ekstrovert, jadi _ menantikan untuk menghadiri pesta besar itu.",Amy,Monica,2
+55,3ABAOCJ4RAI621EE9V4ZN8UGRD1QMB-2,"Pada hari binatu, Mary memiliki banyak pakaian putih dan banyak warna. Dia mengatur suhu ke dingin untuk _.",putih,warna,2
+56,35A1YQPVFEEGJ76IKQ645640QVYI5H-2,"Karena Joseph memiliki fobia laba-laba dan Adam mencintainya, _ ingin membeli hewan peliharaan tarantula.",Joseph,Adam,2
+57,34KYK9TV2TMMWQPUAA3V4SYOYNOBSB-1,"Mereka membeli meja dapur bukan meja kopi, karena _ cukup tinggi.",meja dapur,meja kopi,1
+58,37J05LC5AXH7IV5HHE9NFJ7SBB3DJD-1,"Setelah Joel mulai berkencan dengan mantan pacar Dennis, _ mencoba memainkan hubungan baru.",Joel,Dennis,1
+59,3M0556243SI0Z5AYNIW5WQRUW20FNU-2,Amy ingin kembali bekerja setelah pensiun tetapi Carrie tidak melakukannya karena _ sibuk.,Amy,Carrie,2
+60,36FFXPMSTB2HPB0N3LWI6YRKVF7HOM-1,Kayla tidak menempatkan labu dan permen di teras mereka seperti yang Patricia lakukan karena _ tidak merayakan Halloween.,Kayla,Patricia,1
+61,3AFT28WXLHGHL6B793E36AS0W9WIOR-1,"Sore itu, setelah dia memperbaiki gagang sepeda dengan lem, _nya terlepas karena itu dimaksudkan untuk kayu.",lem,gagang sepeda,1
+62,3CMIQF80GNOPJ9UF2HLI6E9MDZWQ6C-1,Jim ingin menjadi jahat sehingga dia memutuskan untuk terlibat dalam perampokan dan coretan. Dia menyayangkan _ itu karena konsekuensinya yang ekstrem.,perampokan,coretan,1
+63,39O6Z4JLX2VU7WASP3OICELEMEIXVC-1,Kompleks apartemen menerima Jason sebagai penyewa dan bukan Matthew karena _ memiliki pekerjaan tetap.,Jason,Matthew,1
+64,3CMV9YRYP5F5AWSGETJBQU35DCRJLH-2,"Ketika Matthew melangkah dalam kotoran anjing mengenakan sepatu barunya, Dennis tertawa, jadi ibu memberi _ tatapan marah.",Matthew,Dennis,2
+65,3D4BBDG7ZJA1MEWLYVYP74WTNL2C3N-1,"Jennifer membutuhkan hasil bumi, jadi dia pergi ke pasar dan dia memilih brokoli daripada selada karena _ terlihat segar.",brokoli,selada,1
+66,3KLL7H3EGFFCFV9K4XIW1QLSR84HVO-1,"Rambut Emily baru-baru ini diwarnai untuk menghilangkan uban, tetapi Erin tidak pernah beruban, jadi _ lebih tua.",Emily,Erin,1
+67,39WSF6KUV4Z5519LDKOCLVU73ZFOED-1,Natalie lebih buruk dalam membedakan nuansa warna daripada Elena karena _ buta warna.,Natalie,Elena,1
+68,3KLL7H3EGFFCFV9K4XIW1QLSR84HVO-2,"Rambut Emily baru-baru ini diwarnai untuk menghilangkan uban, tetapi Erin tidak pernah beruban, jadi _ lebih muda.",Emily,Erin,2
+69,36AZSFEYZ4YNUT7RK7W0NHUM8TABV2-2,"Mary tidak suka menjadi bagian dari kelompok manapun tidak seperti Jennifer, karena fakta bahwa _ adalah orang yang percaya diri.",Mary,Jennifer,2
+70,3JU8CV4BRLAU83Z420SNN953TZOPOL-1,Pria itu akan meletakkan perahunya di danau tetapi _ itu terlalu dangkal.,danau,perahu,1
+71,3AA88CN98RHKLF5XFT8DLH5F2X4YKX-1,Polisi ingin berbicara dengan Angela dan bukan Jennifer sehubungan dengan pembunuhan itu karena _ ada di tempat kejadian.,Angela,Jennifer,1
+72,356TQKY9XHBHBU7VJVLAIZCQ2RJ87O-1,Tanamannya tidak tumbuh karena terlalu banyak yang ditanam di satu tempat. _nya terlalu kecil.,tempat,tanaman,1
+73,3MQY1YVHS5YTRR8WGVOPDALJZ8KB2U-1,Mobil tua tidak akan muat di dalam garasi yang berantakan karena _ terlalu penuh.,garasi,mobil,1
+74,39WSF6KUV4Z5519LDKOCLVU73ZFOED-2,Natalie lebih buruk dalam membedakan nuansa warna daripada Elena meskipun _ buta warna.,Natalie,Elena,2
+75,37VHPF5VYC18TM3KQEHL6NGWAZ08CP-2,"Rachel memasukkan Tanya dalam video YouTube-nya, tetapi _ sangat marah karena dia gagal mendapatkan izin.",Rachel,Tanya,2
+76,3MYASTQBG9P3Y781W25W4I7MIZ9QDT-1,"Kakinya menjadi lebih kuat karena menarik kereta luncur daripada mendorong balok, meskipun berat _ lebih ringan.",kereta luncur,balok,1
+77,3N7PQ0KLI73GJCGZUM4KXSWW8I4E3D-1,Neil berjuang dengan kecemasan remaja ketika Logan menawarkan untuk membantu _ melewati masa sulit.,Neil,Logan,1
+78,37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-1,Membagi permen itu lebih sulit daripada membagi apel karena setiap anak ingin _.,permen,apel,1
+79,3N5YJ55YXG153ETQC2ADIPG345GANC-1,Koki memutuskan untuk menyimpan makanan dalam wadah tetapi _nya terlalu besar.,makanan,wadah,1
+80,3D17ECOUOET25MNGY0X5YAPUVXF131-2,Krim bekerja lebih baik untuk Benjamin daripada untuk Kenneth karena _ buruk dalam menerapkannya secara teratur.,Benjamin,Kenneth,2
+81,3BA7SXOG1JOCZOS38B7GVIFIFHY8RT-2,"Nelson mengalahkan William untuk memimpin dalam drama sekolah, karena _ memiliki suara musik yang lebih buruk.",Nelson,William,2
+82,3UZUVSO3P99H5YO9049ZTR528ADMEV-2,Anak laki-laki itu mendapat masalah karena mencuri cincin itu tetapi dia tidak menyentuh kalung itu karena _ itu bernilai sangat kecil.,cincin,kalung,2
+83,366FYU4PTGN7LLPZVUKJMGPQQDWEK0-1,Victoria menggunakan lebih banyak minyak saat menggoreng ayam daripada Maria karena _ tidak peduli dengan kolesterol.,Victoria,Maria,1
+84,3N7PQ0KLI73GJCGZUM4KXSWW8I4E3D-2,Neil berjuang dengan kecemasan remaja ketika Logan menawarkan bantuan dan _ berhasil melewati masa sulitnya.,Neil,Logan,2
+85,38F60IALAIVMR3ZZ1UBWUGYRA2T0TS-1,Don memiliki lebih banyak kerutan di dahinya daripada di lehernya karena kulit di _ tertutup.,leher,dahi,1
+86,3VGET1QSZ0XD7646X0PG4HR4RR5W7K-2,"Samantha cemburu dengan kesehatan Angela, jadi _ menyuruh mereka untuk mulai mengonsumsi lebih banyak vitamin.",Samantha,Angela,2
+87,38DCH97KHJGG1T8T6YR77G2ZNUIJQY-1,Michael membeli ulat burung sebagai makanan hewan peliharaan tetapi Kenneth tidak membeli karena _ memiliki kadal sebagai hewan peliharaan.,Michael,Kenneth,1
+88,3J06WJ78HNI2375XPON0OTOTBM2VV6-2,"Dokter memberi tahu Joel bahwa dia perlu berhenti merokok, sedangkan William tidak perlu, karena _ adalah perokok biasa.",Joel,William,2
+89,3JU8CV4BRLAU83Z420SNN953TZOPOL-2,Pria itu akan meletakkan perahunya di danau tetapi _ itu terlalu besar.,danau,perahu,2
+90,3TC2K6WK9G0VV4BITLSFUA7A3MP82F-2,Perban yang dibelinya untuk menutupi luka bakar tidak muat karena _nya terlalu kecil.,luka bakar,perban,2
+91,3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-2,Ide diberikan kepada Steven untuk direnungkan dan bukan Ryan karena _ kurang kreatif.,Steven,Ryan,2
+92,37MQ8Z1JQEUAAA206PQ9TNVCRPFY2D-1,Logan tahu Ryan takut tikus di rumah sehingga _ pergi dan memasang jebakan.,Logan,Ryan,1
+93,3D5G8J4N5A2NQF18KTNLNB08EVBTV1-2,"Saya memanggang daging sapinya terlalu lama, tetapi tidak dengan dada ayamnya, sehingga _nya kering.",dada ayam,daging sapi,2
+94,3D5G8J4N5A2NQF18KTNLNB08EVBTV1-1,"Saya memanggang daging sapinya terlalu lama, tetapi tidak dengan dada ayamnya, sehingga _nya berair.",dada ayam,daging sapi,1
+95,3A3KKYU7P5VBMYA0L435FXC2FNHWM2-2,Kandang burungnya lebih bersih daripada kandang anjing karena _nya lebih sering digunakan.,kandang burung,kandang anjing,2
+96,3D0LPO3EADD3B6QCDL06SYMOM5COYB-1,Tina meminta para tamu untuk melepas sepatu mereka ketika memasuki rumah karena dia memiliki karpet baru. Katanya _nya sering kotor.,sepatu,karpet,1
+97,341H3G5YF2SIDF8Y7M0EG4Z8ULKZ0L-1,"Rutinitas baru saya akan menyesuaikan jadwal saya, karena _nya sangat cepat.",rutinitas,jadwal,1
+98,37VHPF5VYC18TM3KQEHL6NGWAZ08CP-1,"Rachel memasukkan Tanya dalam video YouTube-nya, tetapi _ menyesal karena dia gagal mendapatkan izin.",Rachel,Tanya,1
+99,388CL5C1RL19JQXQQTGQEHNR14ULHS-2,Jari James tidak bisa masuk ke hidungnya saat gatal karena _nya sangat besar.,hidung,jari,2
+100,3KA7IJSNW63AP9AVYVN1HP54M5LBPT-1,"Christine memiliki pernikahan terburuk daripada Rebecca karena dalam pernikahan _, cuacanya buruk.",Christine,Rebecca,1
+101,3LVTFB9DE5GRG2JLEUU4I5MB7C2GQ5-2,Ben pergi ke restoran dan terjebak di antara memesan teh jahe atau peppermint. Dia memilih _ karena dia menyukai kesegarannya.,jahe,mint,2
+102,3MWOYZD5WX29Z7MY6JRVBIOGHF0NOX-2,"Katrina mewariskan semua pengalamannya kepada Patricia, karena _ telah memilih untuk menjadi murid mereka.",Katrina,Patricia,2
+103,3JUDR1D0D6P118BEFF9FG1SAXQF2QK-1,Pria itu mencoba menggunakan remote untuk menyalakan televisi tetapi _ terlalu jauh.,remote,televisi,1
+104,3IWA71V4TKUOMVUY8TSASKTOZWR6XV-2,Patricia memilih kultivar yang kuat untuk tumbuh tidak seperti Tanya karena _ memiliki tanah yang sangat subur.,Patricia,Tanya,2
+105,3CO05SML7V3UHZN0D7U12390R1KR0I-2,Kesehatan mental Brian jauh lebih buruk daripada William karena _ menemui terapis.,Brian,William,2
+106,34F34TZU7YDZ9A684N16BY4X9YM2J9-2,"Nongkrong di pesta yang ada minuman bir dan sodanya, saya ingin tetap sadar jadi saya mengambil _ dari pendingin.",bir,soda,2
+107,3D5G8J4N5A2NQF18KTNLNB08E0YTVY-2,Michael memiliki kehidupan yang begitu mudah dibandingkan dengan Steven karena _ berasal dari keluarga miskin.,Michael,Steven,2
+108,3D06DR5225HZLW8Q01VD5AR3ZJPAM3-1,"Patricia harus memberikan pidato publik, tetapi sangat gugup dibandingkan dengan Jennifer, karena _ pemalu.",Patricia,Jennifer,1
+109,37SOB9Z0SUBUPIQRB8ROANMHJ463L8-1,Dia ingat betapa menyebalkannya membersihkan kursi kayunya jadi dia membeli meja plastik sebagai gantinya. Membersihkan _ memakan waktu.,kursi,meja,1
+110,3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-1,Jennifer lebih baik dalam olahraga daripada Laura karena _ jauh lebih atletis.,Jennifer,Laura,1
+111,33QQ60S6AUW1RGEO1Z16ZCKTSIS0UE-1,Jim senang menukar mejaku dengan komputernya. Dia merasa _nya akan bekerja dengan baik.,meja,komputer,1
+112,388CL5C1RJLUP1YJ6V4QMJZI7S1LHW-1,"Matthew pergi ke dokternya, Randy karena inkontinensianya sehingga _ diberi obat.",Matthew,Randy,1
+113,3LVTFB9DE7W6ARISYS64A3AJV4WGQQ-2,Pisau cukur Carrie jauh lebih tumpul daripada milik Patricia karena _ membeli yang baru kemarin.,Carrie,Patricia,2
+114,3MVY4USGB6LHP94TWMJCYHESZZOSIA-2,Amy tidak harus mendapatkan pengacara meskipun Monica melakukannya karena _ tidak dapat membatalkan tuntutan mereka.,Amy,Monica,2
+115,3TD33TP5DNGIWU30TAH4JS4ICCTABG-2,Cynthia mengobati infeksi pada Felicia di rumah sakit setelah _ mendapatkan luka di kakinya.,Cynthia,Felicia,2
+116,38Z7YZ2SB5GK6IONOG67VFNZAHOIQK-1,"Justin suka kubis, brokoli dan sawi hijau Sedangkan Hunter menyukai buah-buahan. _ menumbuhkan kebun setiap tahun.",Justin,Hunter,1
+117,3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-1,Ben harus berhenti makan cokelat atau kacang. Dia memilih untuk berhenti makan _ karena rasanya manis.,cokelat,kacang,1
+118,39HYCOOPKOJXJ3B2KBMFVBZ9KMMDM8-1,Felicia tiba-tiba membuat telur goreng untuk sarapan di pagi hari untuk Katrina karena _ berutang budi.,Felicia,Katrina,1
+119,39WICJI5ATQZ0I8O6B6XQ4963XJZ3G-2,"Kenneth mengunduh info menggunakan komputernya sementara Logan menggunakan tablet, _ menggunakan tabletnya untuk mengunduh file Excel.",Kenneth,Logan,2
+120,374UMBUHN5NRR6V8TCSGXJCJTQVTC6-2,"Saya menggunakan kapak untuk menebang pohon, tetapi harus mendapatkan kapak yang lebih besar karena _ itu terlalu tebal.",kapak,pohon,2
+121,3L1EFR8WWVJU4S5B66P06NKIKRHF9X-2,"Randy bermimpi bahwa teman mereka, Jason, akan mengalami kecelakaan mobil setelah bekerja. _ sibuk dan tidak tahu temannya mencoba menghubunginya.",Randy,Jason,2
+122,3TC2K6WK9IGAPTAPDJ4FM8VIR2Z82S-1,"Saya menuangkan air dari cangkir ke pot untuk membuat bunga tumbuh, dan saat saya menuangkan, _ menjadi lebih ringan.",cangkir,pot,1
+123,3B9XR6P1WG9TXN64NGUHCR701UHJBM-1,"Maria berjuang dengan ujiannya dan meminta bantuan dari Rebecca, karena _ ingin lebih sukses.",Maria,Rebecca,1
+124,3UDTAB6HH6XODZREJQUFBI96LIB90G-2,Brian beristirahat di ranjang besar saat Kevin belajar karena _ sangat tertinggal di sekolah.,Brian,Kevin,2
+125,3BJKPTD2QEQARXJYV7UBECZEIS5TRV-1,"Pria itu meninggalkan sepatunya di teras, tetapi membawa payungnya ke dalam, karena _nya basah.",sepatu,payung,1
+126,3BAKUKE49JQ9ID7PTOA186GJQBU1RE-1,Dia menggunakan mentega untuk menumis udang dengan terong dan pasta. _nya berserat.,pasta,terong,1
+127,3BA7SXOG1L4RTDRAS9JGNG3R5JSR8L-2,"Michael membutuhkan Craig untuk membawa keranjangnya sepanjang perjalanan pulang, karena _ sehat secara fisik.",Michael,Craig,2
+128,371DNNCG440PF35VC0CBVXG033L8TY-2,Robert membantu menciptakan sensasi video virus internet dari Kyle ketika _ menari di video.,Robert,Kyle,2
+129,3MQKOF1EE2MTOF5GODS24910D6FWDS-2,"Perusahaan asuransi menyalahkan Leslie, bukan Logan, atas kecelakaan itu karena _ mendapat lampu hijau.",Leslie,Logan,2
+130,38G0E1M85M32QSGXKYDVS7MAXE5VUR-2,Hunter dengan percaya diri menunjukkan Adam tangki air yang ia bangun akhir pekan ini. _ terkesan.,Hunter,Adam,2
+131,37S0QRNUFDULB8CET0DGWZ8MFNK88Y-2,"Untuk membersihkan lantai saya, saya menggunakan sapu dan kadang-kadang juga menggunakan pel, karena saya ingin teliti hari ini saya menggunakan _ di lantai.",sapu,pel,2
+132,3MD8CKRQZZL1J5OMZF47K8OWQCURJX-1,"Dennis ingin mengajar biologi, tetapi Lawrence berpikir dia harus mengajar kimia sehingga _ mengalah dan mengajar kimia.",Dennis,Lawrence,1
+133,35YHTYFL1IHS1ZIE97UWY59FBTRVF4-1,Dennis memundurkan Nelson hingga ke sudut kecil selama perdebatan sengit karena _ dominan.,Dennis,Nelson,1
+134,3M7OI89LVYMLP8KWXZKNM9K59J76CX-2,"Saya memasang rumah burung baru di atas tanah di luar, tetapi harus menopangnya lebih tinggi dari kucing saya karena _nya terlalu tinggi.",rumah burung,tanah,2
+135,3M4KL7H8KVL125AYH2V35D1E5OH167-1,"Amy benci bau pemutih, tetapi Kayla tetap menggunakannya untuk membersihkan sehingga _ selalu keluar rumah.",Amy,Kayla,1
+136,388CL5C1RL19JQXQQTGQEHNR2ADHLK-2,"Steven melakukan yang terbaik untuk membuat Logan kesal sepanjang waktu, karena _ dengan mudah gelisah.",Steven,Logan,2
+137,3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-2,Jessica lebih kurus dari Rebecca karena _ makan cokelat hampir setiap hari sebagai camilan.,Jessica,Rebecca,2
+138,3JHB4BPSFMNRVHVKKM0UIMOXSZZ9Q9-1,"Doris berharap dia pergi ke konser rock daripada pertunjukan seni, karena _ itu membosankan.",pertunjukan seni,konser rock,1
+139,39HYCOOPKOJXJ3B2KBMFVBZ9KMMDM8-2,Felicia tiba-tiba membuat telur goreng untuk sarapan di pagi hari untuk Katrina dan sekarang _ berutang budi.,Felicia,Katrina,2
+140,3UOMW19E6D4P64KISGAIU365DNSC5H-1,Anak-anak hanya bisa menghitung jumlah bola dalam satu toples dan bukan kacang di toples lainnya karena _nya lebih mudah diatur.,bola,kacang,1
+141,3LN3BXKGC29BUOEEA15A2SS5J5DGWU-2,"Carrie berurusan dengan kematian anjing mereka seperti di mana Amy kehilangan kucing mereka, _ adalah pecinta kucing.",Carrie,Amy,2
+142,3AFT28WXLHGHL6B793E36AS0W9WIOR-2,"Sore itu, setelah dia memperbaiki gagang sepeda dengan lem, _nya lepas karena butuh produk yang lebih kuat.",lem,gagang sepeda,2
+143,3D1UCPY6GG7KGM71XL6KDKC292G83L-1,Peter perlu melakukan pekerjaan yang konsisten dan dapat menggunakan kunci pas daripada mengganti obeng karena _ pas itu tahan lama.,kunci,obeng,1
+144,3LEG2HW4UH1J48KCLXALW0C5GVQ2FZ-1,"Berat badan Lindsey bertambah sedikit, jadi dia memberi Rebecca beberapa tank top sudah tidak muat dengan _.",Lindsey,Rebecca,1
+145,3LN3BXKGC29BUOEEA15A2SS5J5DGWU-1,"Carrie berurusan dengan kematian anjing mereka seperti di mana Amy kehilangan kucing mereka, _ adalah seorang pecinta anjing.",Carrie,Amy,1
+146,35YHTYFL1G1D7AJ7P9IW67L7IASVFR-1,"Karena Robert mengalami kerontokan rambut dan Brian tidak, _ cemburu dengan rambutnya.",Robert,Brian,1
+147,3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-2,Jelas Jessica paham dan terhibur dengan artikel dari Monica karena _ adalah penulisnya.,Jessica,Monica,2
+148,3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-2,Ada lebih banyak buku di perpustakaan daripada di toko buku karena _ lebih kecil.,perpustakaan,toko buku,2
+149,3BFF0DJK8ZQMSCJBAWUG4M493OESTT-2,Brett diberitahu oleh Dennis bahwa dia menderita anemia sehingga _ menghabiskan waktu menjawab pertanyaan dari orang lain tentang suplemen.,Brett,Dennis,2
+150,3LVTFB9DE7W6ARISYS64A3AJV6LGQJ-1,Kevin tersenyum kepada Robert di pesta pernikahan itu meskipun _ mendapat pujian berisi celaan.,Kevin,Robert,1
+151,3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-2,"Rumah yang dirancang untuk Benyamin oleh Joseph itu indah, jadi _ memasukkannya dalam portofolionya.",Benjamin,Joseph,2
+152,3A3KKYU7P5VBMYA0L435FXC2FNHWM2-1,Kandang burungnya lebih kotor daripada kandang anjing karena _nya lebih sering digunakan.,kandang burung,kandang anjing,1
+153,3MWOYZD5WX29Z7MY6JRVBIOGHH3NO4-2,"Saat makan malam, Steven kelaparan tetapi Ian sudah kenyang, jadi _ memakan pizzanya perlahan.",Steven,Ian,2
+154,3JU8CV4BRNQ92SYBMY4NF7TBHS6OPV-2,"Craig terkena flu biasa dan menjauh dari Dennis, karena _ tidak ingin sakit.",Craig,Dennis,2
+155,35F6NGNVMAX09EZJMTW59V8DG09T7V-2,Aku mencium bau kue dan bertanya-tanya apakah ibu sedang membuat havermut atau keping cokelat. Aku mencium bau cokelat leleh jadi saya berlari ke bawah untuk mendapatkan kue _.,havermut,keping cokelat,2
+156,3VIVIU06FKAEREROCPNQM8FMCRUIMF-1,Ortodontis memuji Christopher dan bukan Jason karena _ ingat untuk menyikat giginya setiap hari.,Christopher,Jason,1
+157,3ACRLU860NC6SIL5PH7QND603HYBEK-2,Elena lebih kurus dari Lindsey karena _ tidak suka makan banyak kubis dan sayuran.,Elena,Lindsey,2
+158,34HEO7RUG6SQICLI59RUR9LD56QRAA-2,"Saya pergi ke salon penggelapan warna kulit untuk berjemur, daripada menggunakan sinar matahari, karena dengan _ itu memakan waktu dan saya sibuk.",salon,sinar matahari,2
+159,388CL5C1RL19JQXQQTGQEHNR14ULHS-1,Jari James tidak bisa masuk ke hidungnya saat gatal karena _nya sangat kecil.,hidung,jari,1
+160,3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-1,"Kriket adalah waktu lalu favorit Lindsey, sementara Rachel belum pernah mendengarnya. _ lebih mungkin adalah orang Inggris.",Lindsey,Rachel,1
+161,3LVTFB9DE7W6ARISYS64A3AJV4WGQQ-1,Pisau cukur Carrie jauh lebih tajam daripada milik Patricia karena _ membeli yang baru kemarin.,Carrie,Patricia,1
+162,39AYGO6AFFI4GCHNMPT12KEH8P96N7-2,"Joseph bertanya kepada Craig apa yang harus dilakukan dengan anjing mereka, karena _ tahu bahwa mereka bisa  profesional tentang hal itu.",Joseph,Craig,2
+163,3JMNNNO3B126L570RO8L8QAWLUNW2F-2,"Di Jalan Utama, butik lebih sukses daripada department store karena _ memiliki pilihan pakaian yang tidak cukup banyak.",butik,department store,2
+164,3L1EFR8WWVJU4S5B66P06NKIKRHF9X-1,"Randy bermimpi bahwa teman mereka, Jason, akan mengalami kecelakaan mobil setelah bekerja. _ khawatir dan mencoba menghubungi temannya.",Randy,Jason,1
+165,3LN50BUKPXP1W7VE96OVNQPHMPWLPA-1,Guru itu senang memiliki Patricia di kelas mereka tetapi berharap Betty akan dipindahkan karena _ patuh.,Patricia,Betty,1
+166,39O6Z4JLX4B91L9Z910I4C9NHS7VX7-2,Perbekalan dipindahkan dari perumahan dan ke perkemahan karena _nya kelebihan persediaan.,perkemahan,perumahan,2
+167,3C8QQOM6JPZULW93CDMBMV0XCJ7LID-2,"Para dokter lebih suka memberi pasien mereka pil daripada cairan, karena _nya lebih membantu.",cairan,pil,2
+168,3BJKPTD2QCAVX8KRB9IBMEB5OA7RTG-1,"Angela lebih mencintainya daripada Katrina, dan _ takut jika dia harus kehilangannya.",Angela,Katrina,1
+169,3NBFJK3IOHGOVQ65ZH20T0RBNXTOGH-2,"Nelson ada di dalam teepee, sementara Jason tetap di luar, jadi _ akhirnya basah kuyup di tengah hujan badai.",Nelson,Jason,2
+170,3IYI9285WSYXD3Z3HIECVDPAVP2CJK-1,"Kami mengerjakan bagian dalam rumah daripada mengerjakan bagian dalam gudang, karena _ itu layak huni.",rumah,gudang,1
+171,3MQY1YVHS3IEX29PWXCPLCXBBUTB24-1,"Sarah bisa saja memakai lipstik atau maskara agar cantik, tetapi dia memilih memakai _ karena akan berantakan bahkan jika dia menangis.",maskara,lipstik,1
+172,3D42WVSDHA995TDJEIHG54DAV60FY0-2,"Anjing itu bisa minum dengan mudah dari mangkuk, bukannya wajan, karena _nya tinggi.",mangkuk,wajan,2
+173,3CESM1J3EKH9XVP8YOWOQ1FHRXB6WZ-1,"John tidak bisa melihat ikan di tangki, tetapi jelas melihat ikan di akuarium, karena air di _ itu kotor.",tangki,akuarium,1
+174,3BA7SXOG1JOCZOS38B7GVIFIA10R8D-1,Tanya lebih sering berangkat kerja daripada Rebecca karena _ lebih sering menderita sakit kepala parah.,Tanya,Rebecca,1
+175,3M67TQBQQJ2Z81O3VQ38SM9RNBIA9T-2,"Samuel selalu memakai kondom saat bertemu kekasih baru, tetapi Craig jarang sekali memakainya. _ terkena penyakit kelamin dari seorang gadis kotor.",Samuel,Craig,2
+176,3AC6MFV69KGEUQFNLWVZUYAGRFJZH0-2,John mendapat lebih banyak uang ketika dia menjual koin daripada ketika dia menjual perangko karena _ itu berharga.,perangko,koin,2
+177,341H3G5YF2SIDF8Y7M0EG4Z7TMKZ0K-1,"Anak-anak tertawa ketika guru itu mengenakan wig, bukan topi, karena _nya warna-warni.",wig,topi,1
+178,37J05LC5AXH7IV5HHE9NFJ7SGQ7DJG-2,Adam menyalakan komputer untuk mengerjakan rencana mengejutkan Matthew karena _ berulang tahun.,Adam,Matthew,2
+179,3KLL7H3EGDZXL6ADKZ6W9SXK361VHO-1,Derrick memberi tahu Kevin bagaimana dia bertemu dengan Presiden Amerika Serikat minggu lalu. _ beruntung.,Derrick,Kevin,1
+180,3L7SUC0TTUS3KJA88ZYKG4FQLGPM0X-1,Aaron lebih terkenal daripada Hunter karena _ telah berada di lebih banyak film dan pertunjukan.,Aaron,Hunter,1
+181,39O6Z4JLX4B91L9Z910I4C9MFKBXVT-1,Ian terpeleset oleh minyak yang Donald tumpahkan ke lantai dapur. _ marah.,Ian,Donald,1
+182,3VI0PC2ZA0YEB1028PE49KFFKM0XO6-1,Sendi lutut saya lebih terluka daripada sendi pergelangan kaki saya jadi saya berusaha untuk tidak terlalu menekan _ jika saya bisa membantu.,sendi lutut,sendi pergelangan kaki,1
+183,39TX062QX32PPC7GPRUCLHH3O3Q3XG-1,Cat yang dioleskan James di pintu masih lengket sedangkan toples catnya tidak. Dia yakin _nya basah.,pintu,toples,1
+184,3UXQ63NLAC0ZSDU4Q16US6KS5XXBLJ-2,Bebek peliharaan Rachel lebih sedih daripada yang dimiliki Kayla. _ adalah pemelihara hewan yang baik.,Rachel,Kayla,2
+185,3LN50BUKPXP1W7VE96OVNQPHMN1LPB-1,Jennifer mengatur dering telepon lebih keras daripada Patricia karena _ sulit mendengar.,Jennifer,Patricia,1
+186,3CVDZS288JE9BCO5VFT5B9Q2KPAFMG-2,Pria itu lebih mudah berjalan di gurun daripada di salju karena lebih dingin di _.,gurun,salju,2
+187,3M47JKRKCXZJD5UJGN4IKNOMEDP68V-2,Ryan senang memiliki iPhone tetapi Leslie menolak untuk meng-upgrade ponsel flip mereka. _ selalu menjadi yang terakhir mempelajari teknologi baru.,Ryan,Leslie,2
+188,3K3G488TR4M8UUT8HWND66JU5RA5QH-1,Badut itu mengenakan bunga di sakunya alih-alih pena karena _nya lebih berwarna.,bunga,pena,1
+189,34XASH8KLS0L2PDZ9IPAN346MSRPMH-2,Aaron menghabiskan lebih banyak waktu dengan hewan peliharaannya daripada Ryan karena _ bekerja sepanjang hari.,Aaron,Ryan,2
+190,3KL228NDMVK55ZLQ1PA7MJA23NFKGF-1,"Samantha suka sekali mengganggu Felicia, jadi _ mencoba menghabiskan lebih banyak waktu dengannya.",Samantha,Felicia,1
+191,3NFWQRSHVECUPDTC0EJA66IX0B9FGS-2,Trotoarnya terbuat dari batu bata sedangkan jalan masuknya terbuat dari beton tuang. _nya lebih mulus untuk dilalui.,trotoar,jalan masuk,2
+192,3B0MCRZMBT8RNSAC1YH247Y1R1MPP5-1,"Megan memberi tahu Rachel bahwa dia menyukai aroma lilin lebah, karena _ suka berbagi detail aneh dengan teman-temannya.",Megan,Rachel,1
+193,3TX9T2ZCB9ZWRGACGVHZV1K31JYWZQ-2,Katrina suka terus bergerak sedangkan Angela suka diam karena _ tenang.,Katrina,Angela,2
+194,39WICJI5ATQZ0I8O6B6XQ4963XJZ3G-1,"Kenneth mengunduh info menggunakan komputernya sementara Logan menggunakan tablet, _ menggunakan komputernya untuk mengunduh file Excel.",Kenneth,Logan,1
+195,3VJ4PFXFJ5LXSTC6T1YZOIW62YDUAX-2,"Janji temunya untuk menata rambutnya adalah pukul 5:00, tetapi dia harus naik kereta pukul 4:30. _nya lebih awal, jadi dia tiba dengan banyak waktu.",janji temu,kereta,2
+196,3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-2,"Awan menimbulkan ketakutan besar pada orang-orang, sementara langit cerah menenangkan mereka, karena _ begitu menenangkan.",awan,langit,2
+197,39N6W9XWRDL0P4A754BYVRPD6NGGY9-1,"Ketika Robert diminta oleh Christopher apa yang dia inginkan untuk ulang tahunnya, katanya uang. _ ingin memilih hadiahnya sendiri.",Robert,Christopher,1
+198,3M0556243SI0Z5AYNIW5WQRUW20FNU-1,"Amy ingin kembali bekerja setelah pensiun, tetapi Carrie tidak melakukannya karena _ bosan.",Amy,Carrie,1
+199,3L2OEKSTW98LWP4PM6ZA3E8FI26Y8A-1,"Ben adalah kutu buku. Dia menyukai buku fiksi dan buku non-fiksi, tetapi dia memilih _ karena realistis.",buku non-fiksi,buku fiksi,1
+200,356ZPKYPUJVLW62DSLDLHYREXG7PY5-2,"William menyewa seorang pelatih bernama Samuel membantu anjing barunya, tetapi metode dominasi _ tidak menarik.",William,Samuel,2
+201,37SOB9Z0SUBUPIQRB8ROANMHJ463L8-2,Dia ingat betapa menyebalkannya membersihkan kursi kayunya jadi dia membeli meja plastik sebagai gantinya. Membersihkan _ dengan cepat.,kursi,meja,2
+202,3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-1,Nancy lebih suka makan popcorn daripada permen di bioskop karena _nya asin.,popcorn,permen,1
+203,3KL228NDMVK55ZLQ1PA7MJA23NFKGF-2,"Samantha hanya suka mengganggu Felicia, jadi _ mencoba menghabiskan lebih sedikit waktu dengannya.",Samantha,Felicia,2
+204,3APP19WN73SD09Z8JJS64YTSV1PG6U-1,"Meskipun Joseph adalah guru bahasa Inggris yang lebih baik daripada Hunter, _ selalu mempertanyakan kapan harus menggunakan koma.",Joseph,Hunter,1
+205,3CESM1J3EI1U36Q1EQKOY3R812FW6S-1,Turner menembak dinding menggunakan paintball dan peluru sungguhan. Dindingnya dicat karena _.,paintball,peluru,1
+206,3ATYLI1PRVGDGHVDRLZ3IB70959JOQ-2,"Dia ingin pena fountain tetapi membeli pena rollerball, karena _ kurang mahal.",pena fountain,pena rollerball,2
+207,3CMV9YRYP5F5AWSGETJBQU35D26JLC-2,"Mary duduk diam sementara Victoria mendengarkan dadanya. Diagnosisnya adalah demam berdarah, yang mengejutkan _ karena dia tidak menemukan ini pada pasien.",Mary,Victoria,2
+208,3VDVA3ILIDD3ZYZ4TF4PH4E3Z2IG1M-1,Kyle mencoba berhenti sebelum Nelson tertabrak karena _-lah yang mengemudi.,Kyle,Nelson,1
+209,38XPGNCKHVEI3JLPPQYD71CPNUD4V5-1,"Angela merasa sangat bermanfaat untuk membantu Christine dengan pekerjaan rumah mereka, yang membuat _ merasa berguna.",Angela,Christine,1
+210,3VJ4PFXFJ5LXSTC6T1YZOIW62YDUAX-1,"Janji temunya untuk menata rambutnya adalah pukul 5:00, tetapi dia harus naik kereta pukul 4:30. _ terlambat, jadi dia datang dengan banyak waktu.",janji temu,kereta,1
+211,3APP19WN73SD09Z8JJS64YTSV1P6GK-2,"William lupa tentang semua waktu ketika Ian menyelamatkan mereka, terlepas dari bagaimana _ pada umumnya mengorbankan diri.",William,Ian,2
+212,3MDWE879UH0PXMUOH6R4VZ5PH23B90-1,"Cynthia suka bersantai di geladak di pagi hari, sementara Kayla lebih suka bersantai di malam hari. _ memutuskan untuk menyaksikan matahari terbenam untuk perubahan.",Cynthia,Kayla,1
+213,3UUSLRKAUNHTSP3M03WQ4RQSEUN7DR-2,Ninja menunggu sampai malam untuk menyerang daripada siang karena akan lebih mudah untuk melihatnya di _ hari.,malam,siang,2
+214,3LOJFQ4BOXD2TFBZZZ9ZGY75Q1VDK6-1,Lindsey mencoba memasang karpet di rumah Erin karena _ ahli dalam hal itu.,Lindsey,Erin,1
+215,341H3G5YF2SIDF8Y7M0EG4Z7TMKZ0K-2,"Anak-anak tertawa ketika guru itu mengenakan wig, bukan topi, karena _nya kusam.",wig,topi,2
+216,386T3MLZLP93TJ7BYW013K24WNM80L-2,"John berpikir tangannya patah, tetapi itu sebenarnya kakinya karena _nya lurus.",kaki,tangan,2
+217,35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-1,Mengosongkan kotak sampah adalah tugas yang menakutkan untuk Adam sementara Lawrence tidak keberatan melakukannya. _ selalu berusaha meminta orang lain menanganinya.,Adam,Lawrence,1
+218,39AYGO6AFFI4GCHNMPT12KEH8P96N7-1,"Joseph bertanya kepada Craig apa yang harus dilakukan dengan anjing mereka, karena _ tahu bahwa mereka tidak dapat objektif tentang hal itu.",Joseph,Craig,1
+219,3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-2,Ben memilih antara bisnis pakaian dan bisnis kebugaran. Dia akhirnya membuka bisnis _ karena tidak sehat.,kebugaran,pakaian,2
+220,3N2YPY1GI8C0VLIIEWAQGNOFZE1EV2-1,"Felicia mengirim email ke Christine, karena _ membutuhkan beberapa informasi tentang tunjangan karyawan dari perusahaan tempat mereka bekerja selama 10 tahun.",Felicia,Christine,1
+221,3CZH926SIES118Z3U0937XO2MY24EM-1,"Minggu sore Laura membuat beberapa biskuit susu untuk Victoria, dan _ membuatnya dengan cepat.",Laura,Victoria,1
+222,3KVQ0UJWPZZDERPUT5MJYV1GT8FW5W-1,"Rutinitas harian Victoria termasuk lompat tali tidak seperti Monica, jadi _ cenderung lebih sehat secara keseluruhan.",Victoria,Monica,1
+223,34O39PNDK66V1MQABNRQMK5JI38BRB-1,"Erin memakai kawat gigi saat ia masih muda sedangkan Lindsey tidak demikian, _ memiliki gigi yang sangat lurus.",Erin,Lindsey,1
+224,371Q3BEXDH73KZT3WQ7YYCHI0NYZSD-1,Liam membawa pulang tempat tidur baru untuk anjing peliharaannya. Namun dia harus mengambilnya kembali karena _nya terlalu kecil.,tempat tidur,peliharaan,1
+225,3VIVIU06FKAEREROCPNQM8FM799MIT-2,Aaron meminta bantuan Ian untuk mengganti ubin kamar mandi karena _ meminta bantuannya.,Aaron,Ian,2
+226,3K3G488TR4M8UUT8HWND66JV65WQ5J-2,James melapisi bagian atas meja dengan penghapus noda dan membiarkan kursi itu apa adanya. Sekarang _ itu kusam.,meja,kursi,2
+227,3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-1,"Rumah yang Benjamin rancang untuk Joseph sangat indah, jadi _ memasukkannya dalam portofolionya.",Benjamin,Joseph,1
+228,3BFF0DJK8ZQMSCJBAWUG4M493OESTT-1,Brett diberitahu oleh Dennis bahwa dia menderita anemia sehingga _ menghabiskan waktu untuk bertanya kepada orang lain tentang suplemen.,Brett,Dennis,1
+229,3TKXBROM5VO3KVKATQMYYEBDW8XJI3-2,"Brett tidak percaya Craig bahwa minyak esensial bekerja, sampai _ membuktikan bahwa minyak itu memang efektif.",Brett,Craig,2
+230,3D17ECOUOG9HZBMNIY95Q8D3KXE13A-2,Dia putus asa secara emosional sehingga dia pergi jalan-jalan dan membeli es krim untuk dirinya sendiri. _ itu meredakan rasa laparnya.,jalan-jalan,es krim,2
+231,3TKSOBLOHNUNF48SZOH0E3ONT3JBBW-2,"Karena Lindsey lebih suka pergi berkemah daripada Natalie, _ tidak percaya bahwa memiliki kantong tidur itu penting.",Lindsey,Natalie,2
+232,3LOJFQ4BOZTHN4A6JXLZ8WVEKCXKDG-2,James selesai mencuci dengan spons dan harus memasukkannya ke dalam kotaknya karena _nya kecil.,spon,kotak,2
+233,3UEBBGULPFMDUVU7KJ8RALJO44HUF1-1,Cynthia memutuskan untuk mempekerjakan Sarah untuk membuat logo baru untuk perusahaannya karena _ membutuhkan seorang desainer profesional.,Cynthia,Sarah,1
+234,3KTCJ4SCVGZ3R8VQ4I2KU9Y0VMMM1O-2,"Dia menaruh mustard di atas roti isi, tetapi tidak di atas kentang goreng, karena dia pikir _ yang disajikan enak.",roti isi,kentang goreng,2
+235,3MNJFORX8DIB353Z3GCJU7FGYP1F5X-2,"Donna jatuh cinta dengan dua parfum, kelapa dan bunga. Dia lebih suka _ untuk aroma gardenia.",kelapa,bunga,2
+236,34XASH8KLS0L2PDZ9IPAN346MHFMPG-2,"Polisi bisa mengawal tahanan ke gerbang tetapi tidak ke sel, karena masuk ke _ dilarang.",gerbang,sel,2
+237,35JDMRECC6NHDOSNP1B4GML5CNAEGM-2,"Katrina memberi Christine sebuah boneka binatang untuk ulang tahunnya, tetapi _ sudah punya.",Katrina,Christine,2
+238,3D0LPO3EABXOHHR5TNO600YFX6WOYN-2,"Dia lebih suka membersihkan dengan sabun batangan daripada sabun cair, karena _ membuatnya merasa segar.",sabun cair,sabun batangan,2
+239,36FQTHX3Z55IC94FKV2UWKQB5B63BX-1,Rumput Samuel tidak sebagus halaman Aaron. _ menyuruh anak-anak tetangga mengerjakan halamannya.,Samuel,Aaron,1
+240,3V7ICJJAZAEO0GOC0BVDERU9V6X4BX-1,"Kalli sangat cemas untuk berbicara dengan mikrofon, tetapi merasa nyaman dengan komputer, karena _ itu tidak dikenalnya.",mikrofon,komputer,1
+241,3BVS8WK9Q0TI8NNRL0XH8S4S0SQIBQ-1,"Sambil berdiskusi tentang apa yang harus dibuat untuk makan malam, Leslie menyarankan untuk membuat nasi; Joseph lebih suka pasta. _ setuju untuk membuat pasta sebagai gantinya.",Leslie,Joseph,1
+242,3JMNNNO3B126L570RO8L8QAWLUNW2F-1,"Di Jalan Utama, butik lebih sukses daripada department store karena _ memiliki pilihan pakaian yang berkualitas.",butik,department store,1
+243,37YYO3NWHF4PZES4RO9Q070OV9ACC6-1,"Ryan hanya menemukan satu tomat di kebun Brett yang matang, sehingga _ merasa tidak enak memetiknya.",Ryan,Brett,1
+244,3ACRLU860NC6SIL5PH7QND608YUBEJ-1,"Eric memadamkan api listriknya dengan soda kue, sementara Craig mencoba air. Rumah _ selamat.",Eric,Craig,1
+245,39O6Z4JLX4B91L9Z910I4C9NHS7VX7-1,Perbekalan dipindahkan dari perumahan dan ke perkemahan karena _nya kehabisan persediaan.,perkemahan,perumahan,1
+246,3TL87MO8CMNAB57DB5GQJYN5WO1FLW-1,"John dengan cepat mengembalikan game itu ke toko setelah dia mendengar berita tentang itu mengandung bug, dia membeli dua bola bisbol sebagai gantinya karena _ itu dapat diandalkan.",bola bisbol,bug,1
+247,3MWOYZD5WX29Z7MY6JRVBIOHJQ1ONP-2,Pelatih berhenti dari pekerjaannya di sekolah dan melanjutkan bekerja di pusat rekreasi karena _ membayar lebih.,sekolah,pusat rekreasi,2
+248,356TQKY9XHBHBU7VJVLAIZCQ2XG87X-2,Pendengaran Donald jauh lebih baik daripada Christopher karena _ berada di sekitar suara keras sepanjang hidupnya.,Donald,Christopher,2
+249,39RRBHZ0AUZJCRA7QLC39Z1PUHCVZ9-2,"Menyenangkan bagi Monica untuk menjelajahi tempat-tempat baru tetapi Christine menghindarinya, karena _ takut dengan hal-hal baru.",Monica,Christine,2
+250,3CZH926SIES118Z3U0937XO2MY24EM-2,"Minggu sore Laura membuat biskuit susu untuk Victoria, dan _ memakannya dengan cepat.",Laura,Victoria,2
+251,375VSR8FVW7RJKTQH17T82CMEOIRZQ-2,Ben harus berhenti mengemudi mobil atau sepeda motor. Dia memilih untuk menghentikan _ karena itu aman.,sepeda motor,mobil,2
+252,3BAWBGQGYNDFM638ROWKADWZE1QV7D-1,Saya merasa lebih negatif ketika saya tinggal di motel daripada ketika saya tinggal di hotel karena _nya gelap.,motel,hotel,1
+253,3C8QQOM6JRF9FL8AWBYBETO507TILF-1,Kemungkinan besar orang tersebut akan selamat dari jatuh ketimbang serangan jantung karena _nya serius.,serangan jantung,jatuh,1
+254,3M4KL7H8KVL125AYH2V35D1E5OH167-2,"Amy benci bau pemutih, tetapi Kayla tetap menggunakannya untuk membersihkan sehingga _ mencoba menggunakannya lebih sedikit.",Amy,Kayla,2
+255,3AC6MFV69KGEUQFNLWVZUYAGMXWZH8-1,Cynthia mulai menangis di akhir film. dan Victoria tertawa terbahak-bahak sehingga orang tua _ menghibur.,Cynthia,Victoria,1
+256,3TRB893CSJ8HAKE6IVLYIE5G2OHG7I-2,"Kayla membeli sesuatu dari Lindsey di toko, karena _ ingin menjualnya dan membawanya.",Kayla,Lindsey,2
+257,3511RHPADVC7EVCM20GK0N1OUWVRLL-2,"Jason unggul pada pelajaran biola sementara Logan berjuang, karena _ tidak memiliki bakat musik.",Jason,Logan,2
+258,34R3P23QHUFPUK9PU7NSNS46Y7SWHF-1,"Angela itu nokturnal sementara Erin itu diurnal, jadi _ lebih suka keluar larut malam.",Angela,Erin,1
+259,36AZSFEYZ4YNUT7RK7W0NHUM8TABV2-1,"Mary tidak suka menjadi bagian dari kelompok manapun tidak seperti Jennifer, karena fakta bahwa _ adalah orang yang pemalu.",Mary,Jennifer,1
+260,3L60IFZKF5W7XUE0Z81SMPUJJHEHHV-1,Angela adalah raja sementara Carrie adalah seorang badut sehingga _ menertawakan penampilan yang lain.,Angela,Carrie,1
+261,3TL87MO8CMNAB57DB5GQJYN5WO1FLW-2,"John dengan cepat mengembalikan game itu ke toko setelah dia mendengar berita tentang itu mengandung bug, dia membeli dua bola bisbol sebagai gantinya karena _ itu tidak dapat diandalkan.",bola bisbol,bug,2
+262,37Y5RYYI0RJT9TSVF6VDTPPGHQBSX0-1,Pengganggu mencuri kemejaku dan meninggalkan topiku karena _ itu bernilai lebih banyak uang.,kemeja,topi,1
+263,3D3B8GE892PR1GVY0B95QJAEY279P0-1,"Koki berpikir lebih sehat makan apel daripada bit, jadi dia suka memasukkan _ ke dalam smoothiesnya.",apel,bit,1
+264,3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-1,Matthew menawarkan untuk membantu menulis rencana kebugaran untuk Christopher karena _ adalah seorang pelatih pribadi.,Matthew,Christopher,1
+265,3U18MJKL1W08QIPVGEI4GIU0T4SCN9-1,"Jason melakukan renovasi kamar mandi untuk Michael, kemudian rumahnya gagal diperiksa sehingga _ menawarkan untuk mengulangi pekerjaannya.",Jason,Michael,1
+266,34O39PNDK66V1MQABNRQMK5JI8DRB6-1,Mencabut alis butuh waktu lebih lama bagi Elena dibandingkan dengan Katrina karena _ memiliki alis tunggal.,Elena,Katrina,1
+267,3D3B8GE89456V5U5K9L5IHYNNYQ9PL-1,"Lindsey banyak menabung untuk masa pensiunnya, sedangkan Natalie tidak menabung sama sekali. _ melewatkan banyak kegiatan menyenangkan saat tumbuh dewasa.",Lindsey,Natalie,1
+268,39RRBHZ0AUZJCRA7QLC39Z1PZW2ZV2-1,"Monica memutuskan untuk mencuci kemeja putih Angela, tetapi kemeja itu terkena noda warna. _ merasa khawatir.",Monica,Angela,1
+269,37OPIVELUWHSN76MT2R0537F6IFAHW-2,Saya bisa membawa rol cat tetapi saya meminta suami saya untuk mengambil ember karena _ berat.,rol cat,ember,2
+270,38XPGNCKHVEI3JLPPQYD71COMD44VV-1,"Nick sering mengalami gatal-gatal, sementara Jason bahkan tidak pernah memakai celana olahraga. _ atlet.",Nick,Jason,1
+271,35ZRNT9RUIWN1EUH42VGA622O6G3OD-2,"Perpustakaan itu menyimpan banyak koleksi novel, bukan komik, karena _ itu tidak menarik.",novel,komik,2
+272,3D3B8GE892PR1GVY0B95QJAEY279P0-2,"Koki berpikir lebih sehat makan apel daripada bit, jadi dia benci memasukkan _ ke dalam smoothiesnya.",apel,bit,2
+273,39XCQ6V3KY20QNBHIPXF83EVCLN56N-2,"Membuat bunga mekar lebih mudah bagi Joseph daripada Brian, karena _ memiliki pengetahuan yang buruk tentang berkebun.",Joseph,Brian,2
+274,34XASH8KLS0L2PDZ9IPAN346MQEMPX-1,Lingkaran yang digambar di sekitar huruf tidak menutupi seluruh huruf karena _nya terlalu kecil.,lingkaran,huruf,1
+275,3MD8CKRQZ11GDUNTJDG7C6C5LTGRJX-1,"Mary meletakkan perabotan yang tidak terpakai di ruang baca sebelum mendekorasi ruang makan, karena _ tidak akan digunakan selama pesta.",ruang baca,ruang makan,1
+276,39XCQ6V3KY20QNBHIPXF83EVCLN56N-1,"Membuat bunga mekar lebih mudah bagi Joseph daripada Brian, karena _ memiliki pengetahuan yang baik tentang berkebun.",Joseph,Brian,1
+277,3D42WVSDHA995TDJEIHG54DAV60FY0-1,"Anjing itu bisa minum dengan mudah dari mangkuk, bukannya wajan, karena _nya pendek.",mangkuk,wajan,1
+278,371QPA24C42MYSKHXDFW8LH1ESKT14-2,"Mawar yang sensitif cahaya harus dikeluarkan dari taman dan pindah ke kebun anggur, karena _ lebih teduh.",taman,kebun anggur,2
+279,3VADEH0UHCV96VRX9H9W7EF4LDJPSJ-1,Brian kelebihan berat badan tetapi Nick tidak kelebihan berat badan karena _ makan banyak kalori.,Brian,Nick,1
+280,3TRB893CSLOW49DD2TXYACTOQQKG7W-1,Elena menyuruh Natalie untuk mengenakan tudung jaketnya karena _ tidak ingin dia kedinginan.,Elena,Natalie,1
+281,3LCXHSGDLVKK3T1EK15L50492KOSEG-2,Angie lebih menyukai cat kuku hijau daripada merah muda karena kulitnya pucat dan cat kuku _ tampak cerah.,merah muda,hijau,2
+282,38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-2,John merawat pot sementara itu diangkut dalam kotak namun pada akhirnya patah. _nya keras.,pot,kotak,2
+283,3LVTFB9DE7W6ARISYS64A3AJV6LGQJ-2,Kevin tersenyum kepada Robert di pesta pernikahan itu meskipun _ memberinya pujian berisi celaan.,Kevin,Robert,2
+284,3K3G488TR26T05U1XYBDE8VMH5FQ5S-2,"Kevin jauh lebih fleksibel secara fisik daripada Nick, karena _ adalah atlet cedera yang harus di tempat tidur.",Kevin,Nick,2
+285,37AQKJ12TXM8DNXJFYN6MTCNC09TTA-1,"Craig mengajukan diri untuk membantu siswa disleksia di sekolah sementara Joel menghindari mereka, karena _ suka membaca.",Craig,Joel,1
+286,3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-2,"Natalie berpikir zamrud adalah permata yang indah, tetapi Betty tidak. _ membeli kalung dengan berlian besar.",Natalie,Betty,2
+287,3BVS8WK9Q29X2CMY5Y9H0QS1PADIBN-1,Masalah di pertemuannya tidak dapat diidentifikasi secara akurat karena _nya rumit.,masalah,pertemuan,1
+288,372AGES0I432EPTBGJJ8BHWB6NMRXT-1,"Dia dapat menemukan fakta tentang piring, tetapi bukan tentang cangkir, karena _ itu ada di mana-mana.",piring,cangkir,1
+289,3LN50BUKPV9M2IW7P8CVVS19TJBLP1-1,"Victoria suka berbelanja pakaian tetapi Felicia tidak, jadi _ pergi ke mal untuk hari itu.",Victoria,Felicia,1
+290,3BFNCI9LYM4VAX1P7EQERI4GNHY37P-1,"Setelah mencoba menanam bunga anggrek, ia memutuskan untuk kembali ke hobi menanam bunga marigold, karena menurutnya bunga _ lebih sederhana.",marigold,anggrek,1
+291,34O39PNDK66V1MQABNRQMK5JI8DRB6-2,Mencabut alis butuh waktu lebih lama bagi Elena dibandingkan dengan Katrina karena _ memiliki alis tipis.,Elena,Katrina,2
+292,3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-2,"Kriket adalah waktu lalu favorit Lindsey, sementara Rachel belum pernah mendengarnya. _ lebih mungkin adalah orang Amerika.",Lindsey,Rachel,2
+293,3IWA71V4TKUOMVUY8TSASKTOZ3UX63-1,"Tanaman itu memakan terlalu banyak ruang di guci, karena _nya besar. ",tanaman,guci,1
+294,3L60IFZKF5W7XUE0Z81SMPUJJHEHHV-2,Angela adalah badut sementara Carrie adalah raja sehingga _ menertawakan penampilan yang lain.,Angela,Carrie,2
+295,3MJ9GGZYO349ES4XQJCTQ1D5TBVA2T-2,Jill menjatuhkan es krimnya ke celana pelautnya yang lebar dan memutuskan untuk mengenakan jeans. Dia perlu memakai legging yang berbeda karena _nya bersih.,celana pelaut,jeans,2
+296,3B0MCRZMBRSCT3B5H052C9AT34KPP2-1,"Jacob berpikir untuk menghapus WhatsApp dari teleponnya, tetapi ternyata _ perlu ditingkatkan.",WhatsApp,telepon,1
+297,3V7ICJJAZAEO0GOC0BVDERU9V6X4BX-2,"Kalli sangat cemas untuk berbicara dengan mikrofon, tetapi merasa nyaman dengan komputer, karena _ itu akrab baginya.",mikrofon,komputer,2
+298,3UQVX1UPFSFDDF6FYHF01V1SF7V02Z-1,"Gmail sangat ketinggalan, pikir Samantha saat Jennifer membicarakannya, _ berada di puncak tren baru.",Samantha,Jennifer,1
+299,3KVQ0UJWPXJYK2QN97AJ6XD856EW5K-1,William menunjukkan Randy cara mengganti panel di rumahnya. _ itu berbakat.,William,Randy,1
+300,37VHPF5VYC18TM3KQEHL6NGWFE8C80-1,Ember adalah pilihan yang lebih baik daripada cangkir untuk membawa air karena _ menampung lebih banyak.,ember,cangkir,1
+301,391FPZIE4E0C2GKKZ78R54JAESQUHS-2,"Pembengkakan di bawah mata Jennifer auh lebih buruk daripada Angela, karena _ dipukul lebih lembut.",Jennifer,Angela,2
+302,3B9XR6P1WG9TXN64NGUHCR701YEJBR-2,Michael membeli ikan mas untuk Craig untuk memberi makan arwananya. _ memiliki terlalu sedikit uang untuk membayar mereka.,Michael,Craig,2
+303,3D3B8GE892PR1GVY0B95QJAETPU9PS-1,Kenneth dapat menghasilkan dolarnya lebih jauh daripada Ian karena _ telah belajar bagaimana caranya menjadi sangat murah.,Kenneth,Ian,1
+304,3MXX6RQ9EXJ5YZOT3EPE19N60ZTP45-2,Saya menolak untuk berhenti memakai topi lama saya meskipun ada lubang di dalamnya tetapi _ itu jatuh.,lubang,topi,2
+305,38XPGNCKHVEI3JLPPQYD71COMTRV45-2,Nelson dijadwalkan pensiun dari posisi mereka di perusahaan sebelum Eric karena _ lebih muda.,Nelson,Eric,2
+306,3D3B8GE89456V5U5K9L5IHYNN3E9PJ-1,Saya lebih memperhatikan kompor daripada wastafel karena lebih berbahaya beraktifitas di dekat _.,kompor,wastafel,1
+307,38VTL6WC4CRH3WKU8647JSMW4Q15YA-2,"Nick baru memulai bisnis akuntansi, dan Jeffrey memulai toko roti. _ lebih baik dalam memanggang.",Nick,Jeffrey,2
+308,3CIS7GGG65HLOHUBP8OLS3YOXI6EU6-1,"Adam menyalahkan Steven untuk komunikasi yang buruk dan Intel di medan perang, karena _ tidak bertanggung jawab atas radio.",Adam,Steven,1
+309,3LOJFQ4BOXD2TFBZZZ9ZGY75VFRDKZ-1,Ben harus membuat jus wortel dan jus apel. Semua orang menyukai _ karena itu biasa.,jus apel,jus wortel,1
+310,34XASH8KLS0L2PDZ9IPAN346MSRPMH-1,Aaron menghabiskan lebih banyak waktu dengan hewan peliharaannya daripada Ryan karena _ berada di rumah sepanjang hari.,Aaron,Ryan,1
+311,38Z7YZ2SB305CTPG4IU73HZRMSRQIA-1,"Saya meminta Patricia untuk membeli hadiah tetapi tidak meminta Jessica, saya pikir _ memiliki selera yang baik.",Patricia,Jessica,1
+312,36KM3FWE3RAKZG3L4TWVXMI0V8L701-1,diktator memperoleh kekuasaan dari negara lain dengan menggunakan tank daripada pesawat karena _ yang canggih.,tank,pesawat,1
+313,37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-2,Gigi Katrina lebih kuning daripada Laura karena _ kebanyakan minum air sepanjang waktu.,Katrina,Laura,2
+314,3TZDZ3Y0JUK3EDB3Z7AFHLGPLMV19T-2,Bunga yang ditaruh di jendela sudah mulai menghalangi sinar matahari karena _nya kecil.,bunga,jendela,2
+315,36KM3FWE3RAKZG3L4TWVXMI0QRV071-1,"Samantha belajar bagaimana untuk berenang di usia muda tetapi Betty tidak pernah belajar caranya, sehingga _ tidak perlu memakai jaket pelampung.",Samantha,Betty,1
+316,3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-1,Benjamin memiliki selera humor yang lebih remaja daripada Donald sehingga _ menikmati bantal whoopie.,Benjamin,Donald,1
+317,36GJS3V78X4PO4EF32MVD2YXH79GJ0-1,Kenneth tidak mengantar anak-anak ke penitipan anak hari ini tidak seperti Hunter karena anak-anak _ sakit.,Kenneth,Hunter,1
+318,3M7OI89LVYMLP8KWXZKNM9K59J76CX-1,"Saya memasang rumah burung baru di atas tanah di luar, tetapi harus menopangnya lebih tinggi dari kucing saya karena _ itu terlalu rendah.",rumah burung,tanah,1
+319,38F60IALAIVMR3ZZ1UBWUGYRA2T0TS-2,Don memiliki lebih banyak kerutan di dahinya daripada di lehernya karena kulit di _ terbuka.,leher,dahi,2
+320,3566S7OX5FXZ0UNAKACV3PPIOHJ17V-1,Gelombang menghancurkan garasi tetapi membiarkan rumah tetap utuh karena _ itu begitu dekat dengan pantai.,garasi,rumah,1
+321,3LB1BGHFL2U4U9WDP4A5UA42RWWTYS-2,"Aaron meminta Steven untuk membantu beberapa pekerjaan rumah, tetapi _ manja.",Aaron,Steven,2
+322,3CMV9YRYP5F5AWSGETJBQU35DSFLJ3-2,"Joel rentan terhadap sengatan matahari sehingga menghabiskan banyak waktu di dalam ruangan, kebalikan dari Lawrence. _ sering berenang untuk melewatkan hari-hari musim panas.",Joel,Lawrence,2
+323,3URJ6VVYUR1NDZCSOECZC9IGQ084OQ-1,"Joel ingin mulai beternak lebah tetapi bertanya kepada Eric apakah dia ingin bergabung dengannya, karena _ akan merasa kesepian.",Joel,Eric,1
+324,3VMHWJRYHVE5BZO2POJEUSISYL0XFW-2,"Joseph memutuskan untuk merawat anjing mereka di ruang tunggu tidak seperti Leslie, jadi _ memiliki anjing yang lebih kotor.",Joseph,Leslie,2
+325,37SDSEDINBG308STUF41HPLE02H81M-2,Mike pergi untuk menyajikan Michelle beberapa kacang dari panci ke piring tidak bisa menempatkan banyak karena _nya begitu besar.,piring,panci,2
+326,3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-2,"Kyle tidak memakai penghangat kaki ke tempat tidur, sementara Logan hampir selalu melakukannya. _ lebih cenderung tinggal di iklim yang lebih dingin.",Kyle,Logan,2
+327,38DCH97KHJGG1T8T6YR77G2ZNY2QJX-2,"Ketika tangki harus dibersihkan, Betty pergi sehingga Maria harus melakukannya. _ merasa dipaksakan.",Betty,Maria,2
+328,368IUKXGA564JXT0246T69JC83I6P9-2,Memasang kulkas jauh lebih mudah daripada memasang kompor bagi Roger. Dia belum pernah memasang _ sebelumnya di rumah yang berbeda.,kulkas,kompor,2
+329,341H3G5YF2SIDF8Y7M0EG4Z8ULKZ0L-2,"Rutinitas baru saya akan menyesuaikan jadwal saya, karena _nya sangat kosong.",rutinitas,jadwal,2
+330,3MQKOF1EE428I44N8B42W7P978PWDL-1,"Materi tes kurang penting dibandingkan dengan dokumen untuk wawancara, karena _nya sangat mudah.",materi,dokumen,1
+331,3L1EFR8WWVJU4S5B66P06NKIKLK9FI-1,"Kapal itu berisiko dihantam ombak, karena _ itu sangat kecil.",kapal,ombak,1
+332,3AA88CN98P15RQ6QVVWDTJH68O9KYR-2,Dennis merasa sangat bersalah tentang berbohong tetapi Brian tidak karena _ biasanya orang yang sangat tidak jujur.,Dennis,Brian,2
+333,33TGB4G0LRVUOT5A46033UL1I22TXM-2,"Daphne mendapatkan jubah dan bodysuit untuk kostum Ravennya, dan dia pikir _ itu membuatnya terlihat kurus.",jubah,bodysuit,2
+334,3KL228NDMVK55ZLQ1PA7MJA283RKGS-1,"Helen penasaran bagaimana bola itu dapat memecahkan jendela, karena _nya lembut.",bola,jendela,1
+335,391JB9X4Z0MKRYGJWQK2RMI8TUUMKD-2,James menyelesaikan buku itu selama penerbangan pulang dan dia menyukainya. _ ini pendek.,penerbangan,buku,2
+336,3VMHWJRYHXUK5ON99MVEMQ61T06FXU-2,"Dia suka minum anggur daripada minuman keras, karena _ meninggalkan rasa yang enak di mulutnya.",minuman keras,anggur,2
+337,3AC6MFV69KGEUQFNLWVZUYAGRDIHZD-1,Kambing itu mencoba menyeberangi air tetapi dia hanya bisa melewati danau dan bukan sungai karena _ itu dangkal.,danau,sungai,1
+338,3L84EBDQ370A7LH9RGVMKB2VA7WKKO-1,"Rachel punya anjing tetapi anjing Cynthia diserahkan untuk diadopsi baru-baru ini, jadi _ diberi tali lama mereka.",Rachel,Cynthia,1
+339,3UEBBGULPFMDUVU7KJ8RALJO9HMFUM-1,"Umpan yang saya gunakan jauh lebih baik daripada umpan teman saya, karena _nya berhasil.",umpan,umpan,1
+340,356ZPKYPUJVLW62DSLDLHYREWZSPYR-1,"Kami tidak menggunakan pengering tetapi memilih jemuran, karena _ akan membuat pakaian kami menyusut.",pengering,jemuran,1
+341,3VDVA3ILIDD3ZYZ4TF4PH4E3Z2IG1M-2,Kyle mencoba berhenti sebelum Nelson tertabrak karena _ lah penumpangnya.,Kyle,Nelson,2
+342,36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-1,"Ketika membeli rumah, Patricia tidak memiliki banyak uang sebanyak Tanya, sehingga _ membeli rumah 1 kamar tidur.",Patricia,Tanya,1
+343,36BTXXLZ2XMQAC48G6T364NL1X54RW-2,Jessica bisa melihat jelas dari hutan sementara Mary datang dengan rencana karena _ adalah seorang pemimpin.,Jessica,Mary,2
+344,34D9ZRXCYT8HDGK24W3Z9HEHFJ5SAO-2,"Jessica selesai memanggang ham pikniknya sebelum Jennifer, karena _ menggunakan resep glasir ham yang sulit.",Jessica,Jennifer,2
+345,3NFWQRSHVECUPDTC0EJA66IX0B9FGS-1,Trotoarnya terbuat dari batu bata sedangkan jalan masuknya terbuat dari beton tuang. _nya lebih bergelombang untuk dilalui.,trotoar,jalan masuk,1
+346,3LB1BGHFL4AJOYVK92M5M8SBMJSTYE-1,Nelson sedang dalam misi untuk menghancurkan karir Michael karena _ memiliki kepribadian yang sangat picik.,Nelson,Michael,1
+347,36KM3FWE3RAKZG3L4TWVXMI0QRV071-2,"Samantha belajar bagaimana untuk berenang di usia muda tetapi Betty tidak pernah belajar caranya, jadi _ mengenakan jaket pelampung.",Samantha,Betty,2
+348,3B9J25CZ25BQC6IT4CNQNEGXMOGCSS-2,"Jennifer benar-benar brengsek, tetapi Katrina tidak. _ memiliki banyak teman baik.",Jennifer,Katrina,2
+349,3N2YPY1GI6WL1WJBUYYQOP07687EVK-1,Christine tidak lulus tes pendeteksi kebohongan yang dilakukan Jessica karena _ menyembunyikan sesuatu.,Christine,Jessica,1
+350,3UEDKCTP9VOMC6AP8M6DG6X993R7K1-2,Juru masak menambahkan biji labu dan tomat ke salad sebelum menyajikannya; _nya garing..,tomat ,biji,2
+351,3MVY4USGB6LHP94TWMJCYHES4F6SIT-2,Adam kesal pada Derrick karena _ menerima bantuan dari Agen Gerbang Maskapai lebih cepat.,Adam,Derrick,2
+352,37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-2,Hunter ingin bunuh diri dan Robert merespons dengan alasan bahwa _ sebelumnya berada dalam situasi kritis ini.,Hunter,Robert,2
+353,3D17ECOUOET25MNGY0X5YAPUVV613O-1,"Imajinasinya menjadi liar di taman, tetapi tidak aktif di jalan setapak, karena dia pikir _ itu inspirasional.",taman,jalan setapak,1
+354,3TTPFEFXCTIC6GVCJRYOX0HLMBCH6H-2,"Negosiator membuat kesepakatan untuk gaji, tetapi paket tunjangan masih dalam negosiasi. _ itu rumit untuk ditawar.",gaji,paket tunjangan,2
+355,3IWA71V4TKUOMVUY8TSASKTOZ3UX63-2,"Tanaman itu memakan terlalu banyak ruang di guci, karena _nya kecil.",tanaman,guci,2
+356,3N2YPY1GI6WL1WJBUYYQOP076B3EVM-1,"Untuk menghindari perpisahan, Randy mengikuti di belakang Kyle karena _ masih baru di daerah itu.",Randy,Kyle,1
+357,3V0TR1NRVA0JH6JKUXVHJGA3DS74A5-1,"Gadis itu membeli energy shake dari pasar untuk menekan nafsu makannya, namun _ itu terasa hambar.",shake,pasar,1
+358,3CMIQF80GNOPJ9UF2HLI6E9MDZWQ6C-2,Jim ingin menjadi jahat sehingga dia memutuskan untuk terlibat dalam perampokan dan coretan. Dia menyayangkan _ karena konsekuensi ringan.,perampokan,coretan,2
+359,3909MD9T21VBZOWSEH5MY1LUCSHFE2-2,James sedang mencari apakah ada ruang untuk menempatkan buku ke dalam rak. _nya besar.,ruang,buku,2
+360,3KVQ0UJWPXJYK2QN97AJ6XD856Q5W5-1,"Di akhir tahun, Christine menyadari mengapa dia gagal sementara Mary mendapat nilai A; _ tidak berhasil menahan diri untuk bermain daripada belajar.",Christine,Mary,1
+361,36GJS3V78X4PO4EF32MVD2YXH79GJ0-2,Kenneth tidak mengantar anak-anak ke penitipan anak hari ini tidak seperti Hunter karena anak-anak _ sehat.,Kenneth,Hunter,2
+362,3BC9H1KCYUAWMQ07K9FGHUB106QYW0-2,Jessica tidak bisa menggunakan selang untuk mencuci mobilnya di jalan masuk karena _nya terlalu panjang.,selang,jalan masuk,2
+363,3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-2,"Jen memasukkan rol kulitnya ke dalam air, agar pembersih bisa mensterilkannya dengan _ .",rol kulit,air,2
+364,36KM3FWE3RAKZG3L4TWVXMI0V8L701-2,diktator memperoleh kekuasaan dari negara lain dengan menggunakan tank daripada pesawat karena _ hancur.,tank,pesawat,2
+365,3AXFSPQOYSCJA4IKSIGDVHYLGU5FJ0-2,"Untuk menyempurnakan tampilan emo-nya, Nick meniru cara Matthew berpakaian karena _ telah mendandani emo sepanjang hidupnya.",Nick,Matthew,2
+366,3538U0YQ1H88PQGVPXOQFAHXL0TF37-2,"Betty bertanggung jawab untuk merencanakan pernikahan bagi Amy, dan _ akhirnya menjadi sangat menuntut.",Betty,Amy,2
+367,38DCH97KHH01749MM0F7FIERUQSQJV-2,Cuaca yang lebih dingin cocok untuk Joel tetapi tidak Kevin karena _ merasa bahwa itu menyebabkan rasa sakit mereka.,Joel,Kevin,2
+368,3TZ0XG8CBUI6VOWHEU7U4XFO9TM98X-2,Celana itu diiris dengan pisau dan kemudian dengan pisau cukur. _ digunakan kedua.,pisau,pisau cukur,2
+369,37S0QRNUFDULB8CET0DGWZ8MFNK88Y-1,"Untuk membersihkan lantai saya, saya menggunakan sapu dan kadang-kadang juga menggunakan pel, karena saya ingin cepat hari ini saya menggunakan _ di lantai.",sapu,pel,1
+370,3KA7IJSNW63AP9AVYVN1HP54M5LBPT-2,"Christine memiliki pernikahan terburuk daripada Rebecca karena di pernikahan _, cuacanya bagus.",Christine,Rebecca,2
+371,3ACRLU860NC6SIL5PH7QND603HYBEK-1,Elena lebih kurus dari Lindsey karena _ suka makan banyak kubis dan sayuran.,Elena,Lindsey,1
+372,3N2YPY1GI6WL1WJBUYYQOP076B3EVM-2,"Untuk menghindari perpisahan, Randy mengikuti di belakang Kyle karena _ sangat akrab dengan daerah itu.",Randy,Kyle,2
+373,36U4VBVNQQRPRAYNVCKLJ8LF0ZOURI-1,Callie melakukan diet cair melalui tabung tetapi kesakitan karena _ itu menyakitkan.,tabung,diet,1
+374,3BC9H1KCYUAWMQ07K9FGHUB1VR4WYD-1,Setelah mendengar tentang ulasan yang baik Jeffrey pergi ke Robert untuk kue pernikahan karena _ bertunangan.,Jeffrey,Robert,1
+375,3538U0YQ1H88PQGVPXOQFAHWKZL3FI-2,"Victoria tidak tahu bagaimana memotivasi Lindsey untuk berolahraga setiap hari, dan _ berharap dia tidak akan membuat rencana.",Victoria,Lindsey,2
+376,3K8CQCU3KEZ2ARWTD7650EDUR71WNO-2,"Makan permen adalah masalah besar bagi Carrie tetapi tidak untuk Rebecca, itu sebabnya _ memiliki lingkar pinggang yang kecil.",Carrie,Rebecca,2
+377,35ZRNT9RUIWN1EUH42VGA622JTGO33-1,"Kutu buku yang rajin, Lawrence membaca fiksi sementara Jason membaca non-fiksi. _ suka melarikan diri ke dunia imajiner.",Lawrence,Jason,1
+378,372AGES0I432EPTBGJJ8BHWB14KXRQ-1,"Amy membuat banyak musuh dalam hidup, tetapi Laura tidak. _ selalu tidak bahagia.",Amy,Laura,1
+379,3TC2K6WK9G0VV4BITLSFUA7A3MP82F-1,Perban yang dibelinya untuk menutupi luka bakar tidak muat karena _nya terlalu besar.,luka bakar,perban,1
+380,3L2OEKSTWBO0QE3W64BAVCWN6G28YF-1,Nick ingin tinggal di rumah Jumat malam sementara Leslie ingin pergi berdansa karena _ merasa sangat lelah.,Nick,Leslie,1
+381,37AQKJ12TXM8DNXJFYN6MTCNCZITTH-2,Betty berbicara dalam tidur mereka dan Mary merasa sulit untuk tidur dengan kebisingan sehingga _ pergi untuk membeli beberapa penyumbat telinga.,Betty,Mary,2
+382,3LB1BGHFL2U4U9WDP4A5UA42RWWTYS-1,"Aaron meminta Steven untuk membantu pekerjaan rumah, karena _ manja.",Aaron,Steven,1
+383,375VSR8FVW7RJKTQH17T82CMEQPRZ1-2,"Adam dengan sopan meminta Ryan untuk mencapai buku di rak atas, karena _ tidak pendek.",Adam,Ryan,2
+384,34OWYT6U3YVEEJ717EVL9KXB1RZ9IR-2,Anjing itu menangis dengan ikat leher yang menyakiti lehernya karena _nya kecil.,leher,ikat leher,2
+385,3UEDKCTP9X416V9WSKID84LHXTQK70-2,"Katrina meminjamkan jaketnya kepada Carrie pada malam yang dingin, karena _ merasa kedinginan.",Katrina,Carrie,2
+386,3AA88CN98P15RQ6QVVWDTJH68IKKYQ-1,"Tidak seperti Benjamin, Adam mengendarai kendaraan listrik hibrida karena _ ingin mengurangi polusi kabut asap.",Benjamin,Adam,1
+387,366FYU4PTGN7LLPZVUKJMGPQQDWEK0-2,Victoria menggunakan lebih banyak minyak saat menggoreng ayam daripada Maria karena _ terlalu peduli tentang kolesterol.,Victoria,Maria,2
+388,375VSR8FVW7RJKTQH17T82CMEQPRZ1-1,"Adam dengan sopan meminta Ryan untuk menraih buku di rak atas, karena _ sangat pendek.",Adam,Ryan,1
+389,3BAWBGQGYNDFM638ROWKADWYDFTV75-2,"Karena Betty sangat kurang pandai dibanding Natalie, _ cenderung lebih mudah menghemat uang.",Betty,Natalie,2
+390,34F34TZU7WXKFL71KPP6J0GOEG12J8-1,Para pengganggu biasanya membiarkan Sarah tetapi mengganggu Maria karena _ sangat kuat secara fisik.,Sarah,Maria,1
+391,39RRBHZ0AUZJCRA7QLC39Z1PZW2ZV2-2,"Monica memutuskan untuk mencuci kemeja putih Angela, tetapi kemeja itu terkena noda warna. _ merasa marah.",Monica,Angela,2
+392,3MD8CKRQZ11GDUNTJDG7C6C5KB5JRD-1,Anjing itu ingin tinggal di taman dan tidak kembali ke rumah karena _nya terlalu kecil.,rumah,taman,1
+393,3CIS7GGG65HLOHUBP8OLS3YOXI6EU6-2,"Adam menyalahkan Steven untuk komunikasi yang buruk dan Intel di medan perang, karena _ memecahkan radio.",Adam,Steven,2
+394,3D0LPO3EADD3B6QCDL06SYMNLVWOY8-1,"Termostat menunjukkan bahwa di bawah dua puluh derajat lebih dingin daripada di atas, jadi Byron tetap _ karena dia panas.",di bawah,di atas,1
+395,36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-2,"Dia pikir dia punya waktu untuk mengambil rute yang indah ke toko, tetapi _ itu tutup lebih awal.",rute,toko,2
+396,3A520CCNWNY198GDJ37US2MULV6EAD-2,"Hunter menyukai tulip dan Ryan tidak, jadi _ menolak untuk membeli beberapa dari toko.",Hunter,Ryan,2
+397,3BAWBGQGYLX0SH417QKKIF8QKL3V7F-2,"Sebelum bergabung dengan militer, Sarah memberi tahu Kayla tentang apa yang diharapkan sebelum ditempatkan sehingga _ tidak perlu khawatir.",Sarah,Kayla,2
+398,3KI0JD2ZU3WU7GO7QGOCYLGZWY667H-1,"Karena anjing Craig sakit dan membutuhkan dokter hewan sementara anjing Kevin sehat dan energik, _ membawa anjingnya ke rumah sakit hewan.",Craig,Kevin,1
+399,3566S7OX5DHK65O30C0VBR1A0Y771G-2,"Saya membenci sistem yang berlaku di perguruan tinggi dibandingkan dengan program di sekolah, karena _nya sederhana.",sistem,program,2
+400,3ACRLU860NC6SIL5PH7QND608YUBEJ-2,"Eric memadamkan api listriknya dengan soda kue, sementara Craig mencoba air. Rumah _ terbakar.",Eric,Craig,2
+401,3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-1,Mary memiliki tubuh yang lebih baik dan lebih suka pamer daripada Emily. _ suka memakai bikini ke pantai.,Mary,Emily,1
+402,3CZH926SIES118Z3U0937XO2MSRE49-1,James membutuhkan kotak yang lebih besar untuk mengumpulkan perak yang dia tukarkan dengan emas karena _nya lebih besar.,perak,emas,1
+403,373L46LKP74FW1BR9VVAJW2I0V8KJW-2,tukang cukur mencoba menggunakan sisir sikat rambut tetapi _ itu terlalu lemah.,rambut,sisir,2
+404,3AA88CN98P15RQ6QVVWDTJH68IKKYQ-2,"Tidak seperti Benjamin, Adam mengendarai kendaraan listrik hibrida karena _ ingin meningkatkan polusi kabut asap.",Benjamin,Adam,2
+405,3TFJJUELSHNX771VAX8KWW3TTFCC2V-2,"Kakak saya lebih senang menulis di blog daripada di jurnalnya, karena _nya tidak bisa dilihat siapa pun.",blog,jurnal,2
+406,3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-2,"Ketika Brenda melapisi panel kayunya dengan pernis, permukaan beton di bawahnya ternoda. Pernis merusak dan memperburuk _.",kayu,beton,2
+407,3JYPJ2TAYKMFWFLINVLXSDKYQZIPFW-2,"Mereka menginginkan lebih banyak kekenyangan di pesta pernikahan, jadi perencana menggunakan lapisan gula daripada buah pada kue karena _nya lebih tidak mengenyangkan.",lapisan gula,buah,2
+408,3L1EFR8WWT3FA364M8D0EPWARH39FH-2,"Tanya harus naik pesawat ke negara lain sedangkan Maria harus melalui jalan, jadi _ bepergian dengan motor.",Tanya,Maria,2
+409,3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-2,Michael meminta bantuan Brett untuk memindahkan meja. _ juga tidak akan mampu melakukannya sendiri.,Michael,Brett,2
+410,3V0TR1NRVCGYBVIREV7HBEYC2KC4A4-1,"Jeffrey diharuskan mengikuti aturan yang ketat, tetapi aturan untuk Randy lebih lunak, yang membuat _ merasa lebih tertindas.",Jeffrey,Randy,1
+411,3CIS7GGG65HLOHUBP8OLS3YOXEAUEI-2,Tukang kayu itu mengambil papan dari truknya dan menaruhnya di garasi sampai _ itu kosong.,garasi,truk,2
+412,3BC9H1KCYWQBGFZE47RG9SZ9ON4WYH-2,"Rumah sang cenayang membuat Randy ketakutan dengan semua patung malaikat sementara Joseph tersenyum tenang pada mereka, karena malaikat mengingatkan _ pada bayi yang sedang tidur.",Randy,Joseph,2
+413,3TKXBROM5VO3KVKATQMYYEBDWK1IJU-1,"Patricia selalu harus membersihkan setelah Angela, karena _ tidak mau hidup kotor.",Patricia,Angela,1
+414,35F6NGNVMAX09EZJMTW59V8DG09T7V-1,Aku mencium bau kue dan bertanya-tanya apakah ibu sedang membuat havermut atau keping cokelat. Aku mencium bau kayu manis jadi saya berlari ke bawah untuk mendapatkan kue _.,havermut,keping cokelat,1
+415,37Y5RYYI0RJT9TSVF6VDTPPFGJOXS1-1,"Langit berwarna coklat di atas pabrik, ketika _ menyerap begitu banyak polusi sepanjang hari.",langit,pabrik,1
+416,3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-1,Ada lebih banyak buku di perpustakaan daripada di toko buku karena _nya lebih besar.,perpustakaan,toko buku,1
+417,371Q3BEXDJNIEOSAGOJYQA5QOKDZST-1,"Meskipun Christine kehilangan lebih banyak bobot daripada Jessica, _ masih makan lebih banyak permen secara keseluruhan meskipun demikian.",Christine,Jessica,1
+418,3TD33TP5DNGIWU30TAH4JS4ICFQBAK-1,James tidak bisa memasukkan gelang baru ke pergelangan tangannya karena _nya terlalu besar.,pergelangan tangan,gelang,1
+419,3MNJFORX8DIB353Z3GCJU7FGYG2F5G-2,"Udara dingin membanjiri gubuk tetapi rumah tetap hangat, karena jendela _ tetap tertutup.",gubuk,rumah,2
+420,3MD8CKRQZ11GDUNTJDG7C6C5LTGRJX-2,"Mary meletakkan perabotan yang tidak terpakai di ruang baca sebelum mendekorasi ruang makan, karena _ akan terlihat selama pesta.",ruang baca,ruang makan,2
+421,388CL5C1RJLUP1YJ6V4QMJZIC78HLY-1,"tukang ingin memperbaiki mesin dengan menggunakan panci minyak dan pompa air baru, tetapi _ kekurangan minyak.",panci,pompa,1
+422,3D1TUISJWKECYBV45PQC5GKOD4WUI7-2,"Di taman, Rachel ingin memberi makan burung-burung dengan makanan burung. Samantha mengatakan ini buang-buang uang. _ tidak peduli bahwa mereka tidak memberi makan burung-burung itu.",Rachel,Samantha,2
+423,385MDVINFETLLQ4FI7QDZ5KLBPRWJV-2,"Kamar tidurnya harus memiliki meja berlemari diganti dengan kabinet baru, karena _ itu sangat lapang untuk semua pakaian baru.",meja berlemari,kabinet,2
+424,3CMIQF80GP44DYTMMFXIYCXU1296QI-2,"Di sekolah, Tanya suka bermain game, sedangkan Monica selalu fokus belajar, sehingga _ lebih serius.",Tanya,Monica,2
+425,39KMGHJ4R1OLBU283SNMA5WMCPI00X-2,Mendekati beruang itu mengejutkannya sehingga kami memberikannya madu bukan air karena _ memiliki efek hiruk pikuk.,madu,air,2
+426,3MQY1YVHS5YTRR8WGVOPDALJZHJ2B2-1,James membutuhkan lebih banyak terong jika dia ingin mengisi panci. Dia tidak tahu _ akan sekecil itu.,terong,panci,1
+427,385MDVINFCD6R158Y9ED77WDIS1JWM-1,Katrina selalu bisa pergi minum dengan teman-teman tetapi bukan kayla karena _ sudah terlalu tua.,Katrina,Kayla,1
+428,3D1UCPY6GINZAB68HJIK5I0BYMV83E-1,"Untuk mengatasi bias perilaku, kita perlu lebih fokus pada perubahan tindakan sadar daripada tindakan bawah sadar karena tindakan _ tidak disengaja.",bawah sadar,sadar,1
+429,3KWGG5KP6J0NEB5OKFR4B5HRZHVCMI-1,"Peti baru John yang dia beli untuk dirinya sendiri tidak akan muat melalui pintu depan rumahnya, _ itu terlalu besar.",peti,pintu,1
+430,36FQTHX3Z55IC94FKV2UWKQB5ROB3J-2,"Kami harus membersihkan kekacauan besar itu menggunakan pel, alih-alih sapu, karena _nya rapuh.",pel,sapu,2
+431,38VTL6WC4CRH3WKU8647JSMW4Q15YA-1,"Nick baru memulai bisnis akuntansi, dan Jeffrey memulai toko roti. _ lebih baik dalam matematika.",Nick,Jeffrey,1
+432,3MDKGGG61QL2BPM7JLFDBJK9X6B6TM-1,"Monica mengirim Sarah paket perawatan sirup maple buatan sendiri, karena _ tinggal di Vermont.",Monica,Sarah,1
+433,3BJKPTD2QCAVX8KRB9IBMEB5OA7RTG-2,"Angela lebih mencintainya daripada Katrina, dan _ tidak peduli jika dia harus kehilangannya.",Angela,Katrina,2
+434,3UUSLRKAUL1EY04FG5KQCT2JPVA7D6-1,"Saya lebih suka mengirim email daripada mengirim surat, karena _itu nyaman.",email ,surat,1
+435,36818Z1KV3BYZA0GUJQY9BIXZQ83AC-1,Suami saya dan saya suka akun bersama daripada akun terpisah karena kami berdua dapat mengakses _.,akun bersama,akun terpisah,1
+436,3A520CCNWPEG3XFK31JUK0A3GCWEAH-2,John memberikan sedikit tekanan pada jerawat tetapi tidak pecah. Sepertinya _nya lemah.,jerawat,tekanan,2
+437,3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-2,Dia merasa dia memiliki baking powder untuk kue tetapi meminjam baking soda dari tetangganya karena baking _nya penuh.,soda,powder,2
+438,34KYK9TV2R6721QNQCRVCUAF487BSL-1,Sarah merasa suara saksofon itu damai tetapi Maria merasa itu tidak menyenangkan. _ membeli album Kenny G.,Sarah,Maria,1
+439,3ACRLU860PSLM7KC9FJQFBU9XUOBEF-1,"Teh dan kopi masing-masing harus diminum dari wadah yang berbeda, cangkir dan mug. Teh biasanya disajikan dalam _, dengan susu dan terkadang gula.",cangkir,mug,1
+440,3538U0YQ1H88PQGVPXOQFAHXL0TF37-1,"Betty bertanggung jawab untuk merencanakan pernikahan bagi Amy, dan _ akhirnya menjadi sangat berguna.",Betty,Amy,1
+441,3JHB4BPSFK7C1SWD0OOUQO0O3YT9QR-1,"Ben ingin mendapatkan pensil atau TV untuk mengubah hidupnya, tetapi _ itu terlalu murah.",pensil,TV,1
+442,3CZH926SIES118Z3U0937XO2MSRE49-2,James membutuhkan kotak yang lebih besar untuk mengumpulkan perak yang dia tukarkan dengan emas karena _nya lebih kecil.,perak,emas,2
+443,36KM3FWE3TQZT52SOR8VPK69K5E70Y-2,Callie lebih banyak berlatih menari daripada berlatih gitar meskipun resital minggu depan adalah untuk _.,menari,gitar,2
+444,37SOB9Z0SSVFVTRKRAFOIPY8T27L3C-2,"Sementara keluarga berada di toko kelontong, mereka membeli sabun, bukan sampo karena _ itu berlebihan.",sabun,sampo,2
+445,3TKXBROM5VO3KVKATQMYYEBDWK1IJU-2,"Patricia selalu harus membersihkan setelah Angela, karena _ tidak peduli hidup dalam keadaan kotor.",Patricia,Angela,2
+446,34XASH8KLS0L2PDZ9IPAN346MHFMPG-1,"Polisi bisa mengawal tahanan ke gerbang tetapi tidak ke sel, karena masuk ke _ diizinkan.",gerbang,sel,1
+447,3LG268AV3AK82E115C5GFQZCE6BERS-1,"Nasinya mengandung terlalu banyak garam, tetapi kentangnya diberi cukup garam, dan hasilnya _ itu enak.",kentang,nasi,1
+448,3MGHRFQY2N3I8PYTB0YV2XQ6P3A0YE-2,Kopi disajikan dalam cangkir lama daripada mug kaca baru karena _ sudah bersih.,mug,cangkir,2
+449,3BDORL6HKKBEBRIGPNNLX4B158XCRH-1,Jennifer diam-diam mengaku pada Erin bahwa dia tidak tahu bagaimana cara menggunakan eye shadow. _ merasa malu.,Jennifer,Erin,1
+450,38DCH97KHJGG1T8T6YR77G2ZNWDJQX-1,Elena secara tidak sengaja menumpahkan minyak kelapa di Amy yang membuat _ merasa sangat menyesal.,Elena,Amy,1
+451,3MWOYZD5WX29Z7MY6JRVBIOGHF0NOX-1,"Katrina mewariskan semua pengalamannya kepada Patricia, karena _ telah memilih untuk menjadi mentor mereka.",Katrina,Patricia,1
+452,3MJ28H2Y1E6QFTHLILJ9P30MXJBO5L-2,Derrick lulus dari sekolah perawat dengan nilai lebih baik daripada Benjamin karena _ sering bolos kelas.,Derrick,Benjamin,2
+453,3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-1,"Merasakan angin, William meminta tolong Neil untuk menutup pintu depan karena _ lebih jauh.",William,Neil,1
+454,3A9LA2FRWUS4JKEF4CJEPBID751HXO-1,Neil memiliki burung sebagai hewan peliharaan dan Michael memilih kuda karena _ menyukai hewan yang bisa terbang.,Neil,Michael,1
+455,3CVDZS288JE9BCO5VFT5B9Q2KPAFMG-1,Pria itu lebih mudah berjalan di gurun daripada di salju karena lebih panas di _.,gurun,salju,1
+456,3AC6MFV69KGEUQFNLWVZUYAGRCMZHX-1,Anak itu ingin menyimpan kerang di dalam kotak tetapi _nya terlalu kecil.,kotak,kerang,1
+457,3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-2,"Selimut yang dibuat Margot akan memenuhi seluruh lemari, karena _ itu kecil.",selimut,lemari,2
+458,3L60IFZKF5W7XUE0Z81SMPUJJIPHH8-2,"Anak laki-laki itu melempar frisbee sebagai ganti bola untuk diambil anjing, karena anjing itu benci bermain dengan _ .",frisbee,bola,2
+459,38XPGNCKHVEI3JLPPQYD71COMTRV45-1,Nelson dijadwalkan pensiun dari posisi mereka di perusahaan sebelum Eric karena _ lebih tua.,Nelson,Eric,1
+460,3CIS7GGG65HLOHUBP8OLS3YOXEAUEI-1,Tukang kayu itu mengambil papan dari truknya dan menaruhnya di garasi sampai _nya penuh.,garasi,truk,1
+461,3MIVREZQVJCBCDEBOJRJ8V2D3G5QKO-1,Julie merasa terlalu sulit untuk menggunakan jebakan daripada racun untuk mengatasi serangan tikusnya karena _ tersebut kurang efektif.,jebakan,racun,1
+462,36JW4WBR08YNJYNU4IDSJ4I75ANFH1-2,"Dia tidak akan mencelupkan donatnya ke dalam kopi, tetapi dia suka melakukannya dengan kukisnya, karena _nya tetapi utuh di dalam minuman.",donat,kukis,2
+463,3D17ECOUOET25MNGY0X5YAPUVV613O-2,"Imajinasinya menjadi liar di taman, tetapi tidak aktif di jalan setapak, karena dia pikir _ itu membosankan.",taman,jalan setapak,2
+464,35O6H0UNLSECEIQO28R4H7J0YU5J5B-2,Benjamin menyiapkan daftar untuk Dennis untuk dibawa ke toko kelontong karena _ tidak harus bekerja akhir pekan itu.,Benjamin,Dennis,2
+465,3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-2,"Rumah Jeffrey terbakar dan Lawrence memadamkannya, kemudian _ menerima hadiah besar sebagai ucapan terima kasih.",Jeffrey,Lawrence,2
+466,3BDORL6HKKBEBRIGPNNLX4B158XCRH-2,Jennifer diam-diam mengaku pada Erin bahwa dia tidak tahu bagaimana cara menggunakan eye shadow. _ meyakinkannya.,Jennifer,Erin,2
+467,3N2YPY1GI8C0VLIIEWAQGNOFZE1EV2-2,"Felicia membalas email dari Christine, saat _ menanyakan beberapa informasi tentang tunjangan karyawan dari perusahaan tempat mereka bekerja selama 10 tahun.",Felicia,Christine,2
+468,3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-1,Bola sepak itu terbang lebih tinggi daripada bola basket saat melayang di udara. _ lebih ringan.,bola sepak,bola basket,1
+469,3D1TUISJWKECYBV45PQC5GKOD4WUI7-1,"Di taman, Rachel ingin memberi makan burung-burung dengan makanan burung. Samantha mengatakan ini buang-buang uang. _ sedih mereka tidak memberi makan burung-burung itu.",Rachel,Samantha,1
+470,3TX9T2ZCB9ZWRGACGVHZV1K31JYWZQ-1,Katrina suka terus bergerak sedangkan Angela suka diam karena _ gelisah.,Katrina,Angela,1
+471,3CZH926SICCM7J0WA2X3FZ0UTQFE4H-2,Logan memiliki lebih sedikit waktu untuk bersiap-siap di pagi hari daripada Jeffrey karena _ tidak memiliki balita.,Logan,Jeffrey,2
+472,3MQY1YVHS5YTRR8WGVOPDALJZ8KB2U-2,Mobil tua tidak akan muat di dalam garasi yang berantakan karena _nya terlalu besar.,garasi,mobil,2
+473,37VE3DA4YUFICSC7FIFW8G3D0EBBHO-2,Ian meminta Kevin untuk membantu pajak mereka karena _ adalah akuntan yang sukses dan terlatih.,Ian,Kevin,2
+474,3MJ9GGZYO5KO8H34AHOTIZ1DHFLA2Y-2,Joseph membantu proyek atap sementara Neil memimpin sehingga _ melakukan pekerjaan berpikir..,Joseph,Neil,2
+475,3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-2,Jennifer lebih baik dalam olahraga daripada Laura meskipun _ jauh lebih atletis.,Jennifer,Laura,2
+476,37VHPF5VYC18TM3KQEHL6NGWFE8C80-2,Ember adalah pilihan yang lebih baik daripada cangkir untuk membawa air karena _ menampung lebih sedikit.,ember,cangkir,2
+477,3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-1,Jelas Jessica paham dan terhibur dengan artikel dari Monica karena _ adalah pembacanya.,Jessica,Monica,1
+478,382GHPVPHU5YRAJ65GS7O6K6XIB34F-1,"Untuk meningkatkan kekuatan otaknya, Mitch memutuskan untuk mengambil lukisan daripada membaca, karena _ itu sulit bagi matanya.",membaca,lukisan,1
+479,37J05LC5AXH7IV5HHE9NFJ7SB77DJ9-1,Kayla adalah pemilik usaha kecil tetapi Samantha tidak begitu _ bisa menyewa untuk pekerjaan di bisnis.,Kayla,Samantha,1
+480,3L2OEKSTW98LWP4PM6ZA3E8FI26Y8A-2,"Ben adalah kutu buku. Dia menyukai buku fiksi dan buku non-fiksi, tetapi dia memilih _ karena itu palsu.",buku non-fiksi,buku fiksi,2
+481,3ATYLI1PRVGDGHVDRLZ3IB70959JOQ-1,"Dia ingin pena fountain tetapi membeli pena rollerball, karena _ lebih mahal.",pena fountain,pena rollerball,1
+482,3UQ1LLR26A6FFEQ50PUY5XCEZCZLA8-1,Ben perlu meregangkan buku-buku jari dan kakinya. Dia merasa _ lebih mudah karena jumlahnya banyak.,buku-buku jari,kaki,1
+483,3M7OI89LVYMLP8KWXZKNM9K59LVC6V-2,"Lindsey menyukai laba-laba dan ingin mengoleksinya, tetapi mereka membuat Betty ketakutan. _ memutuskan tidak ingin tahu.",Lindsey,Betty,2
+484,3MNJFORX8DIB353Z3GCJU7FGYVCF5K-1,Sarah sangat menyukai masturbasi tetapi Carrie lebih menyukai seks. _ sangat bahagia sendirian di rumah pada hari Sabtu.,Sarah,Carrie,1
+485,3L84EBDQ370A7LH9RGVMKB2VA7WKKO-2,"Rachel memiliki seekor anjing tetapi anjing Cynthia diserahkan untuk diadopsi baru-baru ini, jadi _ memberi mereka tali pengikat yang lama.",Rachel,Cynthia,2
+486,3IZPORCT1HNKMOS3VDDM0TWP62QRH4-2,Carrie tidak mau menjual bisnisnya kepada Cynthia karena _ menawarkan harga yang terlalu rendah.,Carrie,Cynthia,2
+487,36FQTHX3Z55IC94FKV2UWKQB5ROB3J-1,"Kami harus membersihkan kekacauan besar itu menggunakan pel, alih-alih sapu, karena _nya tahan lama.",pel,sapu,1
+488,38DCH97KHH01749MM0F7FIERZ43JQW-2,"Kayunya membusuk di teras, tetapi tetap kering di garasi, karena _ membiarkannya terlindung dari elemen.",teras,garasi,2
+489,3IYI9285WSYXD3Z3HIECVDPAQCIJCC-1,Ian umumnya memiliki lebih banyak uang tunai di dompet mereka daripada Nick karena _ dibayar di bawah meja.,Ian,Nick,1
+490,3VMHWJRYHVE5BZO2POJEUSISYL0XFW-1,"Joseph memutuskan untuk merawat anjing mereka di ruang tunggu tidak seperti Leslie, jadi _ memiliki anjing pembersih.",Joseph,Leslie,1
+491,39AYGO6AFFI4GCHNMPT12KEH8NL6NF-2,"The Theraband yang dibeli Jill untuk dirinya sendiri tidak akan muat di sekitar kakinya, _ terlalu lebar.",Theraband,kaki,2
+492,372AGES0I432EPTBGJJ8BHWB14KXRQ-2,"Amy membuat banyak musuh dalam hidup, tetapi Laura tidak. _ selalu bahagia.",Amy,Laura,2
+493,3CRWSLD91K2ON02RAK0V65B8JG7OML-1,"Randy, bukan Kevin, membutuhkan tempat pernikahan yang lebih besar karena _ punya banyak teman dan keluarga.",Randy,Kevin,1
+494,371QPA24C2M743LADF3WGNTSPW9T1R-2,"Christopher adalah ahli perhiasan pemula dibandingkan dengan Matthew' yang amatir, jadi _ adalah pedagang yang ditipu oleh safir palsu.",Christopher,Matthew,2
+495,3URJ6VVYUR1NDZCSOECZC9IGQZH4OX-2,Ada lebih banyak anggrek daripada bunga aster di taman bunga karena bunga _ sedang musim yang tidak subur.,anggrek,aster,2
+496,37YYO3NWHF4PZES4RO9Q070OV9ACC6-2,"Ryan hanya menemukan satu tomat di kebun Brett yang matang, dan _ tidak ingin mengambil.",Ryan,Brett,2
+497,3CZH926SICCM7J0WA2X3FZ0UTPH4E7-2,Randy memasak mie untuk sebuah resep dan Michael tidak karena _ sedang membuat hamburger.,Randy,Michael,2
+498,3L1EFR8WWVJU4S5B66P06NKJLV1F9S-2,Sue ingin berlatih meditasi jadi dia pergi ke gym dengan kelasnya tetapi _nya terlalu ramai.,kelas,gym,2
+499,3VEI3XUCZTBCZ5QREQLR92YGSDDRPQ-2,James bisa melihat sisi lain ruangan melalui plat tidak seperti papan yang ada di sana sebelumnya. Pasti _nya buram.,plat,papan,2
+500,3V8JSVE8YYO25QEGZ9LAVO41OP9EYT-2,"Betty menyerahkan laporan mereka tepat waktu pada hari Jumat, sementara Mary meminta perpanjangan dua hari, jadi _ menghabiskan akhir pekan untuk menulis.",Betty,Mary,2
+501,3MA5N0ATTEPGWAAX0SQP0KKYQERWKU-1,"Saya tidak bisa memutuskan perhiasan apa yang akan saya kenakan, haruskah saya memilih zamrud atau safir? Pakaian saya berwarna biru, jadi saya memilih _.",safir,zamrud,1
+502,3UEDKCTP9X416V9WSKID84LHXXOK76-2,Victoria lebih modis daripada Elena karena _ selalu khawatir meninggalkan ketombe di bajunya.,Victoria,Elena,2
+503,38DCH97KHJGG1T8T6YR77G2ZNY2QJX-1,"Ketika tangki harus dibersihkan, Betty pergi sehingga Maria harus melakukannya. _ merasa licik.",Betty,Maria,1
+504,3MDKGGG61S1H5ELE3JRD3H8HLXST6F-1,Tidur dengan selimut lebih cocok untuk Kenneth daripada Jeffrey karena _ tinggal di tempat yang lebih dingin.,Kenneth,Jeffrey,1
+505,34O39PNDK66V1MQABNRQMK5JI38BRB-2,"Erin memakai kawat gigi saat ia masih muda sedangkan Lindsey tidak demikian, _ memiliki gigi yang sangat bengkok.",Erin,Lindsey,2
+506,36GJS3V78X4PO4EF32MVD2YXHAFGJC-2,"Saya mendapat getah di rambut saya dan dengan mudah mengeluarkannya, jadi kami harus mengeluarkan _ dengan lembut dari kepala saya.",rambut,getah,2
+507,3TZDZ3Y0JUK3EDB3Z7AFHLGPLMV19T-1,Bunga yang ditaruh di jendela sudah mulai menghalangi sinar matahari karena _nya besar.,bunga,jendela,1
+508,38DCH97KHH01749MM0F7FIERULOJQA-2,"Jessica sering mengalami mual parah, Victoria tidak karena itu _ sering mengendarai roller coaster besar.",Jessica,Victoria,2
+509,3APP19WN73SD09Z8JJS64YTSV1PG6U-2,Meskipun Joseph adalah guru bahasa Inggris yang lebih baik daripada Hunter _ tidak pernah mempertanyakan kapan harus menggunakan koma.,Joseph,Hunter,2
+510,3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-1,Ben memilih antara bisnis pakaian dan bisnis kebugaran. Ia akhirnya membuka usaha _ karena sehat.,kebugaran,pakaian,1
+511,3IZPORCT1F75SZTWBF1M8V8HIV3RHW-1,"Saya mengalami kesulitan dengan levelnya dalam game itu dan bukan mini game-nya, karena _nya sangat sulit.",level,game,1
+512,37PGLWGSJT4J1QRLRDAA7VNINIGIKJ-2,"Kenny ingin menikahi Paulie di katedral tetapi Paulie takut tempat yang besar, sehingga upacara pernikahan mereka berlangsung di sebuah gua karena _ kecil.",katedral,gua,2
+513,391FPZIE4E0C2GKKZ78R54JAESQUHS-1,"Pembengkakan di bawah mata Jennifer jauh lebih buruk daripada Angela, karena _ dipukul lebih keras.",Jennifer,Angela,1
+514,3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-1,"Kenneth bertanya kepada Dennis jam berapa dansa itu diadakan, karena _ sudah lupa.",Kenneth,Dennis,1
+515,3LOJFQ4BOXD2TFBZZZ9ZGY75Q1VDK6-2,Lindsey mencoba memasang karpet di rumah Erin karena _ sangat buruk dalam hal itu.,Lindsey,Erin,2
+516,3B9J25CZ27R56VH0OAZQFC45F0PSCH-1,Kenneth kehabisan tempat di arcade. Dia merampok William karena _ adalah orang yang licik.,Kenneth,William,1
+517,3VCK0Q0PO7SOWQUF4YPKLHSYJ8CN0R-2,Rambut yang Hannah tempelkan di rambutnya dengan lem tertiup angin. _nya dipastikan kencang.,lem,angin,2
+518,3UQ1LLR26A6FFEQ50PUY5XCEZCZLA8-2,Ben perlu meregangkan buku-buku jari dan kakinya. Dia merasa _ lebih mudah karena mereka sedikit.,buku-buku jari,kaki,2
+519,3M47JKRKCZFY7UTQ0LGICLCU76968D-1,Maria bertanya kepada Megan apakah dia mau membantu membersihkan garasi karena _ ingin menyelesaikan pekerjaan di sekitar rumah.,Maria,Megan,1
+520,3UZUVSO3P7T2B9P2G6XZ1THUFBBEMB-1,"Samantha umumnya lebih cepat dalam berlari daripada Jessica, jadi itu mengejutkan ketika _ kalah dalam perlombaan dengan selisih yang besar.",Samantha,Jessica,1
+521,3LB1BGHFL4AJOYVK92M5M8SBMJSTYE-2,Nelson sedang dalam misi untuk menghancurkan karir Michael karena _ telah membuatnya tersinggung di masa lalu.,Nelson,Michael,2
+522,3NBFJK3IOHGOVQ65ZH20T0RBNXTOGH-1,"Nelson ada di dalam teepee, sementara Jason tetap di luar, jadi _ menghindari basah kuyup di tengah hujan badai.",Nelson,Jason,1
+523,3BAWBGQGYNDFM638ROWKADWYDFTV75-1,"Karena Betty sangat kurang pandai dibanding Natalie, _ cenderung lebih mudah menghabiskan uang.",Betty,Natalie,1
+524,37VE3DA4YUFICSC7FIFW8G3DVUABHE-1,Eric suka belajar film tidak seperti Benjamin karena _ memiliki ketertarikan pada seni.,Eric,Benjamin,1
+525,3MD8CKRQZ11GDUNTJDG7C6C5KB5JRD-2,Anjing itu ingin tinggal di taman dan tidak kembali ke rumah karena _ itu sangat luas.,rumah,taman,2
+526,38G0E1M85M32QSGXKYDVS7MAXE5VUR-1,Hunter dengan percaya diri menunjukkan Adam tangki air yang ia bangun akhir pekan ini. _ berguna.,Hunter,Adam,1
+527,3UOMW19E6FK40TJPCEMIM1UE3SOC5Y-1,Christopher membantu Randy mendapatkan nomor identifikasi pemberi kerja federal karena _ memiliki lebih banyak pengalaman di bidang itu.,Christopher,Randy,1
+528,3TKSOBLOHNUNF48SZOH0E3ONT3JBBW-1,"Karena Lindsey lebih suka pergi berkemah daripada Natalie, _ menganggap memiliki kantong tidur itu penting.",Lindsey,Natalie,1
+529,3L21G7IH49AIFEJB7J2VG29FSBNY1E-1,Kakek-nenek orang tersebut tidur lebih lambat di akhir pekan daripada hari kerja karena mereka tidak harus bekerja di _.,akhir pekan,hari kerja,1
+530,37VE3DA4YUFICSC7FIFW8G3DVYNHB5-2,"Jennifer berisiko bertemu hiu selama berenang, tetapi Emily tidak, karena _ berenang di danau.",Jennifer,Emily,2
+531,3JMNNNO3B126L570RO8L8QAWLVIW2C-2,Ben sedang mencari kasur baru dan menemukan pegas dan busa memori. Dia menyukai kasur _ karena kaku.,busa memori,pegas,2
+532,3B9XR6P1WG9TXN64NGUHCR7018SJBP-1,Lindsey tidak merasakan tetesan yang membuat Jessica basah karena _ jauh dari titik bocor di atap.,Lindsey,Jessica,1
+533,36GJS3V78VOAUFF8J4AVL4APOYFJGF-1,Penonton di drama itu menertawakan Neil tetapi bukan Kyle karena _ lucu di atas panggung.,Neil,Kyle,1
+534,3KQC8JMJGE6S3M71KNCQIVT908NH37-2,Dia tidak pernah bisa menggunakan penjepit bulu mata pada bulu matanya karena _nya terlalu besar.,bulu mata,penjepit,2
+535,379OL9DBSSCLAUNZRY5O3A3Q2669YO-1,Bill menuangkan kantong apel hijau ke dalam mangkuk putih sampai _nya benar-benar kosong.,kantong,mangkuk,1
+536,3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-1,Diskusi yang menguras tenaga dilanjutkan dengan ceramah yang hidup. _nya sangat membosankan.,diskusi,ceramah,1
+537,3C8QQOM6JPZULW93CDMBMV0XCJ7LID-1,"Para dokter lebih suka memberi pasien mereka pil daripada cairan, karena _nya lebih menyakitkan.",cairan,pil,1
+538,36BTXXLZ2XMQAC48G6T364NL1DN4RA-1,"Tembok itu bisa mencegah ombak menerjang rumah, karena _ itu berada di antara dia dan ombak.",tembok,rumah,1
+539,3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-2,Brett lebih siap menjadi orang tua daripada Aaron karena _ hanya menghabiskan sedikit waktu dengan anak-anak.,Brett,Aaron,2
+540,3B9J25CZ27R56VH0OAZQFC45F2ESCA-1,Megan mengatakan akan membebaskan keluar tanpa riasan seperti yang dilakukan Elena. _ selalu memakai riasan saat keluar rumah.,Megan,Elena,1
+541,34OWYT6U3WFZKU8UNGJLHM92CRHI98-1,"Joel adalah orang yang romantis, tidak seperti Robert, jadi _ adalah orang yang naksir teman sekelasnya.",Joel,Robert,1
+542,3TL87MO8CMNAB57DB5GQJYN5RBKLFQ-2,"Robert tidak sabar menunggu pohon pir itu berbuah, meskipun Jeffrey kurang bersemangat. _ tidak pernah menyukai buah pir.",Robert,Jeffrey,2
+543,36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-1,"Glenda selalu mengendarai station wagon di malam hari daripada mobil sport, karena _ memiliki lampu depan yang lebih cerah.",station wagon,mobil sport,1
+544,3CO05SML7V3UHZN0D7U12390R1KR0I-1,Kesehatan mental Brian jauh lebih baik daripada William karena _ menemui terapis.,Brian,William,1
+545,3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-2,"Kenneth bertanya kepada Dennis jam berapa dansa itu diadakan, tetapi _ lupa.",Kenneth,Dennis,2
+546,3UQ1LLR26CMU93PCKN6YXV0NO95AL7-1,"Tubuh James terasa panas, jadi dia meletakkan kompres di atasnya untuk mendinginkannya. Suhu _nya tinggi.",tubuh,kompres,1
+547,3BJKPTD2QCAVX8KRB9IBMEB5TPYTR8-2,"Wanita itu mencoba menggunakan losion untuk melembabkan kulitnya, tetapi _nya terlalu lemah.",kulit,losion,2
+548,3TKXBROM5VO3KVKATQMYYEBDW8XJI3-1,"Brett tidak percaya Craig bahwa minyak esensial bekerja, sampai _ mengetahui bahwa minyak itu memang efektif.",Brett,Craig,1
+549,3BC9H1KCYWQBGFZE47RG9SZ9ON4WYH-1,"Rumah sang cenayang membuat Randy ketakutan dengan semua patung bidadari sementara Joseph tersenyum tenang pada mereka, karena bidadari mengingatkan _ pada hantu.",Randy,Joseph,1
+550,3AC6MFV69MWTOFEU5U7ZMWYPHJ1ZH1-1,Ketika laba-laba mati Maria sangat gembira tetapi Kayla kesal karena _ membenci laba-laba.,Maria,Kayla,1
+551,3D1UCPY6GINZAB68HJIK5I0BYMV83E-2,"Untuk mengatasi bias perilaku, kita perlu lebih fokus pada perubahan tindakan sadar daripada tindakan bawah sadar karena tindakan _ bersifat sukarela.",bawah sadar,sadar,2
+552,37AQKJ12TXM8DNXJFYN6MTCNCZITTH-1,Betty berbicara dalam tidur mereka dan Mary merasa sulit untuk tidur dengan kebisingan jadi _ pergi menemui spesialis.,Betty,Mary,1
+553,38DCH97KHJGG1T8T6YR77G2ZNUIJQY-2,Michael membeli ulat burung sebagai makanan hewan peliharaan tetapi Kenneth tidak karena _ memiliki kuda poni sebagai hewan peliharaan.,Michael,Kenneth,2
+554,3MG8450X2QO4FXI8IKGWEDL10Q3PU9-1,James tidak bisa mendengar respon yang diberikan oleh gadis itu tetapi dia bisa mendengar tangisannya karena _nya yang tenang.,respon,tangisan,1
+555,378G7J1SJNCDAAIN46FM2P7T6RNWEM-1,"Neil bertekad untuk mengatasi kemalasannya dan membantu Matthew melakukan pekerjaan pekarangan, tetapi _ sedang berjuang untuk bangun.",Neil,Matthew,1
+556,34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-2,Para karyawan mengadakan pesta dan minum begitu banyak alkohol sehingga mereka tidak bisa bekerja keesokan harinya. _nya berlebihan.,pesta,alkohol,2
+557,37VE3DA4YUFICSC7FIFW8G3DVYNHB5-1,"Jennifer berisiko bertemu hiu selama berenang, tetapi Emily tidak, karena _ berenang di lautan.",Jennifer,Emily,1
+558,3IZPORCT1F75SZTWBF1M8V8HIV3RHW-2,"Saya mengalami kesulitan dengan levelnya dalam game itu dan bukan mini game-nya, karena _-nya sangat mudah.",level,game,2
+559,3V7ICJJAZCU3U5NJK97D6PIIK914BH-2,Mark sedang dalam latihan mengumpulkan bukti yang membuktikan bahwa perusahaannya terlibat dalam Diskriminasi Usia tetapi _nya terlalu berlebihan.,bukti,latihan,2
+560,3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-2,Diskusi yang menguras tenaga dilanjutkan dengan ceramah yang hidup. _nya sangat menarik.,diskusi,ceramah,2
+561,3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-1,Jessica lebih gemuk dari Rebecca karena hampir setiap hari _ makan cokelat sebagai camilan.,Jessica,Rebecca,1
+562,3CZH926SICCM7J0WA2X3FZ0UTQFE4H-1,Logan memiliki lebih sedikit waktu untuk bersiap-siap di pagi hari daripada Jeffrey karena _ memiliki balita.,Logan,Jeffrey,1
+563,3KTCJ4SCVGZ3R8VQ4I2KU9Y0VJ41MF-1,"Guru itu tidak tahu luka apa yang lebih parah antara patah tangan atau kaki. Dia mengatakan bahwa dengan _, Anda tidak bisa menulis.",tangan,kaki,1
+564,34OWYT6U3YVEEJ717EVL9KXB1RZ9IR-1,Anjing itu menangis dengan ikat leher yang menyakiti lehernya karena _nya besar.,leher,ikat leher,1
+565,3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-2,Ben harus berhenti makan cokelat atau kacang. Dia memilih untuk berhenti makan _ karena rasanya gurih.,cokelat,kacang,2
+566,34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-1,Di laguna Emily berenang telanjang sementara Felicia memilih untuk memakai baju renang seluruh tubuh. _ sangat bebas menunjukkan tubuh mereka.,Emily,Felicia,1
+567,371QPA24C42MYSKHXDFW8LH1ESKT14-1,"Mawar yang sensitif cahaya harus dikeluarkan dari taman dan pindah ke kebun anggur, karena _nya lebih cerah.",taman,kebun anggur,1
+568,3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-2,Tanya tidak bisa meregangkan tubuh sejauh Jennifer karena _ memiliki tubuh yang sangat fleksibel.,Tanya,Jennifer,2
+569,3TTPFEFXCTIC6GVCJRYOX0HLMBCH6H-1,"Negosiator membuat kesepakatan untuk gaji, tetapi paket tunjangan masih dalam negosiasi. _ itu mudah untuk ditawar.",gaji,paket tunjangan,1
+570,3TFJJUELSHNX771VAX8KWW3TTFCC2V-1,"Kakak saya lebih senang menulis di blog daripada di jurnalnya, karena _nya bisa dilihat semua orang.",blog,jurnal,1
+571,3JHB4BPSFK7C1SWD0OOUQO0OYFS9QJ-2,Elena suka membaca buku tetapi Jessica tidak. _ selalu membeli video.,Elena,Jessica,2
+572,3KI0JD2ZU3WU7GO7QGOCYLGZWY667H-2,"Karena anjing Craig sakit dan membutuhkan dokter hewan sementara anjing Kevin sehat dan energik, _ membawa anjingnya ke taman.",Craig,Kevin,2
+573,3MNJFORX8DIB353Z3GCJU7FGYG2F5G-1,"Udara dingin membanjiri gubuk tetapi rumah tetap hangat, karena jendela _ tetap terbuka.",gubuk,rumah,1
+574,3K3G488TR26T05U1XYBDE8VMCQOQ52-1,"Lindsey menjawab telepon dan menerima pesan itu, tetapi Amy tidak karena _ adalah sekretarisnya.",Lindsey,Amy,1
+575,36BTXXLZ2V6BGN51W8H3E6ZDDT54RH-1,"Jack akan membuat sandwich tuna tetapi akhirnya makan salad tuna. Setelah membakar roti, _ itu menggugah selera.",salad,sandwich,1
+576,37VE3DA4YUFICSC7FIFW8G3D0EBBHO-1,Ian diminta oleh Kevin untuk membantu pajak mereka karena _ adalah seorang akuntan yang sukses dan terlatih.,Ian,Kevin,1
+577,37J05LC5AXH7IV5HHE9NFJ7SBB3DJD-2,"Setelah Joel mulai berkencan dengan mantan pacar Dennis, _ berusaha memutuskan hubungan baru.",Joel,Dennis,2
+578,37SQU136V92LP888VUVM2FY6N7A11H-2,Juan memutuskan untuk membeli tiket undian daripada tiket lotre karena tiket _ itu adil.,lotre,undian,2
+579,366FYU4PTGN7LLPZVUKJMGPQVPHEKE-2,Pekerjaan itu didapatkan ketika seorang teman memberinya sebuah telepon dan tiket bus. _nya bersifat sementara.,telepon,tiket,2
+580,39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-2,Lebih banyak burung di kebun daripada di taman karena _nya hanya memiliki rumput.,kebun,taman,2
+581,363A7XIFV60X5816YR84K4YPG8JVAQ-1,"Pencuri itu bisa licik di sepatu bot, tetapi tidak di sandal, karena _ terbuat dari bahan inferior.",sandal,sepatu bot,1
+582,3909MD9T21VBZOWSEH5MY1LUCSHFE2-1,James sedang mencari apakah ada ruang untuk menempatkan buku ke dalam rak. _nya kecil.,ruang,buku,1
+583,39KV3A5D1ALZUEM4XTRFZQCSG1PS77-2,"Hunter lebih sulit melakukan yoga daripada Craig, karena _ memiliki tubuh yang fleksibel.",Hunter,Craig,2
+584,37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-1,Gigi Katrina lebih kuning daripada Laura karena _ minum kebanyakan kopi sepanjang waktu.,Katrina,Laura,1
+585,371Q3BEXDJNIEOSAGOJYQA5RPQ9ZS4-2,Jane memutuskan untuk makan salad daripada sandwich karena _ memiliki lebih banyak kalori dan dia mencoba diet.,salad,sandwich,2
+586,34KYK9TV2R6721QNQCRVCUAF487BSL-2,Sarah merasa suara saksofon itu damai tetapi Maria mesara itu tidak menyenangkan. _ membeli album Metallica.,Sarah,Maria,2
+587,3B6F54KMR2A6P38VOFY66IX6ND11SG-2,"Brian memiliki banyak koleksi koin yang sangat dikagumi Kevin, jadi _ meminta beberapa duplikatnya.",Brian,Kevin,2
+588,378G7J1SJNCDAAIN46FM2P7T6B0EWL-1,"Brian suka membersihkan dengan cuka tetapi Kenneth membenci baunya, jadi _ harus menggunakan sesuatu yang lain.",Brian,Kenneth,1
+589,3B9XR6P1WG9TXN64NGUHCR7018SJBP-2,Lindsey tidak merasakan tetesan yang membuat Jessica basah karena _ berada di bawah titik bocor di atap.,Lindsey,Jessica,2
+590,3KVQ0UJWPXJYK2QN97AJ6XD856Q5W5-2,"Di akhir tahun, Christine menyadari mengapa dia gagal sementara Mary mendapat nilai A; _ berhasil menahan diri untuk bermain agar bisa belajar.",Christine,Mary,2
+591,3CIS7GGG67X0I6TI960LK1MWL5FUEC-1,Anak-anak senang meninggalkan sekolah untuk pergi ke pesta karena _ itu menyenangkan.,pesta,sekolah,1
+592,37J05LC5AXH7IV5HHE9NFJ7SB77DJ9-2,Kayla adalah pemilik usaha kecil tetapi Samantha tidak begitu _ bisa melamar pekerjaan di bisnis.,Kayla,Samantha,2
+593,39N6W9XWRDL0P4A754BYVRPD6MOGYF-2,"Ketika Ricky pergi ke latihan sepak bola, ia mematahkan pelindung tulang keringnya, meskipun sepatunya baik-baik saja, sehingga _ dibuat tahan lama.",pelindung tulang kering,sepatu,2
+594,3538U0YQ1H88PQGVPXOQFAHXL3R3FZ-2,bus seharusnya tiba di 7:45 tetapi konser yang menampilkan band indie favorit saya dijadwalkan untuk 8:00; untungnya _nyatelat sehingga aku tidak kelewatan apapun.,bus,konser,2
+595,3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-2,Mary memiliki tubuh yang lebih baik dan lebih suka pamer daripada Emily. _ benci memakai bikini ke pantai.,Mary,Emily,2
+596,38O9DZ0A62L8RQSU06VHAWBJSAY26J-1,"Adam menjelaskan emosinya kepada Robert, karena _ membutuhkan bantuan dari seorang terapis yang dapat menangani emosi kompleks.",Adam,Robert,1
+597,3IZVJEBJ6CYDRQUD9BGVP59Y6UPZ6E-2,"Saya menyumbangkan meja makan dan sofa saya untuk amal, tetapi mereka menolak _ saya karena terlalu tidak rata.",sofa,meja,2
+598,36KM3FWE3TQZT52SOR8VPK68JXG70H-2,"Neil baru-baru ini terkena hepatitis A dan meminta saran Kevin, karena _ sudah menderita hepatitis.",Neil,Kevin,2
+599,3TFJJUELSJ3C1W02UVKKOUR1H8TC25-1,Laura memiliki waktu yang lebih mudah daripada Lindsey untuk pindah dari rumah mereka karena _ memiliki rumah yang lebih kecil.,Laura,Lindsey,1
+600,39TX062QX1MAVN895TICTJTVVXM3XO-2,"Dennis memiliki tingkat testosteron yang jauh lebih tinggi daripada Christopher, jadi _ mulai khawatir dapat memiliki anak.",Dennis,Christopher,2
+601,35NNO802AVUK9WCOOQ2QZN4MCURNIS-1,"Christopher memberi pelajaran kepada Michael, karena _ memiliki begitu banyak pengetahuan bermain piano dan pengalaman.",Christopher,Michael,1
+602,3AC6MFV69KGEUQFNLWVZUYAGMXWZH8-2,Cynthia mulai menangis di akhir film. dan Victoria tertawa terbahak-bahak sehingga orang tua _ menegurnya.,Cynthia,Victoria,2
+603,39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-2,"Setelah di Polandia, Dennis menikmati perjalanan lebih dari Jason karena _ memiliki dangkal memahami bahasa Polandia.",Dennis,Jason,2
+604,3THR0FZ95R7JB7JDU6BGYQKRC61LO2-1,"Emily saat ini menderita batuk parah, tetapi Victoria tidak memilikinya, jadi _ adalah perokok.",Emily,Victoria,1
+605,3MQKOF1EE2MTOF5GODS24910D6FWDS-1,"Perusahaan asuransi menyalahkan Leslie, bukan Logan, atas kecelakaan itu karena _ melanggar lampu merah.",Leslie,Logan,1
+606,3LVTFB9DE5GRG2JLEUU4I5MB7C2GQ5-1,Ben pergi ke restoran dan terjebak di antara memesan teh jahe atau peppermint. Dia memilih _ karena dia menyukai rasa pahitnya.,jahe,mint,1
+607,34F34TZU7WXKFL71KPP6J0GOJZ2J2X-2,"Pasangan itu meminum anggur dari gelas bukannya cangkir, karena _nya bersih.",cangkir,gelas,2
+608,3URJ6VVYUR1NDZCSOECZC9IGQ084OQ-2,"Joel ingin mulai beternak lebah tetapi bertanya kepada Eric apakah dia ingin bergabung dengannya, jadi _ setuju untuk melakukannya.",Joel,Eric,2
+609,3566S7OX5FXZ0UNAKACV3PPIOHJ17V-2,Gelombang menghancurkan garasi tetapi membiarkan rumah utuh karena _ itu begitu jauh dari pantai.,garasi,rumah,2
+610,3JHB4BPSFMNRVHVKKM0UIMOWRR1Q99-2,"Di labirin kebun jagung, Kayla tertawa ketika mereka mencoba menemukan Amy, dan akhirnya _ muncul.",Kayla,Amy,2
+611,39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-1,"Setelah di Polandia, Dennis menikmati perjalanan lebih dari Jason karena _ memiliki pemahaman yang lebih dalam bahasa Polandia.",Dennis,Jason,1
+612,3UQVX1UPFUVS745MIFR0TTP19CM02F-1,John jatuh saat berjalan di trotoar dan memutuskan untuk mengambil halaman rumput sebagai gantinya. _nya licin.,trotoar,halaman rumput,1
+613,3BA7SXOG1L4RTDRAS9JGNG3R5JSR8L-1,"Michael membutuhkan Craig untuk membawa keranjangnya sepanjang perjalanan pulang, karena _ sedang tidak sehat.",Michael,Craig,1
+614,366FYU4PTGN7LLPZVUKJMGPQVPHEKE-1,Pekerjaan itu didapatkan ketika seorang teman memberinya sebuah telepon dan tiket bus. _nya lebih tua.,telepon,tiket,1
+615,39AYGO6AFHYJA1GU6N51UI2QXN56N9-2,Biji pohon ek yang saya makan untuk camilan membuat gigi saya terkelupas karena _ itu lembut.,biji pohon ek,gigi,2
+616,3KVQ0UJWPZZDERPUT5MJYV1GT8FW5W-2,"Rutinitas harian Victoria termasuk lompat tali tidak seperti Monica, jadi _ cenderung kurang sehat secara keseluruhan.",Victoria,Monica,2
+617,378G7J1SJNCDAAIN46FM2P7T6RNWEM-2,"Neil bertekad untuk mengatasi kemalasannya dan membantu Matthew melakukan pekerjaan pekarangan, karena _ sedang berjuang di luar.",Neil,Matthew,2
+618,3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-1,"Rumah Jeffrey terbakar dan Lawrence memadamkannya, kemudian _ membawakannya hadiah besar sebagai ucapan terima kasih.",Jeffrey,Lawrence,1
+619,3VGET1QSZ2DS1V3DHY1GWFFCK4J7WB-1,Putri Tanya lebih malu daripada putri Angela karena _ meneriakinya di depan umum.,Tanya,Angela,1
+620,3M4KL7H8KX1GWU951073XBPMTAT16Y-2,Evan memindahkan peluru dari pistol ke kotak untuk amunisi sampai _ itu kosong.,kotak,pistol,2
+621,371Q3BEXDJNIEOSAGOJYQA5RPSPZSO-2,"Saya ingin menggoreng sayuran atau daging, saya memutuskan untuk menggoreng _ karena mereka lebih sehat.",daging,sayuran,2
+622,36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-2,"Glenda selalu mengendarai station wagon di malam hari, daripada mobil sport, karena _ memiliki lampu depan lebih redup.",station wagon,mobil sport,2
+623,39TX062QX32PPC7GPRUCLHH3O3Q3XG-2,Cat yang dioleskan James di pintu masih lengket sedangkan toples catnya tidak. Dia yakin _nya kering.,pintu,toples,2
+624,35YHTYFL1IHS1ZIE97UWY59FBFGFVL-2,"Meskipun Samuel lebih menyukai sepatu kets daripada Robert, _ merasa sepasang sepatu Converse itu bagus.",Samuel,Robert,2
+625,3B6F54KMR2A6P38VOFY66IX6N8QS1M-1,"Ponsel baru John tidak muat di dompet barunya, karena _nya terlalu kecil.",dompet,ponsel,1
+626,3UYRNV2KIVD6EFZIZ22ZEWYG2818NG-2,Laura bersepeda jauh di depan Erin karena _ mengendarai cukup lambat di jalan.,Laura,Erin,2
+627,3TC2K6WK9G0VV4BITLSFUA7A3MG280-1,Tukang cukur mencoba menggunakan bahan kimia untuk menghilangkan bau dari rambut pria itu tetapi _nya terlalu kuat.,bau,bahan kimia,1
+628,3D0LPO3EADD3B6QCDL06SYMNLVWOY8-2,"Termostat menunjukkan bahwa di bawah dua puluh derajat lebih dingin daripada di atas, jadi Byron tetap _ karena dia kedinginan.",di bawah,di atas,2
+629,36BTXXLZ2XMQAC48G6T364NM2V3R4G-2,"Kami tidak suka konsultan karena dia merekomendasikan mobil daripada kereta, karena _ itu murah.",mobil,kereta,2
+630,38Z7YZ2SB305CTPG4IU73HZRMSRQIA-2,"Saya meminta Patricia untuk membeli hadiah tetapi tidak meminta Jessica, saya pikir _ memiliki rasa yang aneh.",Patricia,Jessica,2
+631,38O9DZ0A62L8RQSU06VHAWBJSAY26J-2,"Adam menjelaskan emosinya kepada Robert, karena _ menawarkan bantuan sebagai terapis yang dapat menangani emosi kompleks.",Adam,Robert,2
+632,35ZRNT9RUIWN1EUH42VGA622O6G3OD-1,"Perpustakaan itu menyimpan banyak koleksi novel, bukan komik, karena _ itu populer.",novel,komik,1
+633,37VUR2VJ6C35CBI6BRK6JBHXRCJC1G-1,Jadi _ menyalakan kipas angin karena Christine kepanasan sementara Victoria kedinginan karena suatu alasan.,Christine,Victoria,1
+634,3TX9T2ZCBBFBL59J0TTZNZ8BUWIZWF-1,Tutup plastik yang lama diganti dengan gabus kayu karena _nya sangat bocor.,tutup,gabus,1
+635,39XCQ6V3K0IFKCAO2N9F01246XH65L-1,Robert minum lebih dari Jason namun _ kurang mabuk karena memiliki toleransi yang jauh lebih tinggi.,Robert,Jason,1
+636,33TGB4G0LRVUOT5A46033UL1ITOTXQ-1,"Pakunya menembus gipsum tetapi tersangkut di kayu, karena _ mudah ditusuk.",gipsum,kayu,1
+637,35JDMRECC6NHDOSNP1B4GML6DUYGET-1,Saya mencoba membersihkan pipa dengan sikat tetapi tidak bisa karena _nya terlalu kecil.,pipa,sikat,1
+638,3AC6MFV69MWTOFEU5U7ZMWYPHJ1ZH1-2,Ketika laba-laba mati Maria sangat gembira tetapi Kayla kesal karena _ menyukai laba-laba.,Maria,Kayla,2
+639,36BTXXLZ2XMQAC48G6T364NL1X54RW-1,Jessica bisa melihat jelas dari hutan sementara Mary datang dengan rencana karena _ memiliki teropong.,Jessica,Mary,1
+640,35F6NGNVMAX09EZJMTW59V8EHIR7TU-2,Benjolan di kepalanya membutuhkan obat yang dioleskan ke daerah tersebut karena _nya akan mengecilkannya.,benjolan,obat,2
+641,3VI0PC2ZAYIZHC1VOR24HMR6V10OXH-1,Pers mencari berita tentang selebritas atau hukum. Mereka merasa berita _ lebih menarik.,selebritas,hukum,1
+642,36D1BWBEHPFPAICT7KEYRQWDBKV2M7-1,"Megan mengambil anjing Erin untuk pengantin pria, meskipun _ tidak suka hewan itu.",Megan,Erin,1
+643,3K3G488TR4M8UUT8HWND66JV65WQ5J-1,James melapisi bagian atas meja dengan penghapus noda dan membiarkan kursi itu apa adanya. Sekarang _ itu mengkilat.,meja,kursi,1
+644,371DNNCG440PF35VC0CBVXG033L8TY-1,Robert membantu menciptakan sensasi video viral internet Kyle ketika _ mengarahkan video tersebut.,Robert,Kyle,1
+645,3JY0Q5X05LKFX2OEVW1SGP6IQADGGA-2,Saya akan mengikuti lomba mengeja daripada lomba geografi karena _ tampaknya lebih sulit untuk dimenangkan.,lomba mengeja,lomba geografi,2
+646,37SQU136V92LP888VUVM2FY6N7A11H-1,Juan memutuskan untuk membeli tiket undian daripada tiket lotre karena tiket _ itu tidak adil.,lotre,undian,1
+647,3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-1,Brett lebih siap menjadi orang tua daripada Aaron karena _ telah menghabiskan banyak waktu dengan anak-anak.,Brett,Aaron,1
+648,3VIVIU06FKAEREROCPNQM8FM799MIT-1,Aaron meminta Ian untuk membantu mengganti ubin kamar mandi karena _ ingin membantu dengan itu.,Aaron,Ian,1
+649,3VGET1QSZ0XD7646X0PG4HR4RR5W7K-1,"Samantha mengkhawatirkan kesehatan Angela, jadi _ menyuruh mereka untuk mulai mengonsumsi lebih banyak vitamin.",Samantha,Angela,1
+650,3UUSLRKAUL1EY04FG5KQCT2JPT87D0-1,"Nenek Joan selalu menginginkan pelukan dan ciuman, tetapi Joan tidak suka _an karena takut kuman.",cium,peluk,1
+651,3UXQ63NLAC0ZSDU4Q16US6KS5XXBLJ-1,Bebek peliharaan Rachel lebih sedih daripada yang dimiliki Kayla. _ adalah pemelihara hewan yang buruk.,Rachel,Kayla,1
+652,3D1UCPY6GINZAB68HJIK5I0BYOY38G-2,John melemparkan pukulan ke jendela dan membuatnya pecah saat berkelahi dengan Jill. _nya rapuh.,pukulan,jendela,2
+653,3U74KRR67OZPCZR620DU5SU3GNHTNP-2,"Lindsey meminta nasihat Megan tentang cara sopan berkata tidak kepada pria yang mengajaknya kencan, karena _ tahu banyak tentang perasaan.",Lindsey,Megan,2
+654,388CL5C1RJLUP1YJ6V4QMJZIC78HLY-2,"tukang ingin memperbaiki mesin dengan menggunakan panci minyak dan pompa air baru, tetapi _ memiliki kebocoran air.",panci,pompa,2
+655,3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-1,"Natalie berpikir zamrud adalah permata yang indah, tetapi Betty tidak. _ membeli kalung bergambar zamrud besar.",Natalie,Betty,1
+656,3UOMW19E6FK40TJPCEMIM1UE3SOC5Y-2,Christopher membantu Randy untuk mendapatkan nomor identifikasi majikan federal karena _ adalah seorang pemula di daerah itu.,Christopher,Randy,2
+657,3APP19WN73SD09Z8JJS64YTSV1P6GK-1,"William lupa tentang semua waktu ketika Ian menyelamatkan mereka, karena _ pada umumnya terlibat sendiri.",William,Ian,1
+658,3LAZVA75NIPYGWYY02HBRWXADAS2O8-1,"Kemari dan lihat kulit kepala saya hari ini, Natalie memberi tahu Katrina. _ butuh pendapat kedua.",Natalie,Katrina,1
+659,3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-2,"Dennis menyukai musik pop, tetapi Jason lebih menyukai musik klasik. _ menyukai musik dengan alat musik gesek.",Dennis,Jason,2
+660,35YHTYFL1G1D7AJ7P9IW67L7NROFVA-1,"Elena menulis kolom surat kabar untuk diedit Laura, karena _ kurang ahli menulis di koran.",Elena,Laura,1
+661,36BTXXLZ2V6BGN51W8H3E6ZDDT54RH-2,"Jack akan membuat sandwich tuna tetapi akhirnya makan salad tuna. Setelah membakar roti, _ itu tak menimbulkan selera.",salad,sandwich,2
+662,3JHB4BPSFMNRVHVKKM0UIMOWRR1Q99-1,"Di labirin kebun jagung, Kayla tertawa ketika mereka mencoba menemukan Amy, dan akhirnya _ menyerah.",Kayla,Amy,1
+663,3L1EFR8WWVJU4S5B66P06NKJLV1F9S-1,Sue ingin berlatih meditasi jadi dia pergi ke gym dengan kelasnya tetapi _nya sudah terlewat.,kelas,gym,1
+664,36D1BWBEHPFPAICT7KEYRQWDBKV2M7-2,"Megan mengambil anjing Erin untuk pengantin pria, mengetahui _ sangat peduli pada hewan itu.",Megan,Erin,2
+665,371Q3BEXDJNIEOSAGOJYQA5RPSPZSO-1,"Saya ingin menggoreng sayuran atau daging, saya memutuskan untuk menggoreng _ karena lebih mengenyangkan.",daging,sayuran,1
+666,3BS6ERDL935VU0QAXVFY6F2NPZVD67-2,Derrick belajar cara merajut tetapi Hunter tidak. _ membeli beberapa sepatu boot kecil yang lucu untuk anjingnya.,Derrick,Hunter,2
+667,362E9TQF2HOEZ4V21MPV93VPG5IIG7-1,Ian suka makan almond dan Derrick membencinya karena _ memiliki gigi yang kuat untuk menggigitnya.,Ian,Derrick,1
+668,37SDSEDINBG308STUF41HPLE04K18M-1,Susan mengganti  jalan paginya menjadi sore hari ketika dia ingat dia sibuk di _ hari sepanjang minggu.,pagi,sore,1
+669,3MWOYZD5WX29Z7MY6JRVBIOHIPEONZ-1,"Saat mengubah rutinitas makannya, Sally berhenti makan keripik dan menggantinya dengan buah. _ itu renyah.",keripik,buah,1
+670,36JW4WBR06I8P9ONKK1SR6UYAUBHFF-1,"Proyek ini berarti Emily berkolaborasi dengan Victoria, yang tidak bersemangat. _ senang bekerja dengan orang lain.",Emily,Victoria,1
+671,3KWGG5KP6J0NEB5OKFR4B5HRZHVCMI-2,"Peti baru John yang dia beli untuk dirinya sendiri tidak akan muat melalu pintu depannya, _nya terlalu kecil.",peti,pintu,2
+672,3BCRDCM0ODS386WKPC1LASXD98SK6R-2,Mata Lindsey berair tetapi Patricia tidak karena _ sedang menyimpan bawang di dapur.,Lindsey,Patricia,2
+673,356TQKY9XHBHBU7VJVLAIZCQ2RJ87O-2,Tanamannya tidak tumbuh karena terlalu banyak yang ditanam di satu tempat. _nya terlalu besar.,tempat,tanaman,2
+674,39KV3A5D1ALZUEM4XTRFZQCSG1PS77-1,"Hunter lebih sulit melakukan yoga daripada Craig, karena _ memiliki tubuh yang kaku.",Hunter,Craig,1
+675,3AC6MFV69KGEUQFNLWVZUYAGRFJZH0-1,John mendapat lebih banyak uang ketika dia menjual koin daripada ketika dia menjual perangko karena _ itu tidak berharga.,perangko,koin,1
+676,3UOMW19E6D4P64KISGAIU365DNSC5H-2,Anak-anak hanya bisa menghitung jumlah bola dalam satu toples dan bukan kacang di toples lainnya karena _nya terlalu banyak.,bola,kacang,2
+677,375VSR8FVYN6D9SX1ZJT000V3J3RZB-2,"Sistem yang digunakan Jeffrey luar biasa dibandingkan dengan Randy, karena sistem _ lebih rendah.",Jeffrey,Randy,2
+678,3TD33TP5DNGIWU30TAH4JS4ICCTABG-1,Cynthia mengobati infeksi pada Felicia di rumah sakit setelah _ melihat luka di kakinya.,Cynthia,Felicia,1
+679,36GJS3V78VOAUFF8J4AVL4APOZ6JG8-1,"Monica selalu mengejutkan Lindsey dengan hadiah, sehingga _ menuju ke toko untuk membeli hadiah lain.",Monica,Lindsey,1
+680,374UMBUHN736LVUFDA4GPH0RHH8TC8-2,Leslie secara keseluruhan lebih modis dari Derrick tetapi _ membeli rok daripada membuatnya tampak hebat.,Leslie,Derrick,2
+681,35JDMRECC6NHDOSNP1B4GML5CNAEGM-1,Katrina memberi Christine sebuah boneka binatang untuk ulang tahunnya karena _ sendiri sudah punya.,Katrina,Christine,1
+682,37PGLWGSJVKYVFQSBBMAZTBQBBWKIU-1,"Joel membutuhkan William untuk mendapatkan lisensi kontraktor untuk perusahaan mereka, jadi _ membantu mereka mengisi dokumen.",Joel,William,1
+683,3AC6MFV69KGEUQFNLWVZUYAGRCMZHX-2,Anak itu ingin menyimpan kerang di dalam kotak tetapi _nya terlalu besar.,kotak,kerang,2
+684,3A3KKYU7P3FWS9BT16R5NZOURYHMW7-2,Heather membelikan sebuah boneka untuk ayunan putrinya. Bonekanya tidak muat. _nya terlalu besar.,ayunan,boneka,2
+685,3IZVJEBJ6CYDRQUD9BGVP59Y6UPZ6E-1,"Saya menyumbangkan meja makan dan sofa saya untuk amal, tetapi mereka menolak _ saya karena terlalu keras.",sofa,meja,1
+686,3D17ECOUOG9HZBMNIY95Q8D3KXE13A-1,Dia putus asa secara emosional sehingga dia pergi jalan-jalan dan membeli es krim untuk dirinya sendiri. _ itu menjernihkan pikirannya.,jalan-jalan,es krim,1
+687,3AQN9REUTHUC79ZNNCMQH4APJPMDYH-1,Ibuku membuat taco hari ini dan burrito kemarin untuk makan siang jadi _ lebih segar.,taco,burrito,1
+688,3MVY4USGB6LHP94TWMJCYHESZZOSIA-1,Amy tidak perlu mendapatkan pengacara meskipun Monica melakukannya karena _ telah membatalkan tuntutan mereka.,Amy,Monica,1
+689,38XPGNCKHVEI3JLPPQYD71COMD44VV-2,"Nick sering mengalami gatal-gatal, sementara Jason bahkan tidak pernah mengenakan celana atlet. _ artis.",Nick,Jason,2
+690,3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-1,Justin menulis satu paragraf di agendanya setiap hari tidak seperti Matthew karena _ sangat teratur.,Justin,Matthew,1
+691,35F6NGNVMAX09EZJMTW59V8EHIR7TU-1,Benjolan di kepalanya membutuhkan obat yang dioleskan ke daerah tersebut karena _nya bengkak.,benjolan,obat,1
+692,3KQC8JMJGE6S3M71KNCQIVT908NH37-1,Dia tidak pernah bisa menggunakan penjepit bulu mata pada bulu matanya karena _ terlalu tipis.,bulu mata,penjepit,1
+693,3TRB893CSLOW49DD2TXYACTOQFG7GX-2,Anak-anak lebih menikmati kartun daripada film karena _nya menakutkan.,kartun,film,2
+694,3AXFSPQOYSCJA4IKSIGDVHYLGU5FJ0-1,"Untuk menyempurnakan tampilan emo-nya, Nick meniru cara Matthew berpakaian karena _ belum pernah berpakaian emo sebelumnya.",Nick,Matthew,1
+695,3JGHED38EF5WQ0YDWZJ4HC0TW3KY7N-2,Dia ingin pergi berbelanja karpet untuk patio karena _ sedang diobral.,patio,karpet,2
+696,38Z7YZ2SB5GK6IONOG67VFNZAHOIQK-2,"Justin suka kubis, brokoli dan sawi hijau Sedangkan Hunter menyukai buah-buahan. _ membeli apel setiap tahun.",Justin,Hunter,2
+697,35YHTYFL1G1D7AJ7P9IW67L7IASVFR-2,"Meskipun Robert mengalami kerontokan rambut dan Brian tidak, _ iri dengan rambutnya.",Robert,Brian,2
+698,3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-1,Bemper pada mobil bersinar lebih terang dari pada pegangan pada mobil karena _ lebih bersih.,bemper,pegangan,1
+699,3MJ28H2Y1E6QFTHLILJ9P30MXJBO5L-1,Derrick lulus dari sekolah perawat dengan nilai lebih baik daripada Benjamin karena _ menghadiri kelas secara teratur.,Derrick,Benjamin,1
+700,3C8QQOM6JPZULW93CDMBMV0XCLGLIQ-2,Perahu itu dilukis oleh Victoria sebelum Natalie membelinya karena _ membelinya.,Victoria,Natalie,2
+701,3NBFJK3IOJW3PF5CJFE0LYFKH9MGO5-2,Billy ingin menyewa film tetapi James berkata TV lebih baik. James mengatakan _ akan memiliki lebih banyak variasi.,film ,TV,2
+702,3J9L0X0VDH0WFER6WVZ0AB6JH49W92-2,"Elena membenci bau sabun itu dibandingkan dengan Laura, karena _ memiliki ingatan yang baik dari bau itu.",Elena,Laura,2
+703,3TX9T2ZCBBFBL59J0TTZNZ8BUWIZWF-2,Tutup plastik lama diganti dengan gabus kayu karena _nya sangat kedap air.,tutup,gabus,2
+704,3A3KKYU7P3FWS9BT16R5NZOURYHMW7-1,Heather membelikan sebuah boneka untuk ayunan putrinya. Bonekanya tidak muat. _nya terlalu kecil.,ayunan,boneka,1
+705,3M4KL7H8KX1GWU951073XBPMTAT16Y-1,Evan memindahkan peluru dari pistol ke kotak untuk amunisi sampai _ itu penuh.,kotak,pistol,1
+706,378G7J1SJLWYGLJGK83MARJLDIGEW3-2,Justin ingin tinggal di pedesaan ini dan memiliki kuda tetapi Kevin lebih memilih kota. _ bosan dengan kecepatan lambat.,Justin,Kevin,2
+707,3JHB4BPSFK7C1SWD0OOUQO0OYFS9QJ-1,Elena suka membaca buku tetapi Jessica tidak. _ selalu membeli buku.,Elena,Jessica,1
+708,35ZRNT9RUKC2V3TOO07G24QACWE3OY-2,Jennifer suka merokok pot tetapi Laura suka merokok cerutu. _ menghindari penjara lokal untuk merokok hal favoritnya di depan umum.,Jennifer,Laura,2
+709,3M47JKRKCXZJD5UJGN4IKNOMEDP68V-1,Ryan senang memiliki iPhone tetapi Leslie menolak untuk meng-upgrade ponsel flip mereka. _ selalu menjadi yang pertama mempelajari teknologi baru.,Ryan,Leslie,1
+710,3MWOYZD5WX29Z7MY6JRVBIOHJQ1ONP-1,Pelatih berhenti dari pekerjaannya di sekolah dan melanjutkan bekerja di pusat rekreasi karena _ membayar lebih rendah.,sekolah,pusat rekreasi,1
+711,3JU8CV4BRNQ92SYBMY4NF7TBHVCPO8-1,Bendera hampir tidak bisa berkibar ketika dikibarkan tertiup angin karena _nya berat.,bendera,angin,1
+712,39KMGHJ4R1OLBU283SNMA5WMCPI00X-1,Mendekati beruang mengejutkannya sehingga kami memberikannya madu bukan air karena _ memiliki efek menenangkan.,madu,air,1
+713,3LN3BXKGC29BUOEEA15A2SS5J3IWGB-2,"Ketika Sarah ingin mengejar akting, Elena mulai tertawa, karena _ adalah aktor yang luar biasa.",Sarah,Elena,2
+714,38Z7YZ2SB305CTPG4IU73HZRMQZIQ6-2,Perahu itu mencoba berlayar melintasi lautan daripada melewati gunung. _ itu adalah cara yang lebih lambat untuk bepergian.,laut,gunung,2
+715,39XCQ6V3KY20QNBHIPXF83EVCK8566-2,"Belajar menghadapi rintangan Anda adalah pelajaran yang dipelajari Victoria dalam hidup lebih awal dari Patricia, _ adalah yang termuda dari keduanya.",Victoria,Patricia,2
+716,3LCXHSGDLVKK3T1EK15L50492KOSEG-1,Angie lebih menyukai cat kuku hijau daripada merah muda karena kulitnya pucat dan cat kuku _ tampak pudar.,merah muda,hijau,1
+717,3VI0PC2ZA0YEB1028PE49KFFLXYXOR-2,"Rambutnya tidak disanggul, tetapi terlihat bagus dengan kuncir kuda. _ itu lucu.",sanggul,kuncir kuda,2
+718,3L21G7IH49AIFEJB7J2VG29FSBNY1E-2,Kakek dan nenek orang tersebut tidur lebih lambat pada akhir pekan daripada hari kerja karena mereka harus bekerja pada _.,akhir pekan,hari kerja,2
+719,362E9TQF2HOEZ4V21MPV93VPG5IIG7-2,Ian suka makan almond dan Derrick membencinya karena _ memiliki gigi yang lemah untuk menggigitnya.,Ian,Derrick,2
+720,3NBFJK3IOJW3PF5CJFE0LYFKH9MGO5-1,Billy ingin menyewa film tetapi James berkata TV lebih baik. Billy mengatakan _ itu akan lebih menghibur.,film,TV,1
+721,36BTXXLZ2XMQAC48G6T364NL1DN4RA-2,"Tembok itu bisa mencegah ombak menerjang rumah, karena _ itu berada di belakangnya dan ombak.",tembok,rumah,2
+722,3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-2,"Tutor lebih cocok untuk pelajaran bahasa Inggris daripada profesor, karena _ adalah guru yang tidak memadai.",tutor,profesor,2
+723,3D3B8GE89456V5U5K9L5IHYNN3E9PJ-2,Saya lebih memperhatikan kompor daripada wastafel karena lebih aman beraktifitas di dekat _.,kompor,wastafel,2
+724,3D7VY91L65V446DI6FV90LB9CEYBM8-1,"Jason masuk ke lubang keuangan yang dalam, tidak seperti Joel, karena _ mengelola kekayaan mereka dengan baik.",Jason,Joel,2
+725,37OPIVELUWHSN76MT2R0537F6IFAHW-1,Saya bisa membawa rol cat tetapi saya meminta suami saya untuk mengambil ember karena _ ringan.,rol cat,ember,1
+726,3KLL7H3EGDZXL6ADKZ6W9SXK361VHO-2,Derrick memberi tahu Kevin bagaimana dia bertemu dengan Presiden Amerika Serikat minggu lalu. _ tercengang dengan cerita itu.,Derrick,Kevin,2
+727,3JHB4BPSFK7C1SWD0OOUQO0O3YT9QR-2,"Ben ingin mendapatkan pensil atau TV untuk mengubah hidupnya, tetapi _ itu terlalu mahal.",pensil,TV,2
+728,3BA7SXOG1JOCZOS38B7GVIFIA10R8D-2,Tanya lebih jarang berangkat kerja daripada Rebecca karena _ lebih sering menderita sakit kepala parah.,Tanya,Rebecca,2
+729,3CESM1J3EI1U36Q1EQKOY3R812FW6S-2,Turner menembak dinding menggunakan paintball dan peluru sungguhan. Dindingnya berlubang karena _.,paintball,peluru,2
+730,3LN3BXKGC29BUOEEA15A2SS5J15WGU-1,Wanita itu menyemprotkan pembersih ke cermin tetapi melewatkan meja karena _nya kotor.,cermin,meja,1
+731,39O6Z4JLX4B91L9Z910I4C9MFKBXVT-2,Ian terpeleset oleh minyak yang Donald tumpahkan ke lantai dapur. _ menyesal.,Ian,Donald,2
+732,3M4KL7H8KX1GWU951073XBPMTC661K-2,"Tanya sangat marah pada Mary dan berusaha mengabaikannya, karena _ menyakitinya.",Tanya,Mary,2
+733,39WSF6KUV4Z5519LDKOCLVU73FXOER-1,"Krayon anak itu membuat seluruh cucian berwarna kuning cerah, karena _nya berwarna kuning.",krayon,cucian,1
+734,37VHPF5VYC18TM3KQEHL6NGWAXZ8CK-1,Erin pingsan ketika ada darah yang terlihat sehingga ketika Lindsey berdarah _ tidak melihat.,Erin,Lindsey,1
+735,378G7J1SJNCDAAIN46FM2P7T6N3EWC-2,"Sarah menyalakan mobil dan kemudian pergi menjemput Jessica, karena _ membutuhkan tumpangan.",Sarah,Jessica,2
+736,34OWYT6U3WFZKU8UNGJLHM92CO4I9P-2,"Mobil mewah Bill yang baru tidak muat di garasi lamanya, _nya terlalu lebar.",garasi,mobil,2
+737,3VI0PC2ZA0YEB1028PE49KFFLXYXOR-1,"Rambutnya tidak disanggul, tetapi terlihat bagus dengan kuncir kuda. _ itu jelek.",sanggul,kuncir kuda,1
+738,36FFXPMST9M2VM1GJNKIE03C7D6OHH-2,"Neil membawa kacang ke pesta itu sedangkan Justin membawa balon, _ sadar akan alergi makanan.",Neil,Justin,2
+739,3MQY1YVHS3IEX29PWXCPLCXBBUTB24-2,"Sarah bisa saja memakai lipstik atau maskara untuk menjadi cantik, tetapi dia memilih untuk memakai _ karena akan bersih bahkan jika dia menangis.",maskara,lipstik,2
+740,37OPIVELUWHSN76MT2R0537F69GHAM-2,"Billy tahu ular lego-nya lapar, tetapi tidak tahu apakah itu akan memakan tikus, karena _ itu tidak mati.",ular,tikus,2
+741,3MVY4USGB6LHP94TWMJCYHES4F6SIT-1,Adam kesal pada Derrick karena _ menerima bantuan dari Agen Gerbang Maskapai lebih lambat.,Adam,Derrick,1
+742,372AGES0I432EPTBGJJ8BHWB6NMRXT-2,"Dia dapat menemukan fakta tentang piring, tetapi bukan tentang cangkir, karena _ itu tidak jelas.",piring,cangkir,2
+743,3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-2,Bumper pada mobil bersinar lebih terang daripada pegangan pada mobil karena _nya lebih kotor.,bemper,pegangan,2
+744,3CMIQF80GP44DYTMMFXIYCXU1CV6QO-2,"Katrina sedang diajari cara berbicara Bahasa Korea oleh Felicia, jadi _ kemungkinan besar lahir di Korea.",Katrina,Felicia,2
+745,3THR0FZ95R7JB7JDU6BGYQKRCGSOLG-1,Anak itu menentang saat makan malam sehingga menyembunyikan kacang di bawah serbet saat makan malam karena _nya kecil.,kacang,serbet,1
+746,3MDWE879UJG4RBTV1434NXTX5T39BN-1,Pengalaman itu benar-benar tak terlupakan bagi Betty tetapi tidak bagi Samantha karena _ telah mengantisipasinya selama berbulan-bulan.,Betty,Samantha,1
+747,3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-1,Konselor merawat anak yang mengalami pelecehan dengan memberinya boneka teddy daripada selimut karena _ itu menenangkan.,boneka,selimut,1
+748,37VHPF5VYEHNNB2RACTLYL4437UC8F-1,Dispenser sabun mandinya kosong sehingga kami menuangkan lebih banyak sabun ke dalamnya sampai _nya penuh.,dispenser,sabun mandi,1
+749,3MDKGGG61QL2BPM7JLFDBJK9X6B6TM-2,"Monica mengirim Sarah paket perawatan sirup maple buatan sendiri, karena _ tinggal di California.",Monica,Sarah,2
+750,373L46LKP74FW1BR9VVAJW2I0V8KJW-1,tukang cukur mencoba menggunakan sisir sikat rambut tetapi _ itu terlalu keras.,rambut,sisir,1
+751,3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-1,"Dennis menyukai musik pop, tetapi Jason lebih menyukai musik klasik. _ menyukai musik yang bisa membuat Anda menari.",Dennis,Jason,1
+752,3L7SUC0TTUS3KJA88ZYKG4FQLGPM0X-2,Aaron lebih terkenal daripada Hunter meskipun _ telah tampil di lebih banyak film dan pertunjukan.,Aaron,Hunter,2
+753,3BAKUKE49JQ9ID7PTOA186GJQBU1RE-2,Dia menggunakan mentega untuk menumis udang dengan terong dan pasta. _nya berlekuk.,pasta,terong,2
+754,36GJS3V78X4PO4EF32MVD2YXHAFGJC-1,"Aku mendapat getah di rambutku dan aku kesulitan mengeluarkannya, jadi kami harus mencukur _ dari kepalaku.",rambut,getah,1
+755,3MA5N0ATTEPGWAAX0SQP0KKYQERWKU-2,"Saya tidak bisa memutuskan perhiasan apa yang akan saya kenakan, haruskah saya memilih zamrud atau safir? Pakaian saya berwarna hijau, jadi saya memilih _.",safir,zamrud,2
+756,3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-2,"Karena Benjamin makan makanan penutup yang tidak sehat jauh lebih sering daripada Brett, _ memiliki kemauan yang kuat.",Benjamin,Brett,2
+757,3N5YJ55YXG153ETQC2ADIPG345GANC-2,Koki memutuskan untuk menyimpan makanan di dalam wadah tetapi _nya terlalu kecil.,makanan,wadah,2
+758,3UEDKCTP9X416V9WSKID84LHXTQK70-1,"Katrina meminjamkan jaketnya ke Carrie pada malam yang dingin, meskipun _ sendiri merasa kedinginan.",Katrina,Carrie,1
+759,35YHTYFL1IHS1ZIE97UWY59FBTRVF4-2,Dennis memundurkan Nelson hingga ke sudut kecil selama perdebatan sengit karena _ tunduk.,Dennis,Nelson,2
+760,35ZRNT9RUIWN1EUH42VGA622JTGO33-2,"Kutu buku yang rajin, Lawrence membaca fiksi sementara Jason membaca non-fiksi. _ berjuang untuk melarikan diri ke dunia imajiner.",Lawrence,Jason,2
+761,3MDWE879UJG4RBTV1434NXTY7229B8-2,"Ketika datang ke riasan mata, dia meluangkan waktu dengan eyeliner dan tergesa-gesa menggunakan maskara sehingga _nya tepat.",maskara,eyeliner,2
+762,3B9XR6P1WG9TXN64NGUHCR701YEJBR-1,Michael membeli ikan mas untuk Craig untuk memberi makan arwananya. _ punya cukup uang untuk membayar mereka.,Michael,Craig,1
+763,3LN3BXKGC29BUOEEA15A2SS5J3IWGB-1,"Ketika Sarah ingin mengejar akting, Elena mulai tertawa, karena _ adalah aktor yang buruk.",Sarah,Elena,1
+764,37Y5RYYI0RJT9TSVF6VDTPPGHQBSX0-2,Pengganggu mencuri kemejaku dan meninggalkan topiku karena _ itu berharga lebih sedikit uang.,kemeja,topi,2
+765,38G0E1M85OJHKHF44WPVK5AIL6SUV4-1,Donald lebih kaya daripada Leslie karena perusahaan telah menemukan minyak pada properti _.,Donald,Leslie,1
+766,35A1YQPVFEEGJ76IKQ645640QVYI5H-1,"Karena Joseph memiliki fobia laba-laba dan Adam mencintainya, _ menolak untuk membeli hewan peliharaan tarantula.",Joseph,Adam,1
+767,3L60IFZKF5W7XUE0Z81SMPUJJIPHH8-1,"Anak laki-laki itu melempar frisbee bukannya bola untuk diambil anjing, karena anjing itu suka bermain dengan _ .",frisbee,bola,1
+768,3LVTFB9DE5GRG2JLEUU4I5MB2XEGQI-1,Katrina menawarkan uang kepada Carrie untuk masuk ke folder spam karena _ tidak mau berurusan dengannya.,Katrina,Carrie,1
+769,3LN50BUKPXP1W7VE96OVNQPIO13PLD-1,"Setelah kecelakaan lalu lintas yang mengerikan, Justin membayar 3 juta kepada Benjamin, _ bersalah.",Justin,Benjamin,1
+770,37SDSEDIN90O6JTMAHS1PRX563681Y-1,Megan harus membeli bantalan pelatihan anak anjing tetapi tidak untuk Katrina karena _ memiliki anjing dalam ruangan,Megan,Katrina,1
+771,3L2OEKSTWBO0QE3W64BAVCWN6G28YF-2,Nick ingin tinggal di rumah Jumat malam sementara Leslie ingin pergi berdansa karena _ merasa sangat energik.,Nick,Leslie,2
+772,3KA7IJSNW63AP9AVYVN1HP54M59BPH-1,"Jennifer butuh berhari-hari untuk menyelesaikan proyeknya, sementara Elena selesai hanya dalam beberapa jam, hal ini tidak biasa karena _ biasanya yang lebih cepat.",Jennifer,Elena,1
+773,36GJS3V78VOAUFF8J4AVL4APOYFJGF-2,Penonton di drama itu menertawakan Neil tetapi tidak Kyle karena _ tidak lucu di atas panggung.,Neil,Kyle,2
+774,38DCH97KHJGG1T8T6YR77G2ZNWDJQX-2,Elena secara tidak sengaja menumpahkan minyak kelapa di atas Amy yang membuat _ merasa sangat marah.,Elena,Amy,2
+775,3MDKGGG61S1H5ELE3JRD3H8HLXST6F-2,Tidur dengan selimut lebih cocok untuk Kenneth daripada Jeffrey karena _ tinggal di tempat yang lebih hangat.,Kenneth,Jeffrey,2
+776,356TQKY9XHBHBU7VJVLAIZCQ2XG87X-1,Pendengaran Donald jauh lebih buruk daripada Christopher karena _ berada di sekitar suara keras sepanjang hidupnya.,Donald,Christopher,1
+777,391JB9X4ZY65X9HCCS82ZOUZ4R0KM1-2,Rose sedang mencari stuffer stocking yang berguna sehingga dia memilih buku kecil daripada dompet karena _nya tidak mendidik.,buku,dompet,2
+778,35O6H0UNLSECEIQO28R4H7J0YU5J5B-1,Benjamin menyiapkan daftar Dennis untuk dibawa ke toko kelontong karena _ harus bekerja akhir pekan itu.,Benjamin,Dennis,1
+779,3THR0FZ95R7JB7JDU6BGYQKRC61LO2-2,"Emily saat ini menderita batuk parah, tetapi Victoria tidak memilikinya, jadi _ bukan perokok.",Emily,Victoria,2
+780,3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-2,"Terorisme menjadi perhatian di pedesaan, tetapi hampir tidak menjadi masalah di kota, karena _ itu memiliki banyak kedamaian di antara orang-orang.",pedesaan,kota,2
+781,39RRBHZ0AUZJCRA7QLC39Z1PUDLVZA-1,Cynthia suka membaca fiksi sementara Christine lebih suka non-fiksi. _ menganggap Harry Potter itu ajaib.,Cynthia,Christine,1
+782,3JY0Q5X05LKFX2OEVW1SGP6IQADGGA-1,Saya akan mengikuti lomba mengeja daripada lomba geografi karena _ tampaknya lebih mudah untuk dimenangkan.,lomba mengeja,lomba geografi,1
+783,3VIVIU06FKAEREROCPNQM8FMCRUIMF-2,Ortodontis memuji Christopher dan bukan Jason karena _ lupa menyikat giginya setiap hari.,Christopher,Jason,2
+784,3LEG2HW4UH1J48KCLXALW0C5GVQ2FZ-2,"Berat badan Lindsey bertambah sedikit, jadi dia memberi Rebecca beberapa tank top dan itu cocok untuk _.",Lindsey,Rebecca,2
+785,3CIS7GGG67X0I6TI960LK1MWLVOUE1-1,"Ryan menabrak kelinci percobaan Ian dengan mobilnya, menyebabkan _ merasa sangat bersalah.",Ryan,Ian,1
+786,3MNJFORX8DIB353Z3GCJU7FGYVCF5K-2,Sarah sangat menyukai masturbasi tetapi Carrie lebih menyukai seks. _ benar-benar menderita sendirian di rumah pada hari Sabtu.,Sarah,Carrie,2
+787,3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-2,Justin menulis satu paragraf di agendanya setiap hari tidak seperti Matthew karena _ tidak teratur.,Justin,Matthew,2
+788,3D3B8GE89456V5U5K9L5IHYNNYQ9PL-2,"Lindsey banyak menabung untuk masa pensiunnya, sedangkan Natalie tidak menabung sama sekali. _ mengikuti banyak kegiatan menyenangkan saat tumbuh dewasa.",Lindsey,Natalie,2
+789,38DCH97KHH01749MM0F7FIERUQSQJV-1,Cuaca yang lebih dingin cocok untuk Joel tetapi tidak Kevin karena _ merasa itu mengurangi rasa sakit mereka.,Joel,Kevin,1
+790,3TZ0XG8CBUI6VOWHEU7U4XFO4BY893-1,Mary melemparkan tatapan kosong ke mana-mana seolah-olah melihat melalui Carrie sehingga _ memiliki ekspresi linglung di wajahnya..,Mary,Carrie,1
+791,3BCRDCM0OF8I2VVR9ADL2QLL2WH6KQ-2,Aaron selalu melakukan segala macam kejahatan tetapi Hunter taat hukum. _ jarang membutuhkan jasa pengacara.,Aaron,Hunter,2
+792,3N2YPY1GI6WL1WJBUYYQOP07687EVK-2,Christine tidak lulus tes pendeteksi kebohongan yang dilakukan Jessica karena _ tidak menyembunyikan apa pun.,Christine,Jessica,2
+793,3MVY4USGB6LHP94TWMJCYHESZXKSI2-1,Cynthia lebih suka pemanggang gas sedangkan Monica tidak karena _ tidak suka rasa berasap dari panggangan arang.,Cynthia,Monica,1
+794,33W1NHWFYJZJTO5P5OOO0F1DRB3ZTD-1,"Wanita itu menutupi karpet di ruang tamu dengan permadani, karena _ itu bernoda.",karpet,permadani,1
+795,3MDWE879UJG4RBTV1434NXTX5R0B9I-1,"Setelah Logan tertular cacar air dari Joseph, _ menghabiskan hari itu dengan mengirim pesan-pesan kasar tentangnya.",Logan,Joseph,1
+796,36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-2,"Ketika membeli rumah, Patricia tidak memiliki banyak uang sebanyak Tanya, sehingga _ membeli rumah 5 kamar tidur.",Patricia,Tanya,2
+797,3A9LA2FRWUS4JKEF4CJEPBIE82OXHO-1,Saya memelihara kelinci di dalam kandang daripada di dalam lumbung karena lebih sulit menemukannya di _.,lumbung,kandang,1
+798,35YHTYFL1G1D7AJ7P9IW67L7NNZFVD-2,Kelas satu tidak bisa menyelesaikan pembagian angka itu karena _nya terlalu kecil.,pembagian,kelas,2
+799,3UEDKCTP9X416V9WSKID84LHXNJ7K4-2,Saya pergi ke tambang untuk mencari berlian tetapi yang saya temukan hanyalah kuarsa dan topas. Saya memutuskan _ karena hampir jernih.,topas,kuarsa,2
+800,34OWYT6U3WFZKU8UNGJLHM92CRHI98-2,"Joel adalah orang yang realistis, tidak seperti Robert, jadi _ adalah orang yang naksir teman sekelasnya.",Joel,Robert,2
+801,3CMIQF80GP44DYTMMFXIYCXU1296QI-1,"Di sekolah, Tanya suka bermain game, sedangkan Monica selalu fokus belajar, sehingga _ lebih kreatif.",Tanya,Monica,1
+802,3MGHRFQY2N3I8PYTB0YV2XQ6P3A0YE-1,Kopi disajikan dalam cangkir lama daripada mug kaca baru karena _ tidak dicuci.,mug,cangkir,1
+803,38XPGNCKHVEI3JLPPQYD71CPNUD4V5-2,"Angela merasa sangat bermanfaat untuk membantu Christine dengan pekerjaan rumah mereka, yang membuat _ merasa bersyukur.",Angela,Christine,2
+804,3LN3BXKGC29BUOEEA15A2SS5J15WGU-2,Wanita itu menyemprotkan pembersih ke cermin tetapi melewatkan meja karena _nya bersih.,cermin,meja,2
+805,3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-1,"Tutor lebih cocok untuk pelajaran bahasa Inggris daripada profesor, karena _ adalah guru yang efektif.",tutor,profesor,1
+806,3BCRDCM0OF8I2VVR9ADL2QLL2WH6KQ-1,Aaron selalu melakukan segala macam kejahatan tetapi Hunter taat hukum. _ sering membutuhkan jasa pengacara.,Aaron,Hunter,1
+807,3D42WVSDHA995TDJEIHG54D9TU5FYD-1,"Untuk menggunakan mesin cuci dan pengering untuk cucian, Steve memisahkan cucian kotor dan basah, lalu dia mengisi _ dengan cucian kotor.",mesin cuci,pengering,1
+808,3ACRLU860PSLM7KC9FJQFBU9XUOBEF-2,"Teh dan kopi masing-masing harus diminum dari wadah yang berbeda, cangkir dan mug. Kopi biasanya disajikan dalam _, dengan susu dan terkadang gula.",cangkir,mug,2
+809,34KYK9TV2R6721QNQCRVCUAF9MHBSS-2,Juru masak di restoran menambahkan tomat dan potongan roti panggang ke dalam salad. _nya renyah.,tomat,potongan roti panggang,2
+810,3BC9H1KCYUAWMQ07K9FGHUB108VWY7-1,Jan menuangkan seluruh cangkir jus lemon ke dalam mangkuk pisang sampai _nya kosong.,cangkir,mangkuk,1
+811,3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-2,"Merasakan angin, William meminta tolong  Neil untuk menutup pintu depan karena _ lebih dekat.",William,Neil,2
+812,36KM3FWE3TQZT52SOR8VPK69K5E70Y-1,Callie lebih banyak berlatih menari daripada berlatih gitar karena resital minggu depan adalah untuk _.,menari,gitar,1
+813,39XCQ6V3K0IFKCAO2N9F01246XH65L-2,Robert minum lebih dari Jason namun _ memiliki lebih banyak mabuk karena memiliki toleransi yang lebih tinggi.,Robert,Jason,2
+814,3D1UCPY6GG7KGM71XL6KDKC292G83L-2,Peter perlu melakukan pekerjaan yang konsisten dan dapat menggunakan kunci pas daripada mengganti obeng karena _ berkarat.,kunci,obeng,2
+815,3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-1,"Jen memasukkan rol kulitnya ke dalam air, agar pembersih bisa mensterilkan _.",rol kulit,air,1
+816,375VSR8FVYN6D9SX1ZJT000V3J3RZB-1,"Sistem yang digunakan Jeffrey luar biasa dibandingkan dengan Randy, karena sistem _ lebih tinggi.",Jeffrey,Randy,1
+817,3KVQ0UJWPXJYK2QN97AJ6XD856EW5K-2,William menunjukkan Randy cara mengganti panel di rumahnya. _ berterimakasih.,William,Randy,2
+818,36FFXPMSTB2HPB0N3LWI6YRKVF7HOM-2,Kayla tidak menempatkan labu dan permen di teras mereka seperti yang Patricia lakukan karena _ merayakan Halloween.,Kayla,Patricia,2
+819,3LVTFB9DE5GRG2JLEUU4I5MB2XEGQI-2,Katrina menawari Carrie uang untuk masuk ke folder spam karena _ tidak keberatan menanganinya.,Katrina,Carrie,2
+820,3AA88CN98RHKLF5XFT8DLH5F2X4YKX-2,Polisi ingin berbicara dengan Angela dan bukan Jennifer sehubungan dengan pembunuhan karena _ jauh dari tempat kejadian.,Angela,Jennifer,2
+821,3J94SKDEKINZBWQWSC5TE9ONT9BD5S-2,Nick memiliki anjing yang lebih kecil daripada Craig karena _ memberi makan anjing mereka lebih banyak.,Nick,Craig,2
+822,3B9J25CZ25BQC6IT4CNQNEGXMOGCSS-1,"Jennifer benar-benar brengsek, tetapi Katrina tidak. _ memiliki sangat sedikit teman baik.",Jennifer,Katrina,1
+823,39RRBHZ0AUZJCRA7QLC39Z1PUDLVZA-2,Cynthia suka membaca fiksi sementara Christine lebih suka non-fiksi. _ menganggap Harry Potter itu bodoh.,Cynthia,Christine,2
+824,3JU8CV4BRNQ92SYBMY4NF7TBHS6OPV-1,"Craig terkena flu biasa dan menjauh dari Dennis, karena _ tidak ingin mereka sakit.",Craig,Dennis,1
+825,3VCK0Q0PO7SOWQUF4YPKLHSYJ8CN0R-1,Rambut yang Hannah tempelkan di rambutnya dengan lem tertiup angin. _nya dipastikan lemah.,lem,angin,1
+826,3L1EFR8WWVJU4S5B66P06NKIKLK9FI-2,"Kapal itu berisiko dihantam ombak, karena _nya sangat besar.",kapal,ombak,2
+827,3CRWSLD91K2ON02RAK0V65B8JG7OML-2,"Randy, bukan Kevin, membutuhkan tempat pernikahan yang lebih besar karena _ tidak memiliki banyak teman dan keluarga.",Randy,Kevin,2
+828,3M7OI89LVYMLP8KWXZKNM9K59LVC6V-1,"Lindsey menyukai laba-laba dan ingin mengoleksinya, tetapi mereka membuat Betty ketakutan. _ memutuskan yang terbaik untuk tetap diam.",Lindsey,Betty,1
+829,34D9ZRXCYT8HDGK24W3Z9HEHF9KAS1-2,Samuel mengonsumsi lebih banyak vitamin daripada Robert karena _ memiliki lebih sedikit masalah dengan pikirannya.,Samuel,Robert,2
+830,39WSF6KUV4Z5519LDKOCLVU73FXOER-2,"Krayon anak itu membuat seluruh cucian berwarna kuning cerah, karena _nya berwarna putih.",krayon,cucian,2
+831,3AA88CN98RHKLF5XFT8DLH5E1UUKY0-1,Monica membutuhkan bantuan Erin untuk memahami manfaatnya karena _ hanya membaca sekilas rencana asuransi.,Monica,Erin,1
+832,33TGB4G0LRVUOT5A46033UL1ITOTXQ-2,"Pakunya menembus gipsum tetapi tersangkut di kayu, karena _ sulit ditusuk.",gipsum,kayu,2
+833,37VHPF5VYEHNNB2RACTLYL4437UC8F-2,Dispenser sabun mandinya kosong sehingga kami menuangkan lebih banyak sabun ke dalamnya sampai _nya habis.,dispenser,sabun mandi,2
+834,378G7J1SJLWYGLJGK83MARJLDIGEW3-1,Justin ingin tinggal di pedesaan dan memiliki kuda tetapi Kevin lebih memilih kota. _ kewalahan oleh kebisingan dan lampu.,Justin,Kevin,1
+835,37NXA7GVSVKE1RSAVIXUTIEZ8DXLVV-1,Natalie meminta Elena untuk menempatkan buku di atas rak sejak _ terlalu pendek untuk menjangkau.,Natalie,Elena,1
+836,3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-1,Apakah Anda akan menyumbangkan sumbangan amal Anda ke gereja atau sekolah? Saya pikir saya akan memberikan milik saya ke _ karena mereka membutuhkan komputer baru.,sekolah,gereja,1
+837,3B6F54KMR2A6P38VOFY66IX6N8QS1M-2,"Ponsel baru John tidak muat di dompet barunya, karena _nya terlalu besar.",dompet,ponsel,2
+838,3538U0YQ1H88PQGVPXOQFAHXL3R3FZ-1,bus seharusnya tiba di 7:45 tetapi konser yang menampilkan band indie favorit saya dijadwalkan untuk 8:00; untungnya _ itu datang lebih awal sehingga aku tidak kelewatan apapun.,bus,konser,1
+839,371Q3BEXDJNIEOSAGOJYQA5RPQ9ZS4-1,Jane memutuskan untuk makan salad daripada sandwich karena _ memiliki lebih sedikit kalori dan dia mencoba diet.,salad,sandwich,1
+840,3MDWE879UJG4RBTV1434NXTX5T39BN-2,Pengalaman itu benar-benar tak terlupakan bagi Betty tetapi tidak bagi Samantha karena _ telah takut akan hal itu selama berbulan-bulan.,Betty,Samantha,2
+841,35ZRNT9RUKC2V3TOO07G24QACWE3OY-1,Jennifer suka merokok pot sedangkan Laura suka merokok cerutu. _ berakhir di penjara lokal karena merokok hal favoritnya di depan umum.,Jennifer,Laura,1
+842,3D5G8J4N5A2NQF18KTNLNB089IUVTR-1,"Kuda itu berlari mendekati Rebecca tetapi melewati Christine, karena _ memiliki gula batu di sakunya.",Rebecca,Christine,1
+843,385MDVINFETLLQ4FI7QDZ5KLBZWJW7-1,"Ketika mendiskusikan pensiun, William ingin pindah ke Florida dan Jeffrey tidak karena _ menyukai iklim hangat.",William,Jeffrey,1
+844,3TRB893CSLOW49DD2TXYACTOQQKG7W-2,Elena menyuruh Natalie untuk mengenakan tudung jaketnya karena kemungkinan besar _ akan kedinginan.,Elena,Natalie,2
+845,375VMB7D4LXQH9KIJU0NVGG0RYRDIU-2,"Dengan tidak ada yang bisa dilakukan anak-anak di lingkungan itu, ketika memilih untuk tempat bermain baru atau kedai minuman, Odette menentang _ yang sedang dibangun.",tempat bermain,kedai minuman,2
+846,34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-2,Di laguna Emily berenang telanjang sementara Felicia memilih untuk memakai baju renang seluruh tubuh. _ sangat ragu menunjukkan tubuh mereka.,Emily,Felicia,2
+847,3BS6ERDL935VU0QAXVFY6F2NPZVD67-1,Derrick belajar cara merajut tetapi Hunter tidak. _ membuat beberapa sepatu boot kecil yang lucu untuk anjingnya.,Derrick,Hunter,1
+848,3VGET1QSZ2DS1V3DHY1GWFFCK4J7WB-2,Putri Tanya lebih malu daripada putri Angela karena _ berbicara dengannya secara pribadi.,Tanya,Angela,2
+849,3538U0YQ1H88PQGVPXOQFAHXL7X3FD-1,Jake memakan kue daripada pai karena ada lebih banyak gula dalam _.,pai,kue,1
+850,35O6H0UNLSECEIQO28R4H7J0YVXJ55-1,"Karena bola bisbol itu memecahkan kaca depan Mary tetapi sama sekali meleset dari mobil Lindsey, _ tidak bisa percaya nasib buruknya.",Mary,Lindsey,1
+851,379OL9DBSUS04JM6BWHOV8RYQNBY9N-1,George mengerjakan jalan masuk beton sebelum mengerjakan fondasi beton karena mengerjakan _ lebih dasar.,jalan masuk,fondasi,1
+852,371Q3BEXDH73KZT3WQ7YYCHI0NYZSD-2,Liam membawa pulang tempat tidur baru untuk anjing peliharaannya. Namun dia harus mengambilnya kembali karena _nya terlalu besar.,tempat tidur,peliharaan,2
+853,38DCH97KHH01749MM0F7FIERZ43JQW-1,"Kayunya membusuk di teras, tetapi tetap kering di garasi, karena _ membiarkannya terkena elemen.",teras,garasi,1
+854,38DCH97KHH01749MM0F7FIERULOJQA-1,"Jessica sering mengalami mual parah, Victoria tidak karena itu _ tidak naik roller coaster.",Jessica,Victoria,1
+855,3CMV9YRYP5F5AWSGETJBQU35DSFLJ3-1,"Joel rentan terhadap sengatan matahari sehingga menghabiskan banyak waktu di dalam ruangan, kebalikan dari Lawrence. _ sering memasak untuk melewatkan hari-hari musim panas.",Joel,Lawrence,1
+856,363A7XIFV60X5816YR84K4YPG8JVAQ-2,"Pencuri itu bisa licik di sepatu bot, tetapi tidak di sandal, karena _ terbuat dari bahan unggul.",sandal,sepatu bot,2
+857,39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-1,Lebih banyak burung di kebun daripada di taman karena _nya memiliki buah segar.,kebun,taman,1
+858,3909MD9T2ZFW5ZXLUJTM63XLNUNEF1-1,"Di UGD, dokter merawat kebanyakan pasien dengan antibiotik, daripada bahan kimia keras bila memungkinkan. Hal ini karena _ lebih ringan.",antibiotik,bahan kimia,1
+859,3BCRDCM0OF8I2VVR9ADL2QLL2K26KN-2,Mesin mobil Lindsey punya lebih banyak masalah daripada punya Kayla karena _ selalu merawatnya.,Lindsey,Kayla,2
+860,3TLFH2L6Y9METO36WJ3AL63XCGGT2O-2,Eric berpikir pakaian itu terlihat sangat bagus tetapi Kevin tidak setuju. _ tidak membeli pakaian itu.,Eric,Kevin,2
+861,3511RHPADVC7EVCM20GK0N1OUWVRLL-1,"Jason unggul dalam pelajaran biola sementara Logan berjuang, karena _ memiliki bakat musik.",Jason,Logan,1
+862,35YHTYFL1G1D7AJ7P9IW67L7NNZFVD-1,Kelas satu tidak bisa menyelesaikan pembagian angka itu karena _nya terlalu besar.,pembagian,kelas,1
+863,3CMV9YRYP5F5AWSGETJBQU35D26JLC-1,"Mary duduk diam sementara Victoria mendengarkan dadanya. Diagnosisnya adalah demam berdarah, yang mengejutkan _ karena dia adalah orang rumahan.",Mary,Victoria,1
+864,371DNNCG440PF35VC0CBVXG0YG8T8R-2,Brian perlu menerapkan lotion lebih sering daripada Adam karena kulit _ yang berminyak alami.,Brian,Adam,2
+865,37Y5RYYI0RJT9TSVF6VDTPPFGJOXS1-2,"Langit berwarna coklat di atas pabrik, karena _ memberikan begitu banyak polusi sepanjang hari.",langit,pabrik,2
+866,37G6BXQPLQJTWONU8Z4GI21ZPGSEQQ-2,Erin lebih siap untuk situasi daripada Felicia sehingga _ perlu mencegah gangguan.,Erin,Felicia,2
+867,3BCRDCM0OF8I2VVR9ADL2QLL2K26KN-1,Mesin mobil Lindsey punya lebih banyak masalah daripada punya Kayla karena _ selalu mengabaikannya.,Lindsey,Kayla,1
+868,3CMIQF80GP44DYTMMFXIYCXU1CV6QO-1,"Katrina sedang diajari cara berbicara Bahasa Korea oleh Felicia, jadi _ kemungkinan besar lahir di AS.",Katrina,Felicia,1
+869,34F34TZU7WXKFL71KPP6J0GOEG12J8-2,Para pengganggu biasanya membiarkan Sarah tetapi mengganggu Maria karena _ sangat lemah secara fisik.,Sarah,Maria,2
+870,3UQ1LLR26CMU93PCKN6YXV0NO95AL7-2,"Tubuh James terasa panas, jadi dia meletakkan kompres di atasnya untuk mendinginkannya. Suhu _nya rendah.",tubuh,kompres,2
+871,3UZUVSO3P99H5YO9049ZTR528ADMEV-1,Anak laki-laki itu mendapat masalah karena mencuri cincin itu tetapi dia tidak menyentuh kalung itu karena _ itu sangat berharga.,cincin,kalung,1
+872,3ATYLI1PRVGDGHVDRLZ3IB709Y6JO9-1,"Kaki Nick berdarah dan Eric mengalami sakit ginjal, jadi _ mengalami pendarahan luar.",Nick,Eric,1
+873,39N6W9XWRDL0P4A754BYVRPD6MOGYF-1,"Ketika Ricky pergi ke latihan sepak bola, ia mematahkan pelindung tulang kering, meskipun sepatunya baik-baik saja, sehingga _nya dibuat lemah.",pelindung tulang kering,sepatu,1
+874,3JMNNNO3B126L570RO8L8QAWLVIW2C-1,Ben sedang mencari kasur baru dan menemukan pegas dan busa memori. Dia menyukai kasur _ karena dapat mengikuti bentuk.,busa memori,pegas,1
+875,3UYRNV2KIVD6EFZIZ22ZEWYG2818NG-1,Laura bersepeda jauh di depan Erin karena _ mengendarai cukup cepat di jalan.,Laura,Erin,1
+876,356ZPKYPUJVLW62DSLDLHYREXG7PY5-1,"William menyewa seorang pelatih bernama Samuel untuk membantu anjing barunya, tetapi _ merasa metode dominasinya tidak menarik.",William,Samuel,1
+877,39AYGO6AFFI4GCHNMPT12KEH8P3N6I-1,Leslie ingin cosplay dengan Samuel karena _ selalu bersenang-senang dengannya di sana.,Leslie,Samuel,1
+878,3L2OEKSTWBO0QE3W64BAVCWO74EY8W-1,"Ketika dia masih balita, saudara laki-laki saya selalu memetik jeruk dari salad buah dan hanya makan stroberi karena _nya asam.",jeruk,stroberi,1
+879,3VEI3XUCZTBCZ5QREQLR92YGSDDRPQ-1,James bisa melihat sisi lain ruangan melalui plat tidak seperti papan yang ada di sana sebelumnya. Pastinya _nya transparan.,plat,papan,1
+880,375VMB7D4LXQH9KIJU0NVGG0RYRDIU-1,"Dengan tidak ada yang bisa dilakukan anak-anak di lingkungan itu, ketika memilih untuk tempat bermain baru atau kedai minuman, Odette memilih _ yang sedang dibangun.",tempat bermain,kedai minuman,1
+881,3CIS7GGG67X0I6TI960LK1MWL9NUES-2,"Meskipun pacar baru Natalie tampak menarik, Christine keberatan, karena _ cenderung memiliki penilaian yang baik pada pasangan.",Natalie,Christine,2
+882,3UEBBGULPFMDUVU7KJ8RALJO9HMFUM-2,"Umpan yang saya gunakan jauh lebih baik daripada umpan teman saya, karena _nya rusak.",umpan,umpan,2
+883,391JB9X4ZY65X9HCCS82ZOUZ4R0KM1-1,Rose sedang mencari stuffer stocking yang bermanfaat sehingga dia memilih buku kecil daripada dompet karena _ itu agak mendidik.,buku,dompet,1
+884,3BA7SXOG1JOCZOS38B7GVIFIFHY8RT-1,"Nelson mengalahkan William untuk memimpin dalam drama sekolah, karena _ memiliki suara musik yang lebih baik.",Nelson,William,1
+885,3MQY1YVHS5YTRR8WGVOPDALJZHJ2B2-2,James membutuhkan lebih banyak terong jika dia ingin mengisi panci. Dia tidak tahu _nya akan sebesar itu.,terong,panci,2
+886,3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-2,Apakah Anda akan menyumbangkan sumbangan amal Anda ke gereja atau sekolah? Saya pikir saya akan memberikan milik saya ke _ karena mereka membutuhkan bangku baru.,sekolah,gereja,2
+887,385MDVINFETLLQ4FI7QDZ5KLBZWJW7-2,"Ketika mendiskusikan pensiun, William ingin pindah ke Florida dan Jeffrey tidak karena _ menyukai iklim dingin.",William,Jeffrey,2
+888,385MDVINFCD6R158Y9ED77WDIS1JWM-2,Katrina selalu bisa pergi minum dengan teman-teman tetapi tidak kayla karena _ masih di bawah umur.,Katrina,Kayla,2
+889,3B9XR6P1WG9TXN64NGUHCR701UHJBM-2,"Maria berjuang dengan ujiannya dan meminta bantuan dari Rebecca, karena _ sudah sukses.",Maria,Rebecca,2
+890,39RRBHZ0AUZJCRA7QLC39Z1PUHCVZ9-1,"Menyenangkan bagi Monica untuk menjelajahi tempat-tempat baru tetapi Christine menghindarinya, karena _ ingin tahu tentang hal-hal baru.",Monica,Christine,1
+891,3MJ28H2Y1E6QFTHLILJ9P30M24D5OF-2,"Megan memeluk Laura saat mereka menangis, karena _ lebih emosional daripada dia.",Megan,Laura,2
+892,37VE3DA4YUFICSC7FIFW8G3DVUABHE-2,Eric suka belajar film tidak seperti Benjamin karena _ tidak menyukai seni.,Eric,Benjamin,2
+893,36U4VBVNQQRPRAYNVCKLJ8LF0ZOURI-2,Callie melanjutkan diet cair melalui tabung tetapi kesakitan karena _nya ketat.,tabung,diet,2
+894,3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-2,Matthew menawarkan untuk membantu menulis rencana kebugaran untuk Christopher karena badan _ tidak fit.,Matthew,Christopher,2
+895,35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-2,Mengosongkan kotak sampah adalah tugas yang menakutkan untuk Adam sementara Lawrence tidak keberatan melakukannya. _ tidak pernah meminta orang lain untuk menanganinya.,Adam,Lawrence,2
+896,3LN50BUKPXP1W7VE96OVNQPHMN1LPB-2,Jennifer mengatur dering telepon lebih lembut daripada Patricia karena _ sulit mendengar.,Jennifer,Patricia,2
+897,34KYK9TV2R6721QNQCRVCUAF9MHBSS-1,Juru masak di restoran menambahkan tomat dan potongan roti panggang ke dalam salad. _nya berwarna merah.,tomat,potongan roti panggang,1
+898,371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-1,"Ian tidak melihat tumor di kaki Brett, karena _ hanya melakukan pemeriksaan mata.",Ian,Brett,1
+899,3D0LPO3EADD3B6QCDL06SYMOM5COYB-2,Tina meminta para tamu untuk melepas sepatu mereka ketika memasuki rumah karena dia memiliki karpet baru. Dia mengatakan _ tidak bisa kotor.,sepatu,karpet,2
+900,3KL228NDMVK55ZLQ1PA7MJA283RKGS-2,"Helen penasaran bagaimana bola itu dapat memecahkan jendela, karena _nya keras.",bola,jendela,2
+901,37MQ8Z1JQEUAAA206PQ9TNVCRPFY2D-2,Logan tahu Ryan takut tikus di rumah sehingga _ pergi dan tinggal di kamar mereka.,Logan,Ryan,2
+902,3VADEH0UHCV96VRX9H9W7EF4LDJPSJ-2,Brian kelebihan berat badan tetapi Nick tidak kelebihan berat badan karena _ makan sedikit kalori.,Brian,Nick,2
+903,3J06WJ78HNI2375XPON0OTOTBM2VV6-1,"Dokter memberi tahu Joel bahwa dia perlu berhenti merokok, sedangkan William tidak perlu, karena _ adalah perokok berat.",Joel,William,1
+904,3THR0FZ95R7JB7JDU6BGYQKRCGSOLG-2,Anak itu menentang saat makan malam sehingga menyembunyikan kacang di bawah serbet saat makan malam karena _nya lebar.,kacang,serbet,2
+905,36JW4WBR08YNJYNU4IDSJ4I75ANFH1-1,"Dia tidak akan mencelupkan donatnya ke dalam kopi, tetapi dia suka melakukannya dengan kukisnya, karena _nya pecah di dalam minuman.",donat,kukis,1
+906,3URJ6VVYUR1NDZCSOECZC9IGQZH4OX-1,Ada lebih banyak anggrek daripada bunga aster di taman bunga karena _ sedang musim subur.,anggrek,aster,1
+907,3UUSLRKAUNHTSP3M03WQ4RQSEUN7DR-1,Ninja menunggu sampai malam untuk menyerang daripada siang karena akan lebih sulit untuk melihatnya di _ hari.,malam,siang,1
+908,391JB9X4ZY65X9HCCS82ZOUZ4UJMKS-2,Monica sedang mewawancarai untuk posisi baru di perusahaan teknologi dan Carrie memberikan wawancara. _ ingin menyewa.,Monica,Carrie,2
+909,36MUZ9VAE8GE14IWNBAWA1I90HRDEJ-2,Perangkat lunak ini lebih sulit untuk dipasang di komputer daripada di laptop karena _ berjalan lebih cepat.,komputer,laptop,2
+910,3TD33TP5DNGIWU30TAH4JS4ICFQBAK-2,James tidak bisa memasukkan gelang baru ke pergelangan tangannya karena _ itu terlalu kecil.,pergelangan tangan,gelang,2
+911,3MG8450X2QO4FXI8IKGWEDL10Q3PU9-2,James tidak bisa mendengar respon yang diberikan oleh gadis itu tetapi dia bisa mendengar tangisannya karena _nya keras.,respon,tangisan,2
+912,3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-1,Dia merasa dia memiliki baking powder untuk kue tetapi meminjam soda kue dari tetangganya karena _ itu kosong.,soda,powder,1
+913,3BVS8WK9Q29X2CMY5Y9H0QS1PADIBN-2,Masalah di pertemuannya tidak dapat diidentifikasi secara akurat karena _nya sederhana.,masalah,pertemuan,2
+914,39O6Z4JLX2VU7WASP3OICELEMEIXVC-2,Kompleks apartemen menerima Jason sebagai penyewa dan bukan Matthew karena _ tidak memiliki pekerjaan tetap.,Jason,Matthew,2
+915,374UMBUHN5NRR6V8TCSGXJCJTQVTC6-1,"Saya menggunakan kapak untuk menebang pohon, tetapi harus mendapatkan kapak yang lebih besar karena _nya terlalu kecil.",kapak,pohon,1
+916,37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-1,Hunter ingin bunuh diri dan Robert merespons karena _ tidak pernah dalam situasi kritis ini.,Hunter,Robert,1
+917,3D1UCPY6GINZAB68HJIK5I0BYOY38G-1,John melemparkan pukulan ke jendela dan membuatnya pecah saat berkelahi dengan Jill. _nya kuat.,pukulan,jendela,1
+918,378G7J1SJNCDAAIN46FM2P7T6N3EWC-1,"Sarah menyalakan mobil dan kemudian pergi untuk menjemput Jessica, karena _ menyediakan tumpangan.",Sarah,Jessica,1
+919,3JYPJ2TAYKMFWFLINVLXSDKYQZIPFW-1,"Mereka menginginkan lebih banyak rasa kenyang di pesta pernikahan, jadi para perencana menggunakan lapisan gula daripada buah pada kue karena _ lebih mengenyangkan.",lapisan gula,buah,1
+920,3V0TR1NRVCGYBVIREV7HBEYC2KC4A4-2,"Jeffrey diharuskan mengikuti aturan yang ketat, tetapi aturan untuk Randy lebih lunak, yang membuat _ merasa lebih bebas.",Jeffrey,Randy,2
+921,37PGLWGSJVKYVFQSBBMAZTBQBBWKIU-2,"Joel membutuhkan William untuk mendapatkan lisensi kontraktor untuk perusahaan mereka, sehingga mereka membantu _ untuk mengisi dokumen.",Joel,William,2
+922,3BC9H1KCYUAWMQ07K9FGHUB106QYW0-1,Jessica tidak bisa menggunakan selang untuk mencuci mobilnya di jalan masuk karena _nya terlalu pendek.,selang,jalan masuk,1
+923,3TLFH2L6Y9METO36WJ3AL63XH3TT2G-1,"Dennis sedang pergi berlibur, sedangkan Nelson tinggal di rumah sehingga selada di lemari es _ busuk.",Dennis,Nelson,1
+924,37VHPF5VYC18TM3KQEHL6NGWAXZ8CK-2,Erin pingsan ketika ada darah yang terlihat sehingga ketika Lindsey berdarah _ menyembunyikannya.,Erin,Lindsey,2
+925,3TRB893CSLOW49DD2TXYACTOQFG7GX-1,Anak-anak lebih menikmati kartun daripada film karena _ itu lucu.,kartun,film,1
+926,3BAKUKE49HAUOO8I9QY1G8SAWRY1RZ-2,"Neil online untuk menerima penasbihannya sebelum Steven menikah, karena _ membutuhkan seorang penghulu.",Neil,Steven,2
+927,3UUSLRKAUL1EY04FG5KQCT2JPVA7D6-2,"Saya lebih suka mengirim email daripada mengirim surat, karena _nya tidak nyaman.",email,surat,2
+928,3AC6MFV69KGEUQFNLWVZUYAGRDIHZD-2,Kambing itu mencoba menyeberangi air tetapi dia hanya bisa melewati danau dan bukan sungai karena _ itu terlalu dalam.,danau,sungai,2
+929,3LN3BXKGC0TW0ZF7Q3TAAU4XVC5WG9-2,"Mark ingin membuang jaket kulitnya di tempat sampah, tetapi _ itu terlalu kecil.",jaket kulit,tempat sampah,2
+930,3UEBBGULPFMDUVU7KJ8RALJO44HUF1-2,Cynthia memutuskan untuk mempekerjakan Sarah untuk membuat logo baru untuk perusahaannya karena _ adalah seorang desainer profesional.,Cynthia,Sarah,2
+931,3BAWBGQGYNDFM638ROWKADWZE1QV7D-2,Saya merasa lebih negatif ketika saya tinggal di motel daripada ketika saya tinggal di hotel karena _nya terang.,motel,hotel,2
+932,3J9L0X0VDH0WFER6WVZ0AB6JH49W92-1,"Elena membenci bau sabun itu dibandingkan dengan Laura, karena _ memiliki kenangan buruk dari bau itu.",Elena,Laura,1
+933,36JW4WBR06I8P9ONKK1SR6UYAUBHFF-2,"Proyek ini berarti Emily berkolaborasi dengan Victoria, yang tidak bersemangat. _ benci bekerja dengan orang lain.",Emily,Victoria,2
+934,3CIS7GGG67X0I6TI960LK1MWL5FUEC-2,Anak-anak senang meninggalkan sekolah untuk pergi ke pesta karena _ itu membosankan.,pesta,sekolah,2
+935,36BTXXLZ2XMQAC48G6T364NM2V3R4G-1,"Kami tidak suka konsultan karena dia merekomendasikan mobil daripada kereta, karena _ itu mahal.",mobil,kereta,1
+936,3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-2,"Robert membuat pilihan untuk membeli rumah Neil, sehingga _ memiliki lebih banyak uang di bank setelahnya.",Robert,Neil,2
+937,35O6H0UNLSECEIQO28R4H7J0YVXJ55-2,"Karena bola bisbol itu memecahkan kaca depan Mary tetapi sama sekali meleset dari mobil Lindsey, _ tidak bisa percaya keberuntungannya.",Mary,Lindsey,2
+938,3VIVIU06FKAEREROCPNQM8FM769MIN-2,Monica adalah seorang pegulat profesional tetapi Cynthia bukan karena _ lalai pergi ke gym.,Monica,Cynthia,2
+939,37SOB9Z0SSVFVTRKRAFOIPY8T27L3C-1,"Sementara keluarga Thrifty berada di toko kelontong, mereka membeli sabun, bukan sampo karena _ dibutuhkan.",sabun,sampo,1
+940,3AFT28WXLF02RHC0P523EC4R7OLOI6-1,Iklim California lebih kondusif untuk menanam jeruk dibandingkan wortel karena _ membutuhkan sinar matahari.,jeruk,wortel,1
+941,3KTCJ4SCVGZ3R8VQ4I2KU9Y0VMMM1O-1,"Dia mengoleskan mustard di roti isi, tetapi tidak di kentang goreng, karena dia pikir _ yang disajikan hambar.",roti isi,kentang goreng,1
+942,3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-2,Benjamin memiliki selera humor yang lebih remaja daripada Donald sehingga _ membenci bantal whoopie.,Benjamin,Donald,2
+943,3TZ0XG8CBUI6VOWHEU7U4XFO9TM98X-1,Celana itu diiris dengan pisau dan kemudian dengan pisau cukur. _ digunakan terlebih dahulu.,pisau,pisau cukur,1
+944,3IZPORCT1HNKMOS3VDDM0TWP62QRH4-1,Carrie tidak mau menjual bisnisnya kepada Cynthia karena menurut _ harganya terlalu rendah.,Carrie,Cynthia,1
+945,3LVTFB9DE7W6ARISYS64A3AJV6LQGT-1,"Berbeda dengan Amy yang pemalu, Monica adalah seorang ekstrovert, jadi _ takut menghadiri pesta besar.",Amy,Monica,1
+946,3M67TQBQQHMKECPWBSR80OLJU4MA97-1,Kucing itu lebih menyukai Kayla daripada Laura karena _ sering memberikan susu hangat kepada kucing itu.,Kayla,Laura,1
+947,3A9LA2FRWUS4JKEF4CJEPBID751HXO-2,Neil memiliki burung sebagai hewan peliharaan dan Michael memilih kuda karena _ menyukai hewan yang bisa berlari kencang.,Neil,Michael,2
+948,3JU8CV4BRNQ92SYBMY4NF7TBHVCPO8-2,Bendera hampir tidak bisa berkibar saat dikibarkan tertiup angin karena _nya bertiup pelan.,bendera,angin,2
+949,3VI0PC2ZA0YEB1028PE49KFFKM0XO6-2,"Sendi lutut saya kurang terluka daripada sendi pergelangan kaki saya, jadi saya mencoba untuk tidak terlalu menekan _ jika saya bisa membantu.",sendi lutut,sendi pergelangan kaki,2
+950,34XASH8KLS0L2PDZ9IPAN347O6TPMF-2,Natalie mengalami masalah dengan semut dan membenci seragga lalu menelpon Elena untuk membantunya karena _ tidak takut.,Natalie,Elena,2
+951,3CIS7GGG67X0I6TI960LK1MWL9NUES-1,"Meskipun pacar baru Natalie tampak menarik, Christine keberatan, karena _ cenderung memiliki penilaian yang buruk pada pasangan.",Natalie,Christine,1
+952,33TGB4G0LRVUOT5A46033UL1I22TXM-1,"Daphne mendapatkan jubah dan bodysuit untuk kostum Ravennya, dan dia pikir _ itu membuatnya tampak misterius.",jubah,bodysuit,1
+953,37J05LC5AXH7IV5HHE9NFJ7SGPUJD7-2,"Wortel dipilih untuk digunakan bersama daging di piring, bukan brokoli. _ tidak populer.",wortel,brokoli,2
+954,39TX062QX1MAVN895TICTJTVVXM3XO-1,"Dennis memiliki tingkat testosteron yang jauh lebih tinggi daripada Christopher, jadi _ tidak perlu khawatir bisa memiliki anak.",Dennis,Christopher,1
+955,3V8JSVE8YYO25QEGZ9LAVO41OP9EYT-1,"Betty menyerahkan laporan mereka tepat waktu pada hari Jumat, sementara Mary meminta perpanjangan dua hari, jadi _ menghabiskan akhir pekan dengan bersantai.",Betty,Mary,1
+956,3BFNCI9LYM4VAX1P7EQERI4GNHY37P-2,"Setelah mencoba menanam bunga anggrek, ia memutuskan untuk kembali ke hobi menanam bunga marigold, karena menurutnya _ itu rumit.",marigold,anggrek,2
+957,39XCQ6V3KY20QNBHIPXF83EVCK8566-1,"Belajar menghadapi rintangan Anda adalah pelajaran yang dipelajari Victoria dalam hidup lebih awal dari Patricia, _ adalah yang tertua dari keduanya.",Victoria,Patricia,1
+958,3KTCJ4SCVGZ3R8VQ4I2KU9Y0VJ41MF-2,"Guru itu tidak tahu luka apa yang paling parah antara patah tangan atau kaki. Dia mengatakan bahwa dengan _, Anda tidak bisa berjalan.",tangan,kaki,2
+959,3MIVREZQVJCBCDEBOJRJ8V2D3G5QKO-2,Julie merasa terlalu sulit untuk menggunakan perangkap daripada racun untuk mengatasi serangan tikusnya karena _nya lebih efektif.,jebakan,racun,2
+960,3TFJJUELSJ3C1W02UVKKOUR1H8TC25-2,Laura memiliki waktu yang lebih mudah daripada Lindsey untuk pindah dari rumah mereka karena _ memiliki rumah yang lebih besar.,Laura,Lindsey,2
+961,3D4BBDG7ZJA1MEWLYVYP74WTNL2C3N-2,"Jennifer membutuhkan hasil bumi, jadi dia pergi ke pasar dan dia memilih brokoli daripada selada karena _nya terlihat basi.",brokoli,selada,2
+962,3TRB893CSJ8HAKE6IVLYIE5G2OHG7I-1,"Kayla membeli sesuatu dari Lindsey di toko, karena _ ingin membelinya sehingga dibawa.",Kayla,Lindsey,1
+963,3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-1,Tanya tidak bisa meregang sejauh Jennifer karena _ memiliki tubuh yang sangat kaku.,Tanya,Jennifer,1
+964,38VTL6WC4CRH3WKU8647JSMW4GFY5X-1,"Asma dari Maria semakin parah, sementara Lindsey semakin baik, karena _ minum obat yang kurang efektif.",Maria,Lindsey,1
+965,3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-1,"Kyle tidak memakai penghangat kaki ke tempat tidur, sementara Logan hampir selalu melakukannya. _ lebih cenderung tinggal di iklim yang lebih hangat.",Kyle,Logan,1
+966,3AC6MFV69KGEUQFNLWVZUYAGMZ5HZ3-2,"Samuel sangat suka bermain rollerblade, tetapi Brett lebih menyukai pemain skateboard, jadi _ tidak menyukai arena skating.",Samuel,Brett,2
+967,37SDSEDIN90O6JTMAHS1PRX563681Y-2,Megan harus membeli bantalan pelatihan anak anjing tetapi tidak untuk Katrina karena _ memiliki anjing luar ruangan.,Megan,Katrina,2
+968,3MVY4USGB6LHP94TWMJCYHESZXKSI2-2,Cynthia lebih suka pemanggang gas sementara Monica tidak karena _ menyukai rasa berasap dari panggangan arang.,Cynthia,Monica,2
+969,3LN50BUKPV9M2IW7P8CVVS19TJBLP1-2,"Victoria suka berbelanja pakaian tetapi Felicia tidak, jadi _ pergi ke taman untuk hari itu.",Victoria,Felicia,2
+970,3M67TQBQQJ2Z81O3VQ38SM9RNBIA9T-1,"Samuel selalu memakai kondom saat bertemu kekasih baru, tetapi Craig jarang sekali memakainya. _ tidak pernah tertular penyakit kelamin dari seorang gadis kotor.",Samuel,Craig,1
+971,3V7ICJJAZCU3U5NJK97D6PIIK914BH-1,Mark sedang dalam latihan mengumpulkan bukti yang membuktikan bahwa perusahaannya terlibat dalam Diskriminasi Usia tetapi _nya tidak cukup.,bukti,latihan,1
+972,3K8CQCU3KEZ2ARWTD7650EDUR71WNO-1,"Makan permen adalah masalah besar bagi Carrie tetapi tidak untuk Rebecca, itu sebabnya _ memiliki lingkar pinggang yang besar.",Carrie,Rebecca,1
+973,36MUZ9VAE8GE14IWNBAWA1I90HRDEJ-1,Perangkat lunak ini lebih sulit untuk dipasang di komputer daripada di laptop karena _ berjalan lebih lambat.,komputer,laptop,1
+974,3CZH926SICCM7J0WA2X3FZ0UTPH4E7-1,Randy memasak mie untuk sebuah resep dan Michael tidak karena _ sedang membuat lasagna.,Randy,Michael,1
+975,3MDWE879UJG4RBTV1434NXTY7229B8-1,"Ketika datang ke riasan mata, dia meluangkan waktu dengan eyeliner dan tergesa-gesa menggunakan maskara sehingga _nya tidak rapi.",maskara,eyeliner,1
+976,3D42WVSDHA995TDJEIHG54D9TU5FYD-2,"Untuk menggunakan mesin cuci dan pengering untuk cucian, Steve memisahkan cucian kotor dan basah, lalu dia mengisi _ dengan cucian basah.",mesin cuci,pengering,2
+977,37G6BXQPLQJTWONU8Z4GI21ZPGSEQQ-1,Erin lebih siap untuk situasi daripada Felicia sehingga _ tidak harus mencegah gangguan.,Erin,Felicia,1
+978,3UZUVSO3P7T2B9P2G6XZ1THUFBBEMB-2,"Samantha umumnya lebih cepat dalam berlari daripada Jessica, jadi mengejutkan ketika _ memenangkan perlombaan dengan selisih yang besar.",Samantha,Jessica,2
+979,34D9ZRXCYT8HDGK24W3Z9HEHFJ5SAO-1,"Jessica selesai memanggang ham pikniknya sebelum Jennifer, karena _ menggunakan resep glasir ham yang mudah.",Jessica,Jennifer,1
+980,3LN50BUKPXP1W7VE96OVNQPHMPWLPA-2,Guru itu senang memiliki Patricia di kelas mereka tetapi berharap Betty akan dipindahkan karena _ membangkang.,Patricia,Betty,2
+981,391JB9X4ZY65X9HCCS82ZOUZ4UJMKS-1,Monica sedang mewawancarai untuk posisi baru di perusahaan teknologi dan Carrie memberikan wawancara. _ ingin dipekerjakan.,Monica,Carrie,1
+982,34XASH8KLS0L2PDZ9IPAN346MQEMPX-2,Lingkaran yang digambar di sekitar huruf tidak menutupi seluruh huruf karena _nya terlalu banyak.,lingkaran,huruf,2
+983,36AZSFEYZ4YNUT7RK7W0NHUM3BUBVH-2,"Seniman tato itu sedang mempersiapkan tempat kerjanya untuk Craig, bukan Eric, karena _ bokek.",Craig,Eric,2
+984,3ACRLU860NC6SIL5PH7QND603EIEB1-1,"Saat membuka tentang gebetan mereka, Kenneth menertawakan Jeffrey karena _ ingat siapa gebetan mereka.",Kenneth,Jeffrey,1
+985,3IYI9285WSYXD3Z3HIECVDPAVP2CJK-2,"Kami mengerjakan bagian dalam rumah alih-alih mengerjakan bagian dalam gudang, karena _ itu tidak layak huni.",rumah,gudang,2
+986,34F34TZU7WXKFL71KPP6J0GOJZ2J2X-1,"Pasangan itu meminum anggur dari gelas bukannya cangkir, karena _nya kotor.",cangkir,gelas,1
+987,375VSR8FVW7RJKTQH17T82CMEOIRZQ-1,Ben harus berhenti mengemudi mobil atau sepeda motor. Dia memilih untuk menghentikan _ karena itu berisiko.,sepeda motor,mobil,1
+988,3909MD9T2ZFW5ZXLUJTM63XLNUNEF1-2,"Di UGD, dokter merawat kebanyakan pasien dengan antibiotik, daripada bahan kimia keras bila memungkinkan. Hal ini karena _nya lebih beracun.",antibiotik,bahan kimia,2
+989,3MQKOF1EE428I44N8B42W7P978PWDL-2,"Materi tes kurang penting dibandingkan dokumen untuk wawancara, karena _nya sangat sulit.",materi,dokumen,2
+990,3TL87MO8CO3P5U6KV3SQBWBELE1LFS-1,Sepeda baru yang kami beli lebih cepat dari skuter kami karena _ itu terbuat dari logam ringan.,sepeda,skuter,1
+991,3B6F54KMR2A6P38VOFY66IX6ND11SG-1,"Brian memiliki banyak koleksi koin yang sangat dikagumi Kevin, jadi _ menawarkannya beberapa duplikat.",Brian,Kevin,1
+992,3ABAOCJ4RAI621EE9V4ZN8UGRD1QMB-1,"Pada hari binatu, Mary memiliki banyak pakaian putih dan banyak warna. Dia mengatur suhu ke panas untuk kulit _.",putih,warna,1
+993,3VI0PC2ZAYIZHC1VOR24HMR6V10OXH-2,Pers mencari berita tentang selebritas atau hukum. Mereka merasa berita _ lebih membosankan.,selebritas,hukum,2
+994,3B623HUYJ4OO03SGN07LLSKEW2M8SJ-1,Di musim dingin Angela selalu makan sup tidak seperti Rachel karena _ tinggal di daerah yang dingin.,Angela,Rachel,1
+995,3AQN9REUTHUC79ZNNCMQH4APJPMDYH-2,Ibuku membuat taco hari ini dan burrito kemarin untuk makan siang jadi _nya lebih tua.,taco,burrito,2
+996,3MDWE879UJG4RBTV1434NXTX5R0B9I-2,"Setelah Logan tertular cacar air dari Joseph, _ menghabiskan hari itu dengan mengirim pesan bagus tentangnya.",Logan,Joseph,2
+997,3K3G488TR4M8UUT8HWND66JU5RA5QH-2,Badut itu memakai bunga di saku bukannya pena karena _ lebih kusam.,bunga,pena,2
+998,3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-1,"Awan menimbulkan ketakutan besar pada orang-orang, sementara langit cerah menenangkan mereka, karena _ begitu memberikan firasat buruk.",awan,langit,1
+999,34HEO7RUG6SQICLI59RUR9LD56QRAA-1,"Saya pergi ke salon penggelapan warna kulit untuk berjemur, daripada menggunakan sinar matahari, karena di _ itu lebih cepat dan saya sibuk.",salon,sinar matahari,1
+1000,3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-2,Konselor memperlakukan anak yang mengalami pelecehan dengan memberinya boneka bukan selimut karena _ itu membosankan.,boneka,selimut,2
+1001,3M47JKRKCZFY7UTQ0LGICLCU76968D-2,Maria bertanya kepada Megan apakah dia mau membantu membersihkan garasi tetapi _ tidak peduli jika pekerjaan di sekitar rumah selesai.,Maria,Megan,2
+1002,3KA7IJSNW63AP9AVYVN1HP54M59BPH-2,"Jennifer butuh berhari-hari untuk menyelesaikan proyeknya, sementara Elena selesai hanya dalam beberapa jam, hai ini tidak biasa karena _ biasanya yang lebih lambat.",Jennifer,Elena,2
+1003,3M4KL7H8KX1GWU951073XBPMTC661K-1,"Tanya sangat marah pada Mary dan berusaha mengabaikannya, karena _ terluka.",Tanya,Mary,1
+1004,3C8QQOM6JRF9FL8AWBYBETO62IMLI1-1,Tidak ada yang bisa menikmati ceritanya dan kami mulai mendengarkan musik. _nya membosankan.,cerita,musik,1
+1005,3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-1,Michael meminta bantuan Brett untuk memindahkan meja. _ tidak akan mampu melakukannya sendiri.,Michael,Brett,1
+1006,37SDSEDINBG308STUF41HPLE04K18M-2,Susan mengganti jalan paginya menjadi sore hari ketika dia ingat dia bebas di _ hari sepanjang minggu.,pagi,sore,2
+1007,3N2YPY1GI8C0VLIIEWAQGNOFZH8EVF-2,"Makanan anjing lebih banyak daripada minumannya, maka James memutuskan untuk menambahkan lebih banyak minuman karena _nya lebih ringan.",makanan,minuman,2
+1008,3TC2K6WK9IGAPTAPDJ4FM8VIR2Z82S-2,"Saya menuangkan air dari cangkir ke pot untuk membuat bunga tumbuh, dan saat saya menuangkan, _ menjadi lebih berat.",cangkir,pot,2
+1009,356ZPKYPUJVLW62DSLDLHYRDV40YPF-1,"Karena Donald menyukai gulungan kayu manis sedangkan Neil sangat menyukainya, _ makan gulungan kayu manis untuk sarapan sesekali.",Donald,Neil,1
+1010,3UQVX1UPFUVS745MIFR0TTP19CM02F-2,John jatuh saat berjalan di trotoar dan memutuskan untuk mengambil halaman rumput sebagai gantinya. _nya kering.,trotoar,halaman rumput,2
+1011,37AQKJ12TXM8DNXJFYN6MTCNC09TTA-2,"Craig mengajukan diri untuk membantu siswa disleksia di sekolah sementara Joel menghindari mereka, karena _ kesulitan membaca.",Craig,Joel,2
+1012,3LOJFQ4BOZTHN4A6JXLZ8WVEKCXKDG-1,James selesai mencuci dengan spons dan harus memasukkannya ke dalam kotaknya karena _snya besar.,spon,kotak,1
+1013,3D1UCPY6GINZAB68HJIK5I0AXUH388-2,Sheila tidak memeriksa suhu setrika rambutnya sebelum meluruskan rambut. _nya rusak.,setrika,rambut,2
+1014,3JUDR1D0D6P118BEFF9FG1SAXQF2QK-2,Pria itu mencoba menggunakan remote untuk menyalakan televisi tetapi _ itu terlalu tua.,remote,televisi,2
+1015,3VGET1QSZ0XD7646X0PG4HR4W9E7W9-2,"statistik menunjukkan banyak perempuan dibandingkan dengan laki-laki yang dilahirkan setiap hari, _ sedikit.",perempuan,laki-laki,2
+1016,3D5G8J4N5A2NQF18KTNLNB08E0YTVY-1,Michael memiliki kehidupan yang begitu mudah dibandingkan dengan Steven karena _ berasal dari keluarga kaya.,Michael,Steven,1
+1017,3B9J25CZ27R56VH0OAZQFC45F2ESCA-2,Megan mengatakan akan membebaskan keluar tanpa riasan seperti yang dilakukan Elena. _ tidak pernah memakai riasan saat meninggalkan rumah.,Megan,Elena,2
+1018,374UMBUHN736LVUFDA4GPH0RHH8TC8-1,Leslie secara keseluruhan lebih modis dari Derrick tetapi _ membeli rok daripada membuatnya terlihat lusuh.,Leslie,Derrick,1
+1019,3IYI9285WUEC7SYA1GQCNBDJKKNJCC-2,Justin sangat pandai memainkan musik pada gitar tidak seperti Craig karena _ sangat sporty.,Justin,Craig,2
+1020,3BFF0DJK8ZQMSCJBAWUG4M4A5XQTSS-2,"Si juru masak dapat dengan aman menyentuh pancinya, tetapi harus menunggu wajannya, karena _nya panas.",panci,wajan,2
+1021,36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-1,"Dia pikir dia punya waktu untuk mengambil rute yang indah ke toko, tetapi _ itu sedang dibangun.",rute,toko,1
+1022,3C8QQOM6JPZULW93CDMBMV0XCLGLIQ-1,Perahu itu dilukis oleh Victoria sebelum Natalie membelinya karena _ menjualnya.,Victoria,Natalie,1
+1023,3C8QQOM6JRF9FL8AWBYBETO507TILF-2,Kemungkinan besar orang tersebut akan selamat dari jatuh ketimbang serangan jantung karena _ adalah hal biasa.,serangan jantung,jatuh,2
+1024,371QPA24C2M743LADF3WGNTSPW9T1R-1,"Christopher adalah ahli perhiasan pemula dibandingkan dengan keahlian Matthew, sehingga _ adalah pedagang ditipu oleh safir palsu.",Christopher,Matthew,1
+1025,3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-2,"Sushinya membusuk di atas meja pajangan kecuali dimasukkan ke dalam pendingin, karena _ melindunginya dari kontaminasi. ",meja pajangan,pendingin,2
+1026,3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-2,Dennis memberikan palunya kepada Robert agar dia bisa memalu paku. _ tidak punya palu.,Dennis,Robert,2
+1027,3BJKPTD2QCAVX8KRB9IBMEB5TPYTR8-1,"Wanita itu mencoba menggunakan losion untuk melembabkan kulitnya, tetapi _nya terlalu kasar.",kulit,losion,1
+1028,3A520CCNWPEG3XFK31JUK0A3GCWEAH-1,John memberikan sedikit tekanan pada jerawat tetapi tidak pecah. Sepertinya _ itu keras.,jerawat,tekanan,1
+1029,3CRWSLD91MI3HP1YUICVY3ZHE1HOMH-1,Leslie bisa melompat ke atas tembok sambil meninggalkan Brian karena _ tinggi.,Leslie,Brian,1
+1030,3MXX6RQ9EXJ5YZOT3EPE19N60ZTP45-1,Saya menolak untuk berhenti memakai topi lama saya meskipun ada lubang di dalamnya karena _ itu memberinya karakter.,lubang,topi,1
+1031,3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-2,Bola sepak itu terbang lebih tinggi daripada bola basket saat melayang di udara. _ lebih berat.,bola sepak,bola basket,2
+1032,386T3MLZLP93TJ7BYW013K24WNM80L-1,"John berpikir tangannya patah, tetapi itu sebenarnya kakinya karena _nya bengkok.",kaki,tangan,1
+1033,3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-1,Ide itu diberikan kepada Steven untuk memikirkan dan bukan Ryan karena _ lebih kreatif.,Steven,Ryan,1
+1034,3D3B8GE892PR1GVY0B95QJAETLY9PO-1,Mudah bagi Joel tetapi tidak bagi Kevin untuk bersenang-senang dalam perjalanan berkemah karena _ belajar sejak dini bagaimana menikmati alam bebas.,Joel,Kevin,1
+1035,3A520CCNWNY198GDJ37US2MULV6EAD-1,"Hunter menyukai tulip dan Ryan tidak, jadi _ pergi untuk membeli beberapa dari toko.",Hunter,Ryan,1
+1036,36818Z1KV3BYZA0GUJQY9BIXZQ83AC-2,Suami saya dan saya suka akun bersama daripada akun terpisah karena kami tidak dapat mengakses _.,akun bersama,akun terpisah,2
+1037,38VTL6WC4CRH3WKU8647JSMW4GFY5X-2,"Asma dari Maria semakin parah, sementara Lindsey semakin baik, karena _ minum obat yang lebih efektif.",Maria,Lindsey,2
+1038,3J94SKDEKINZBWQWSC5TE9ONT9BD5S-1,Nick memiliki anjing yang lebih besar daripada Craig karena _ memberi makan anjing mereka lebih banyak.,Nick,Craig,1
+1039,36KM3FWE3TQZT52SOR8VPK68JXG70H-1,"Neil baru-baru ini terkena hepatitis A dan meminta saran Kevin, karena _ tidak pernah menderita hepatitis.",Neil,Kevin,1
+1040,3MWOYZD5WX29Z7MY6JRVBIOHIPEONZ-2,"Saat mengubah rutinitas makannya, Sally berhenti makan keripik dan menggantinya dengan buah. _nya lembut.",keripik,buah,2
+1041,3AC6MFV69KGEUQFNLWVZUYAGMZ5HZ3-1,"Samuel sangat suka bermain rollerblade, tetapi Brett lebih menyukai pemain skateboard, jadi _ menyukai arena skating.",Samuel,Brett,1
+1042,3MNJFORX8DIB353Z3GCJU7FGYP1F5X-1,"Donna jatuh cinta dengan dua parfum, kelapa dan bunga. Dia lebih suka _ untuk aroma tropis.",kelapa,bunga,1
+1043,37SDSEDINBG308STUF41HPLE02H81M-1,Mike pergi untuk menyajikan Michelle beberapa kacang dari panci ke piring tidak bisa menempatkan banyak karena _nya terlalu kecil.,piring,panci,1
+1044,3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-2,Nancy lebih suka makan popcorn daripada permen di bioskop karena _ itu manis.,popcorn,permen,2
+1045,36FQTHX3Z55IC94FKV2UWKQB5B63BX-2,Rumput Samuel tidak sebagus halaman Aaron. _ menyuruh para profesional lingkunga mengerjakan halamannya.,Samuel,Aaron,2
+1046,3V0TR1NRVA0JH6JKUXVHJGA3DS74A5-2,"Gadis itu membeli shake energi dari pasar untuk menekan nafsu makannya, namun _ makmur.",shake,pasar,2
+1047,3U18MJKL1W08QIPVGEI4GIU0T4SCN9-2,"Jason melakukan renovasi kamar mandi untuk Michael, kemudian rumahnya gagal diperiksa saat _ ingin menjual rumah tersebut.",Jason,Michael,2
+1048,379OL9DBSSCLAUNZRY5O3A3Q2669YO-2,Bill menuangkan kantong apel hijau ke dalam mangkuk putih sampai _ sepenuhnya penuh.,kantong,mangkuk,2
+1049,3B0MCRZMBT8RNSAC1YH247Y1R1MPP5-2,"Megan memberi tahu Rachel bahwa dia menyukai aroma lilin lebah, tetapi _ tidak suka mendengar detail aneh dari teman-temannya.",Megan,Rachel,2
+1050,37J05LC5AXH7IV5HHE9NFJ7SGQ7DJG-1,Adam menyalakan komputer untuk mengerjakan rencana mengejutkan Matthew karena _ adalah orang iseng.,Adam,Matthew,1
+1051,3BAWBGQGYLX0SH417QKKIF8QKL3V7F-1,"Sebelum bergabung dengan militer, Sarah memberi tahu Kayla tentang apa yang diharapkan sebelum ditempatkan sehingga _ tidak merasa bersalah.",Sarah,Kayla,1
+1052,34XASH8KLS0L2PDZ9IPAN347O6TPMF-1,Natalie mengalami masalah dengan semut dan membenci seragga lalu menelpon Elena untuk membantunya karena _ takut.,Natalie,Elena,1
+1053,39AYGO6AFFI4GCHNMPT12KEH8NL6NF-1,"The Theraband yang dibeli Jill untuk dirinya sendiri tidak akan muat di sekitar kakinya, _ itu terlalu sempit.",Theraband,kaki,1
+1054,3A9LA2FRWUS4JKEF4CJEPBIE82OXHO-2,Saya memelihara kelinci di dalam kandang daripada di dalam lumbung karena lebih mudah menemukannya di _.,lumbung,kandang,2
+1055,39N6W9XWRDL0P4A754BYVRPD6NGGY9-2,"Ketika Robert diminta oleh Christopher apa yang dia inginkan untuk ulang tahunnya, katanya uang. _ membiarkannya memilih hadiahnya sendiri.",Robert,Christopher,2
+1056,379OL9DBSUS04JM6BWHOV8RYQNBY9N-2,George mengerjakan jalan masuk beton sebelum mengerjakan fondasi beton karena mengerjakan _ lebih tingkat tinggi.,jalan masuk,fondasi,2
+1057,3MJ9GGZYO5KO8H34AHOTIZ1DHFLA2Y-1,Joseph membantu proyek atap sementara Neil memimpin sehingga _ melakukan pekerjaan fisik.,Joseph,Neil,1
+1058,36AZSFEYZ4YNUT7RK7W0NHUM3BUBVH-1,"Seniman tato itu sedang mempersiapkan tempat kerjanya untuk Craig, bukan Eric, karena _ punya uang.",Craig,Eric,1
+1059,3JVP4ZJHDR6WIPJO7ICSG9WHX9II06-1,"Dengan latihan, pemain skateboard dapat melompati rel tetapi tidak pada tanjakan karena _nya rendah.",rel,tanjakan,1
+1060,3D0LPO3EABXOHHR5TNO600YFX6WOYN-1,"Dia lebih suka membersihkan dengan sabun batangan daripada sabun cair, karena _ membuatnya merasa gatal.",sabun cair,sabun batangan,1
+1061,34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-1,Para karyawan mengadakan pesta dan minum begitu banyak alkohol sehingga mereka tidak bisa bekerja keesokan harinya. _nya ramai.,pesta,alkohol,1
+1062,34R3P23QHUFPUK9PU7NSNS46Y7SWHF-2,"Angela itu diurnal sementara Erin itu nokturnal, jadi _ lebih suka keluar larut malam.",Angela,Erin,2
+1063,3TLFH2L6Y9METO36WJ3AL63XH3TT2G-2,"Dennis sedang pergi berlibur, sedangkan Nelson tinggal di rumah sehingga selada di lemari es _ digunakan untuk membuat salad.",Dennis,Nelson,2
+1064,3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-1,"Robert membuat pilihan untuk membeli rumah Neil, jadi _ memiliki lebih sedikit uang di bank setelahnya.",Robert,Neil,1
+1065,3BCRDCM0OF8I2VVR9ADL2QLM3QAK6O-1,"Telinganya ditindik Sabtu lalu dengan pelubang, bukannya alat pemotong, karena _nya steril.",pelubang,alat pemotong,1
+1066,3CMV9YRYP5F5AWSGETJBQU35DCRJLH-1,"Ketika Matthew melangkah dalam kotoran anjing mengenakan sepatu barunya, Dennis tertawa, jadi ibu memberi _ tatapan kasihan.",Matthew,Dennis,1
+1067,3MYASTQBG9P3Y781W25W4I7MIZ9QDT-2,"Kakinya menjadi lebih kuat karena menarik kereta luncur daripada mendorong balok, meskipun _ lebih berat.",kereta luncur,balok,2
+1068,3AA88CN98RHKLF5XFT8DLH5E1UUKY0-2,Monica membutuhkan bantuan Erin untuk memahami manfaat karena _ telah memperhatikan rencana asuransi.,Monica,Erin,2
+1069,356ZPKYPUJVLW62DSLDLHYREWZSPYR-2,"Kami tidak menggunakan pengering tetapi memilih jemuran, karena _ tidak akan membuat pakaian kami menyusut.",pengering,jemuran,2
+1070,3UDTAB6HH6XODZREJQUFBI96LIB90G-1,Brian beristirahat di ranjang besar saat Kevin belajar karena _ sangat lelah bekerja.,Brian,Kevin,1
+1071,39AYGO6AFFI4GCHNMPT12KEH8P3N6I-2,Leslie ingin cosplay dengan Samuel karena dia selalu bersenang-senang dengan _ di sana.,Leslie,Samuel,2
+1072,3BJKPTD2QEQARXJYV7UBECZEIS5TRV-2,"Pria itu meninggalkan sepatunya di teras, tetapi membawa payungnya ke dalam, karena _nya kering.",sepatu,payung,2
+1073,3BFF0DJK8ZQMSCJBAWUG4M4A5XQTSS-1,"Si juru masak dapat dengan aman menyentuh pancinya, tetapi harus menunggu wajannya, karena _nya dingin.",panci,wajan,1
+1074,356ZPKYPUJVLW62DSLDLHYRDV40YPF-2,"Karena Donald menyukai gulungan kayu manis sedangkan Neil sangat menyukainya, _ makan gulungan kayu manis untuk sarapan sering.",Donald,Neil,2
+1075,36GJS3V78VOAUFF8J4AVL4APOZ6JG8-2,"Monica selalu mengejutkan Lindsey dengan hadiah, sehingga _ menuju ke toko untuk membeli hadiah kembali.",Monica,Lindsey,2
+1076,37VUR2VJ6C35CBI6BRK6JBHXRCJC1G-2,Jadi _ dimatikan kipas angin karena Christine kepanasan sementara Victoria kedinginan karena suatu alasan.,Christine,Victoria,2
+1077,3BAKUKE49HAUOO8I9QY1G8SAWRY1RZ-1,"Neil online untuk menerima penasbihannya sebelum Steven menikah, karena _ adala seorang penghulu.",Neil,Steven,1
+1078,3BC9H1KCYUAWMQ07K9FGHUB1VR4WYD-2,"Setelah mendengar tentang ulasan yang bagus, Jeffrey pergi ke Robert untuk membeli kue pernikahan karena _ adalah pembuat roti.",Jeffrey,Robert,2
+1079,3538U0YQ1H88PQGVPXOQFAHXL7X3FD-2,Jake memakan kue daripada pai karena ada lebih sedikit gula dalam _.,pai,kue,2
+1080,3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-1,"Selimut yang dibuat Margot akan memenuhi seluruh lemari, karena _nya besar.",selimut,lemari,1
+1081,35XW21VSVGCJFACZHPGPQX6KLGNSLO-2,Pengadilan negara suka menyimpan catatan penting mereka secara elektronik. _ sangat berhati-hati.,catatan,pengadilan,2
+1082,3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-1,Dennis memberikan palunya kepada Robert agar dia bisa memalu paku. _ punya banyak palu.,Dennis,Robert,1
+1083,3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-1,"Ketika Brenda melapisi panel kayunya dengan pernis, permukaan beton di bawahnya ternoda. Pernis melindungi dan mempercantik _.",kayu,beton,1
+1084,3KQC8JMJGE6S3M71KNCQIVTA2NX3H1-2,Sebagian besar tamu mereka menginginkan kopi dan bukan limun karena di luar dingin dan _nya panas.,limun,kopi,2
+1085,38Z7YZ2SB305CTPG4IU73HZRMQZIQ6-1,Perahu itu mencoba berlayar melintasi lautan daripada melewati gunung. _an adalah cara yang lebih cepat untuk bepergian.,laut,gunung,1
+1086,3D06DR5225HZLW8Q01VD5AR3ZJPAM3-2,"Patricia harus memberikan pidato publik, tetapi sangat gugup dibandingkan dengan Jennifer, karena _ percaya diri.",Patricia,Jennifer,2
+1087,3VGET1QSZ0XD7646X0PG4HR4W9E7W9-1,"statistik menunjukkan banyak perempuan dibandingkan dengan laki-laki yang dilahirkan setiap hari, _ banyak.",perempuan,laki-laki,1
+1088,3AA88CN98P15RQ6QVVWDTJH68O9KYR-1,Dennis merasa sangat bersalah tentang berbohong tetapi Brian tidak karena _ biasanya orang yang sangat jujur.,Dennis,Brian,1
+1089,3UUSLRKAUL1EY04FG5KQCT2JPT87D0-2,"Nenek Joan selalu menginginkan pelukan dan ciuman, tetapi Joan lebih suka _an karena dia takut kuman.",cium,peluk,2
+1090,3ATYLI1PRVGDGHVDRLZ3IB709Y6JO9-2,"Kaki Nick berdarah dan Eric mengalami sakit ginjal, jadi _ mengalami pendarahan dalam.",Nick,Eric,2
+1091,3CRWSLD91MI3HP1YUICVY3ZHE1HOMH-2,Leslie bisa melompat ke atas tembok sambil meninggalkan Brian karena _ pendek.,Leslie,Brian,2
+1092,3LN3BXKGC0TW0ZF7Q3TAAU4XVC5WG9-1,"Mark ingin membuang jaket kulitnya di tempat sampah, tetapi _ itu terlalu besar.",jaket kulit,tempat sampah,1
+1093,37NXA7GVSVKE1RSAVIXUTIEZ8DXLVV-2,Natalie meminta Elena untuk menempatkan buku di atas rak sejak _ adalah cukup tinggi untuk menjangkau.,Natalie,Elena,2
+1094,3D1UCPY6GINZAB68HJIK5I0AXUH388-1,Sheila tidak memeriksa suhu setrika rambutnya sebelum meluruskan rambut. _nya panas.,setrika,rambut,1
+1095,3B0MCRZMBRSCT3B5H052C9AT34KPP2-2,"Jacob berpikir untuk menghapus WhatsApp dari teleponnya, tetapi dia menemukan _ itu perlu diperbaiki.",WhatsApp,telepon,2
+1096,3JGHED38EF5WQ0YDWZJ4HC0TW3KY7N-1,Dia ingin pergi berbelanja karpet untuk patio karena _nya tampak kosong.,patio,karpet,1
+1097,3B623HUYJ4OO03SGN07LLSKEW2M8SJ-2,Di musim dingin Angela selalu makan sup tidak seperti Rachel karena _ tinggal di daerah yang panas.,Angela,Rachel,2
+1098,33W1NHWFYJZJTO5P5OOO0F1DRB3ZTD-2,"Wanita itu menutupi karpet di ruang tamu dengan permadani, karena _ itu bersih.",karpet,permadani,2
+1099,3TL87MO8CO3P5U6KV3SQBWBELE1LFS-2,Sepeda baru yang kami beli lebih cepat dari skuter kami karena _ itu terbuat dari logam berat.,sepeda,skuter,2
+1100,3KQC8JMJGE6S3M71KNCQIVTA2NX3H1-1,Sebagian besar tamu mereka menginginkan kopi dan bukan limun karena di luar dingin dan _nya dingin.,limun,kopi,1
+1101,3IYI9285WUEC7SYA1GQCNBDJKKNJCC-1,Justin sangat pandai memainkan musik pada gitar tidak seperti Craig karena _ sangat musikal.,Justin,Craig,1
+1102,35YHTYFL1G1D7AJ7P9IW67L7NROFVA-2,"Elena menulis kolom surat kabar untuk diedit Laura, karena _ lebih ahli menulis di koran.",Elena,Laura,2
+1103,3B9J25CZ27R56VH0OAZQFC45F0PSCH-2,Kenneth kehabisan tempat di arcade. Dia merampok William karena _ adalah orang yang terganggu.,Kenneth,William,2
+1104,3AFT28WXLF02RHC0P523EC4R7OLOI6-2,Iklim California lebih kondusif untuk menanam jeruk dibandingkan wortel karena _ membutuhkan naungan.,jeruk,wortel,2
+1105,3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-2,"Sarah mengajar kelas pidato Mary; ketika dia lulus ujian akhir, _ merayakannya dengan es krim.",Sarah,Mary,2
+1106,37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-2,Membagi permen itu lebih sulit daripada membagi apel karena tidak ada anak ingin _.,permen,apel,2
+1107,371DNNCG440PF35VC0CBVXG0YG8T8R-1,Brian perlu menerapkan losion lebih sering daripada Adam karena kulit _ yang kering secara alami.,Brian,Adam,1
+1108,37J05LC5AXH7IV5HHE9NFJ7SGPUJD7-1,"Wortel dipilih untuk digunakan bersama daging di piring, bukan brokoli. _ disukai.",wortel,brokoli,1
+1109,3K3G488TR26T05U1XYBDE8VMH5FQ5S-1,"Kevin jauh lebih fleksibel secara fisik daripada Nick, karena _ adalah atlet berpengalaman yang sedang dalam pelatihan.",Kevin,Nick,1
+1110,34KYK9TV2TMMWQPUAA3V4SYOYNOBSB-2,"Mereka membeli meja dapur bukan meja kopi, karena _ terlalu pendek.",meja dapur,meja kopi,2
+1111,35NNO802AVUK9WCOOQ2QZN4MCURNIS-2,"Christopher memberi pelajaran kepada Michael, karena _ memiliki begitu sedikit pengetahuan bermain piano dan pengalaman.",Christopher,Michael,2
+1112,371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-2,"Ian tidak melihat tumor di kaki Brett, karena _ hanya menjalani pemeriksaan mata.",Ian,Brett,2
+1113,3MJ9GGZYO349ES4XQJCTQ1D5TBVA2T-1,Jill menjatuhkan es krimnya ke celana pelautnya yang lebar dan memutuskan untuk mengenakan jeans. Dia harus memakai legging yang berbeda karena _ itu kotor.,celana pelaut,jeans,1
+1114,3BDORL6HKKBEBRIGPNNLX4B156LRCG-1,"Wanita itu membelokkan sepedanya untuk menghindari kereta bayi, tetapi menabrak dinding. _nya rusak.",sepeda,kereta bayi,1
+1115,3MJ28H2Y1E6QFTHLILJ9P30M24D5OF-1,"Megan memeluk Laura saat mereka menangis, karena _ lebih stabil daripada dia.",Megan,Laura,1
+1116,3L1EFR8WWT3FA364M8D0EPWARH39FH-1,"Tanya harus naik pesawat ke negara lain sedangkan Maria harus melalui jalan, jadi _ bepergian dengan pesawat.",Tanya,Maria,1
+1117,382GHPVPHU5YRAJ65GS7O6K6XIB34F-2,"Untuk meningkatkan kekuatan otaknya, Mitch memutuskan untuk mengambil lukisan daripada membaca, karena _ itu enak dilihat bagi matanya.",membaca,lukisan,2
+1118,3JHB4BPSFMNRVHVKKM0UIMOXSZZ9Q9-2,"Doris berharap dia pergi ke konser rock daripada pertunjukan seni, karena _ itu seru.",pertunjukan seni,konser rock,2
+1119,3L1EFR8WWT3FA364M8D0EPWAWUKF9Z-1,"Dia tahu bahwa matahari lebih dekat ke bumi daripada bintang lainnya, karena _ lebih terang.",matahari,bintang,1
+1120,3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-1,"Sushinya membusuk di atas meja pajangan kecuali dimasukkan ke dalam pendingin, karena _ membuatnya terkontaminasi.",meja pajangan,pendingin,1
+1121,3K3G488TR26T05U1XYBDE8VMCQOQ52-2,"Lindsey menjawab telepon dan menerima pesan itu, tetapi Amy tidak karena _ adalah petugas kebersihan.",Lindsey,Amy,2
+1122,3J06WJ78HPYHXW449MZ0GRC21HZVV4-2,Dia menyukai kulit pohon maple dan bukan pohon pinus karena _ itu halus.,pohon pinus,pohon maple,2
+1123,388CL5C1RL19JQXQQTGQEHNR2ADHLK-1,"Steven melakukan yang terbaik untuk membuat Logan kesal sepanjang waktu, karena _ adalah pembuat masalah.",Steven,Logan,1
+1124,3566S7OX5DHK65O30C0VBR1A0Y771G-1,"Saya membenci sistem yang berlaku di perguruan tinggi dibandingkan dengan program di sekolah, karena _nya menghebohkan.",sistem,program,1
+1125,3VMHWJRYHXUK5ON99MVEMQ61T06FXU-1,"Dia suka minum anggur daripada minuman keras, karena _ meninggalkan rasa yang tidak enak di mulutnya.",minuman keras,anggur,1
+1126,3C8QQOM6JRF9FL8AWBYBETO62IMLI1-2,Tidak ada yang bisa menikmati ceritanya dan kami mulai mendengarkan musik. _nya menarik.,cerita,musik,2
+1127,3MDWE879UH0PXMUOH6R4VZ5PH23B90-2,"Cynthia suka bersantai di geladak di pagi hari, sementara Kayla lebih suka bersantai di malam hari. _ memutuskan untuk menyaksikan matahari terbit untuk perubahan.",Cynthia,Kayla,2
+1128,3TZ0XG8CBUI6VOWHEU7U4XFO4BY893-2,Mary melemparkan tatapan kosong ke mana-mana seolah-olah melihat melalui Carrie sehingga _ memiliki ekspresi bingung di wajahnya..,Mary,Carrie,2
+1129,35JDMRECC6NHDOSNP1B4GML6DUYGET-2,Saya mencoba membersihkan pipa dengan sikat tetapi tidak bisa karena _nya terlalu besar.,pipa,sikat,2
+1130,3D7VY91L65V446DI6FV90LB9CEYBM8-2,"Jason masuk ke lubang keuangan yang dalam, tidak seperti Joel, karena _ mengelola kekayaan mereka dengan buruk.",Jason,Joel,1
+1131,391JB9X4Z0MKRYGJWQK2RMI8TUUMKD-1,James menyelesaikan buku itu selama penerbangan pulang dan dia menyukainya. _nya panjang.,penerbangan,buku,1
+1132,3MD8CKRQZZL1J5OMZF47K8OWQCURJX-2,"Dennis ingin mengajar biologi, tetapi Lawrence berpikir dia harus mengajar kimia sehingga _ mengalah dan membiarkannya mengajar biologi.",Dennis,Lawrence,2
+1133,3LG268AV3AK82E115C5GFQZCE6BERS-2,"Nasinya mengandung terlalu banyak garam, tetapi kentangnya diberi cukup garam, dan akibatnya _nya tidak enak dimakan.",kentang,nasi,2
+1134,3L1EFR8WWT3FA364M8D0EPWAWUKF9Z-2,"Dia tahu bahwa matahari lebih dekat ke bumi daripada bintang lainnya, karena _ itu lebih redup.",matahari,bintang,2
