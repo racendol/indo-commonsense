@@ -362,13 +362,14 @@ def tokenize_nli(df, tokenizer, max_len=128):
     return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(df['label'])
 
 
-def tokenize_g(df, tokenizer, data_type=None, max_len=128, input_type=None, model=None):
+def tokenize_g(df, tokenizer, data_type=None, max_len=128, input_type=None):
     texts = df['sentence'].tolist()
     options1 = df['option1'].tolist()
     options2 = df['option2'].tolist()
     
     input_id, input_mask, input_token = [],[],[]
-    left_texts1, left_texts2, right_texts, texts1, texts2 = [], [], [], [], []
+    left_texts1, left_texts2, right_texts, texts1, texts2, left_text_ruan, right_text1_ruan, right_text2_ruan = [], [], [], [], [], [], [], []
+    span_option1_list, span_option2_list = [], []
     options1_input, options2_input = [], []
     
     if data_type == None or data_type == 'winogrande':
@@ -397,16 +398,135 @@ def tokenize_g(df, tokenizer, data_type=None, max_len=128, input_type=None, mode
         texts1.append(text1)
         texts2.append(text2)
         
-    for i in range(len(left_texts1)):
-        inputs = tokenizer([texts1[i], texts2[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
-                                    return_attention_mask=True, return_token_type_ids=True,
-                                    max_length=max_len, return_tensors='tf')
-        input_id.append(inputs['input_ids'])
-        input_mask.append(inputs['attention_mask'])
-        input_token.append(inputs['token_type_ids'])
+        left_text_ruan = text[:sep_pos]
+        right_text_ruan = text[sep_pos:]
+
+        right_text1_ruan = right_text_ruan.replace('_', option1)
+        right_text2_ruan = right_text_ruan.replace('_', option2)
+        
+        left_text_ruan.append(left_text_ruan)
+        right_text1_ruan.append(right_text1_ruan)
+        right_text2_ruan.append(right_text2_ruan)
+        
+        span_option1 = [text.find(option1), text.find(option1) + len(option1)-1]
+        span_option2 = [text.find(option2), text.find(option2) + len(option2)-1]
+        
+        span_option1_list.append(span_option1)
+        span_option2_list.append(span_option2)
+    
+    if input_type is None or 'indograd':
+        for i in range(len(left_texts1)):
+            inputs = tokenizer([texts1[i], texts2[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
 
 
-    return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(tf.convert_to_tensor(label))
+        return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(tf.convert_to_tensor(label))
+    
+    elif input_type == 'nsp_sakaguchi':
+        for i in range(len(left_texts1)):
+            inputs = tokenizer([left_text1[i], left_text2[i]], [right_text[i], right_text[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+
+
+        return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(tf.convert_to_tensor(label))
+    
+    elif input_type == 'nsp_ruan':
+        for i in range(len(left_texts1)):
+            inputs = tokenizer([left_text_ruan[i], left_text_ruan[i]], [right_text1_ruan[i], right_text2_ruan[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+
+
+        return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(tf.convert_to_tensor(label))
+    
+    elif input_type == 'mlm':
+        pass
+    
+    elif input_type == 'span':
+        label_span = []
+        for i in range(len(texts)):
+            inputs = tokenizer([texts[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            
+            binary_mask1 = [False] * max_len
+            binary_mask2 = [False] * max_len
+
+            word_ids = inputs.word_ids()  # Map tokens to their respective word.
+            idx1 = []
+            idx2 = []
+            
+            text = texts[i]
+            span1 = span_option1_list[i]
+            span2 = [text.find('_'), text.find('_')]
+            
+            for j in range(len(word_ids)):
+                if word_ids[j] == span1[0] or word_ids[j] == span1[1]+1:
+                    idx1.append(j)
+
+                if word_ids[j] == span2[0] or word_ids[j] == span2[1]+1:
+                    idx2.append(j)
+
+            # input is beyond max_len
+            if len(idx2) == 0 or len(idx1) == 0:
+                continue
+
+            for k in range(idx1[0], idx1[-1]+1):
+                binary_mask1[k] = True
+
+            for k in range(idx2[0], idx2[-1]+1):
+                binary_mask2[k] = True
+
+            span_mask1.append(binary_mask1)
+            span_mask2.append(binary_mask2)
+            
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+            
+            if label[i] == 0:
+                label_span.append(1)
+            else:
+                label_span.append(0)
+            
+            span1 = span_option2_list[i]
+            idx1 = []
+            binary_mask1 = [False] * max_len
+            for j in range(len(word_ids)):
+                if word_ids[j] == span1[0] or word_ids[j] == span1[1]+1:
+                    idx1.append(j)
+
+            # input is beyond max_len
+            if len(idx1) == 0:
+                continue
+
+            for k in range(idx1[0], idx1[-1]+1):
+                binary_mask1[k] = True
+
+            span_mask1.append(binary_mask1)
+            span_mask2.append(binary_mask2)
+            
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+            
+            if label[i] == 1:
+                label_span.append(1)
+            else:
+                label_span.append(0)
+                
+        return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(span_mask1), np.array(span_mask2), np.array(tf.convert_to_tensor(label_span))
 
 
 def tokenize_coref(df, tokenizer, max_len=256):
