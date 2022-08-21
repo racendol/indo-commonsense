@@ -211,18 +211,26 @@ def preprocess_comve_b(comve_df):
 
 from transformers import TFAutoModelForMultipleChoice
 import tensorflow as tf
-def build_classifier_model_wsc_hf(path=None, seq_len=128, freeze=False, from_pt=False, n=2):
+def build_classifier_model_wsc_hf(path=None, seq_len=128, freeze=False, from_pt=False, n=2, loss_type=None):
     input_id1 = tf.keras.layers.Input(shape=(n, seq_len,), name='input_id1', dtype='int32')
     input_masks_id1 = tf.keras.layers.Input(shape=(n, seq_len,), name='mask_id1', dtype='int32')
     input_token_id1 = tf.keras.layers.Input(shape=(n, seq_len,), name='token_type_id1', dtype='int32')
 
     input1 = {'input_ids': input_id1, 'attention_mask':input_masks_id1, "token_type_ids":input_token_id1}
     
-    encoder = TFAutoModelForMultipleChoice.from_pretrained(path, from_pt=from_pt)
+    encoder = TFAutoModelForMultipleChoice.from_pretrained(path, from_pt=from_pt)    
     
     output = encoder(input1)
+    
+    if loss_type == None or loss_type == 'softmax':
+        output = output.logits
+    elif loss_type == 'no_softmax':
+        output = tf.keras.layers.sigmoid(output.logits)
+    elif loss_type == 'no_pairloss':
+        output = tf.keras.layers.sigmoid(output.logits)
+        output = tf.reshape(output, (-1, 4))
 
-    return tf.keras.Model(inputs=[input_id1, input_masks_id1, input_token_id1], outputs=output.logits)
+    return tf.keras.Model(inputs=[input_id1, input_masks_id1, input_token_id1], outputs=output)
 
 
 from transformers import TFAutoModel
@@ -453,7 +461,38 @@ def tokenize_g(df, tokenizer, data_type=None, max_len=128, input_type=None):
     elif input_type == 'mlm':
         pass
     
-    elif input_type == 'span':
+    elif input_type == 'p_sent':
+        label_binary = []
+        for i in range(len(left_texts1)):
+            inputs = tokenizer([texts1[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+            
+            if label[i] == 0:
+                label_binary.append(1)
+            else:
+                label_binary.append(0)
+            
+            
+            inputs = tokenizer([texts2[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
+                                        return_attention_mask=True, return_token_type_ids=True,
+                                        max_length=max_len, return_tensors='tf')
+            input_id.append(inputs['input_ids'])
+            input_mask.append(inputs['attention_mask'])
+            input_token.append(inputs['token_type_ids'])
+            
+            if label[i] == 1:
+                label_binary.append(1)
+            else:
+                label_binary.append(0)
+            
+        return np.array(input_id), np.array(input_mask), np.array(input_token), np.array(tf.convert_to_tensor(label_binary))
+            
+    
+    elif input_type == 'p_span':
         label_span = []
         for i in range(len(texts)):
             inputs = tokenizer([texts[i]], add_special_tokens=True, pad_to_max_length=True, truncation=True,
